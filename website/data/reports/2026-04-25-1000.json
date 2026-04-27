@@ -1,0 +1,251 @@
+{
+  "report_id": "2026-04-25-1000",
+  "generated_at": "2026-04-25T10:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "日本撕毀和平憲法禁忌，高加索舊仇敵正在悄悄做生意",
+    "summary": "本期跑了七個地區：日本、泰國、越南、中國、歐盟、高加索（亞美尼亞/亞塞拜然/喬治亞），加上全球經濟視角（IMF）。共 10 則內容，6 則重大新聞、1 份跨地區比較（日本武器禁令各地反應）、1 則冷門地區報導。\n\n本期三個最值得關注的重點：一、日本 4 月 21 日正式廢除二戰後武器出口禁令，這是二戰結束以來最重大的防衛政策轉向，北京強烈批評、西方拍手叫好，同一件事在各地的詮釋框架截然不同；二、IMF 四月版全球經濟展望下修今年成長至 3.1%，主因是中東持續衝突拉抬能源價格，最壞情況可跌至 2%；三、AI 監管本週同時出現歐盟晶片出口管制草案與中國倫理審查強制規定，兩件事放一起看才有意思。\n\n冷門地區：高加索三國——亞美尼亞-亞塞拜然和平協議落地後，兩國貿易繞過俄羅斯創新高，喬治亞成最大受益者。這塊地緣板塊的變化幾乎沒有進入台灣媒體視野。",
+    "regions_covered": ["日本", "泰國", "越南", "中國", "歐盟", "高加索（亞美尼亞/亞塞拜然/喬治亞）", "全球（IMF）"],
+    "topics_covered": ["經濟與貿易", "AI 與科技", "民主與威權治理", "民生"],
+    "highlights": [
+      "日本廢除二戰後武器出口禁令，北京怒斥「軍國主義復辟」，澳洲率先受益",
+      "IMF 下調全球成長至 3.1%，中東戰爭成 2026 年最大宏觀下行變數",
+      "亞美尼亞-亞塞拜然貿易量破紀錄，喬治亞成俄羅斯被繞過的高加索新樞紐"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "日本廢除二戰後武器出口禁令，開放向 17 國銷售軍備",
+      "title_original": "In major policy shift, Japan scraps limits on lethal arms exports",
+      "one_liner": "日本內閣批准解除七十年武器出口禁令，允許向 17 個友好國家出口軍艦、飛彈等致命性武器。",
+      "summary": "4 月 21 日，日本內閣正式批准全面鬆綁武器出口限制，廢除源自 1967 年的三原則禁令核心內容，允許出口戰鬥機、飛彈、軍艦等致命性武器至澳洲、菲律賓、印尼等 17 個友好國家。這是日本自二戰結束以來最重大的防衛政策轉向，距安倍晉三 2014 年「解禁集體自衛權」又邁出一大步。首相高市早苗政府強調此舉是因應中國、北韓威脅的「必要調整」，並稱將維持三項出口原則框架，不會出口至衝突中的國家。澳洲是最直接受益者，日本已同意為澳洲建造潛水艇與軍艦。批評者則指出，在未修改和平憲法的情況下實質突破憲法精神，規避了應有的民主辯論程序。",
+      "why_read": "這是二戰後日本自我設限的象徵性禁忌被正式打破——日本到底在成為什麼樣的國家，這件事比大多數台灣媒體給的篇幅更值得關注。",
+      "topic_tags": ["民主與威權治理", "經濟與貿易"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "The Japan Times",
+        "media_country": "日本",
+        "source_tier": "A",
+        "url": "https://www.japantimes.co.jp/news/2026/04/21/japan/politics/japan-lethal-weapons-export-rules-eased/",
+        "original_language": "en",
+        "fetched_at": "2026-04-25T09:10:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "泰國政府計劃緊急借款 5000 億泰銖，擬同步拉高債務上限至 GDP 75%",
+      "title_original": "Thailand considers emergency decree for 500 billion baht borrowing due to current global uncertainties",
+      "one_liner": "泰國政府援引憲法緊急條款，擬借款 5000 億泰銖約 140 億美元作為危機緩衝，理由是地緣政治與氣候衝擊雙重壓力。",
+      "summary": "4 月 20 日起，泰國政府多次向媒體說明計劃透過緊急行政命令借款最多 5000 億泰銖的方案，理由是面對地緣政治衝突、超級聖嬰現象衝擊農業、以及美國關稅帶來的出口不確定性，現有財政儲備不足應急。方案同時計劃將公共債務上限從現行 GDP 70% 提高至 75%，目前泰國公共債務約占 GDP 的 66%，仍有空間。反對黨及部分國內經濟學家對此計劃持保留態度，認為政府未充分說明資金具體用途，擔憂淪為施政填洞的工具。曼谷郵報社論評論稱此為「最後手段」，但時機耐人尋味——距下次選舉越來越近。",
+      "why_read": "泰國近年在美中博弈間走鋼索，這筆錢的最終流向將是觀察其在地緣博弈中實際站位的風向球。",
+      "topic_tags": ["經濟與貿易", "民生"],
+      "region": "泰國",
+      "importance": "major",
+      "source": {
+        "media_name": "Bangkok Post",
+        "media_country": "泰國",
+        "source_tier": "B",
+        "source_tier_note": "泰國主流英語報紙",
+        "url": "https://www.bangkokpost.com/thailand/politics/3240450/government-plans-to-borrow-500-billion-baht",
+        "original_language": "en",
+        "fetched_at": "2026-04-25T09:15:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "IMF 將 2026 全球成長下修至 3.1%，稱中東戰爭為年度最大宏觀變數",
+      "title_original": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+      "one_liner": "IMF 四月版全球展望下修今年成長至 3.1%，遠低於疫前均值；最壞情境下可跌至 2%，全球通膨面臨反彈風險。",
+      "summary": "IMF 於 4 月 14 日春季會議發布《世界經濟展望》，將 2026 年全球成長預測從此前的 3.4% 下調至 3.1%，副題為「戰爭陰影下的全球經濟」。基準情境假設中東衝突較短暫，能源價格上漲約 19%；若衝突擴大（惡化情境），成長可能跌至 2.5%，通膨升至 5.4%；最壞情況成長跌至 2%、通膨超過 6%。美國關稅政策也是下行風險之一——現行關稅平均稅率是 1993 年以來最大加稅幅度，相當於每個美國家庭平均增稅 1500 美元。IMF 強調，脆弱的新興市場和能源進口國受衝擊最深，全球通膨從近年下行趨勢反轉的風險已不容忽視。",
+      "why_read": "三種情境之間的成長差距高達 1.1 個百分點——這個分差幅度本身就說明了當前全球局勢的不確定性遠超近年常態。",
+      "topic_tags": ["經濟與貿易"],
+      "region": "全球（IMF）",
+      "importance": "major",
+      "source": {
+        "media_name": "International Monetary Fund",
+        "media_country": "美國（國際機構）",
+        "source_tier": "A",
+        "url": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+        "original_language": "en",
+        "fetched_at": "2026-04-25T09:20:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "越南 VietJet 租賃 10 架中國 COMAC C909 客機，分析師定性為「試探性開放」",
+      "title_original": "Asia Daily: April 22, 2026 — VietJet COMAC C909 lease signals Vietnam's selective China tech opening",
+      "one_liner": "越南廉航 VietJet 租賃 10 架中國商飛 C909，被視為越南選擇性引入中國技術的試探，整體供應鏈仍以西方為主。",
+      "summary": "越南 VietJet 航空宣布租賃 10 架中國商用飛機集團（COMAC）生產的 C909 客機，以紓解機隊短缺壓力，同時開拓新的對中航線。分析師指出，交易規模雖小但象徵意義顯著：越南正在航空、高鐵、5G 等領域有限度地為中國技術供應商開門，但整體供應鏈仍以西方夥伴為主。越南的策略被形容為「混合式供應商管理」——不全面倒向中國，也不完全排除。這與越南近年外交走鋼索的一貫模式相符：大國平衡、分散依賴。批評者則提醒，維修依賴中國供應鏈可能構成長期脆弱性，而非真正的供應鏈分散。",
+      "why_read": "越南過去兩年被視為「去中供應鏈」受益者，這個動作顯示「去中」並非全面切斷，而是選擇性重組——這個細節在台灣媒體的供應鏈報導中幾乎看不到。",
+      "topic_tags": ["經濟與貿易", "AI 與科技"],
+      "region": "越南",
+      "importance": "normal",
+      "source": {
+        "media_name": "The Asia Cable",
+        "media_country": "美國（亞洲評論媒體）",
+        "source_tier": "B",
+        "source_tier_note": "專注亞洲議題的英語評論媒體",
+        "url": "https://www.theasiacable.com/p/asia-daily-april-22-2026",
+        "original_language": "en",
+        "fetched_at": "2026-04-25T09:25:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "中國十部門聯合強制 AI 企業設立倫理審查委員會，與算法備案制度掛鉤",
+      "title_original": "China issues trial guideline on ethics review and service of artificial intelligence (AI)",
+      "one_liner": "中國網信辦等十部門聯合發布 AI 倫理審查試行規範，企業須建內部委員會，倫理評估結果直接影響算法備案資格。",
+      "summary": "2026 年 4 月，中國網信辦等十個部門聯合發布《人工智能倫理審查試行規範》，要求境內所有涉及 AI 研發、部署的主體建立內部倫理審查委員會，定期評估技術風險，並將倫理審查結果與此前已實施的算法備案制度對接——意味著未通過倫理審查的算法，可能面臨備案被撤銷的風險。該規範延續中國式 AI 治理路徑：政府主導框架、企業內化執行、與現有監管機制串接。與歐盟重視「技術風險分類」、美國重視「對外競爭」的監管邏輯不同，中國的重點在於確保 AI 符合「社會主義核心價值觀」及國家安全要求，形成具有中國特色的 AI 治理閉環。",
+      "why_read": "這是「中國 AI 治理三部曲」（算法備案→生成式 AI 規定→倫理審查）的最新一塊拼圖。三塊拼完後的全局，是任何要進入中國市場的 AI 公司都必須理解的合規架構。",
+      "topic_tags": ["AI 與科技", "民主與威權治理"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "INSIGHT EU MONITORING",
+        "media_country": "歐盟",
+        "source_tier": "B",
+        "source_tier_note": "歐盟監管政策追蹤媒體",
+        "url": "https://ieu-monitoring.com/editorial/china-issues-a-trial-guideline-on-the-ethics-review-and-service-of-artificial-intelligence-ai/958384",
+        "original_language": "en",
+        "fetched_at": "2026-04-25T09:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "歐盟提議對高效能 AI 晶片實施出口許可制度，主打「戰略自主」",
+      "title_original": "AI in April 2026: Three Critical Global Decisions – collaboration or rivalry?",
+      "one_liner": "歐盟委員會草案提議對高效能 AI 晶片及高風險演算法設出口管制，配套主權 AI 基金強化歐洲本土算力。",
+      "summary": "2026 年 4 月，歐盟委員會提出草案，計劃對出口至非歐盟國家的高效能 AI 晶片及特定高風險 AI 演算法實施出口許可制度，違規者將面臨重罰。委員會的核心論述框架是「戰略自主」——歐洲既不想受制於美國晶片供應，也不想讓技術流入對手陣營。配套措施包括設立「主權 AI 基金」，扶植歐洲本土算力建設。批評者認為歐洲科技業已落後美中兩強，再加監管層只會加劇競爭劣勢；支持者則強調不設門檻的技術外流是更大風險。此舉也預示歐盟在 AI Act 全面實施後的下一波監管擴張方向——從規範使用延伸至控制流通。",
+      "why_read": "若此草案通過，高效能晶片若被歐盟認定為「雙用途技術」，可能直接影響台灣半導體廠出口至歐洲的合規成本，值得提早關注。",
+      "topic_tags": ["AI 與科技", "經濟與貿易"],
+      "region": "歐盟",
+      "importance": "major",
+      "source": {
+        "media_name": "Educational Technology and Change Journal",
+        "media_country": "國際",
+        "source_tier": "B",
+        "source_tier_note": "科技政策評論媒體",
+        "url": "https://etcjournal.com/2026/04/19/ai-in-april-2026-three-critical-global-decisions-collaboration-or-rivalry/",
+        "original_language": "en",
+        "fetched_at": "2026-04-25T09:35:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "日本廢除武器出口禁令：東京、北京、西方盟友的三種論述",
+      "comparison_topic": "日本武器出口政策歷史性轉向",
+      "regions": ["日本", "中國", "西方盟國（澳洲/美國）"],
+      "narrative": "4 月 21 日的日本內閣決定在國際上激起截然不同的反應，三地的論述邏輯幾乎沒有交集。\n\n日本國內的辯論圍繞「現實主義必要性 vs. 和平憲法精神」展開。執政聯盟以「安全環境惡化」為由，將此定性為防衛政策的務實調整；左派媒體和護憲派民間團體則指出，在未修改憲法第九條的情況下實質突破和平憲法精神，是一種憲政規避。日本輿論出現明顯分歧，但支持者略多，反映出中國、北韓威脅論述在日本社會的滲透程度。\n\n中國的反應是本次最強烈的。官媒一致使用「軍國主義」框架，將此事與日本自衛隊艦艇穿越台灣海峽並列敘述，稱之為「嚴重動搖中日關係政治基礎」的挑釁行為。外交部措詞強硬，要求日本「正視歷史、謹慎行事」。這種反應模式與北京近年對日本任何防衛擴張的一貫態度相符，但情緒比過去更加激烈。\n\n西方盟友則普遍正面評價。澳洲是最直接的受益者，日本已同意為其建造軍艦；美國智庫將此視為印太安全架構強化的里程碑事件。值得注意的是，西方媒體對「和平憲法被架空」的質疑幾乎缺席——歷史包袱在西方語境中遠比在東亞語境中輕。\n\n三種敘事的分裂，正是台灣看日本武裝化需要同時保有的複雜視角：短期的安全利益與長期的歷史警覺，缺一不可。",
+      "comparison_table": {
+        "dimensions": ["政府立場", "媒體主要框架", "民間反應", "與台灣的關聯"],
+        "rows": [
+          {
+            "region": "日本",
+            "values": [
+              "以「安全環境惡化」為由稱為必要調整；維持三原則框架，不出口至衝突國",
+              "主流媒體多以「歷史性轉向」正面報導；左派媒體擔憂憲政程序被規避",
+              "護憲派發起抗議，但民調支持者略多；社會辯論仍在進行中",
+              "日本軍備可出口至菲律賓、澳洲，間接強化台海周邊盟友的防衛能力"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "外交部強烈抗議，稱「嚴重動搖中日關係政治基礎」，要求日方謹慎行事",
+              "官媒統一使用「軍國主義復辟」框架，並與日艦穿越台灣海峽事件並列報導",
+              "微博民族主義情緒高漲，「日本再武裝」話題大量轉發；輿論定性為挑釁",
+              "北京將此定性為「外部勢力軍事化台灣周邊」的組成部分，強化對台主權論述"
+            ]
+          },
+          {
+            "region": "西方盟國（澳洲/美國）",
+            "values": [
+              "高度正面評價，澳洲直接受益（日本承諾建造軍艦）；美國視之為印太聯盟強化",
+              "以「歷史性轉變」「民主聯盟整合」框架報導；對憲法精神爭議著墨甚少",
+              "智庫普遍正面；西方語境中「日本歷史包袱」的討論遠比東亞語境稀薄",
+              "被視為對台安全的正面訊號：周邊盟友軍備能力提升，區域嚇阻力增加"
+            ]
+          }
+        ]
+      },
+      "why_read": "同一件事在三地的論述幾乎沒有共同語言——日本看的是現實安全、中國看的是歷史幽靈、西方看的是聯盟紅利。台灣夾在中間，這三種視角都不能只選一個。",
+      "topic_tags": ["民主與威權治理", "經濟與貿易"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "The Japan Times",
+          "media_country": "日本",
+          "source_tier": "A",
+          "url": "https://www.japantimes.co.jp/news/2026/04/21/japan/politics/japan-lethal-weapons-export-rules-eased/",
+          "original_language": "en",
+          "fetched_at": "2026-04-25T09:10:00+08:00",
+          "supports_region": "日本"
+        },
+        {
+          "media_name": "CGTN",
+          "media_country": "中國",
+          "source_tier": "B",
+          "source_tier_note": "中國官方國際媒體",
+          "url": "https://news.cgtn.com/news/2026-04-22/Japan-s-arms-export-policy-shift-A-dangerous-step-to-remilitarization-1MxSBWY9lde/p.html",
+          "original_language": "en",
+          "fetched_at": "2026-04-25T09:11:00+08:00",
+          "supports_region": "中國"
+        },
+        {
+          "media_name": "Bloomberg",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-21/japan-scraps-most-weapons-export-limits-in-boost-to-arms-sector",
+          "original_language": "en",
+          "fetched_at": "2026-04-25T09:12:00+08:00",
+          "supports_region": "西方盟國（澳洲/美國）"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "亞美尼亞-亞塞拜然貿易量破紀錄，喬治亞成高加索繞過俄羅斯的新樞紐",
+      "title_original": "Aliyev Visits Georgia as Armenia-Azerbaijan Trade Bypasses Russia at Record Pace",
+      "one_liner": "和平協議落地後，亞美尼亞與亞塞拜然貿易透過喬治亞中轉量創新高，三國聯手削弱俄羅斯在高加索的經濟槓桿。",
+      "summary": "2025 年 8 月在美國斡旋下，亞美尼亞與亞塞拜然在積累三十年的衝突（主因為納卡爾諾-卡拉巴赫爭端）後正式草簽和平協議。2026 年 4 月，後續效應開始顯現：亞塞拜然總統阿利耶夫親赴提比里西（喬治亞首都），與喬治亞共同出席記者會，強調擴大三國互聯互通的戰略意義。數據顯示，亞美尼亞-亞塞拜然透過喬治亞走廊的貿易量正以創紀錄速度成長，雙邊物流主動迴避俄羅斯領土——直接削弱莫斯科在高加索的傳統經濟槓桿。喬治亞採取「低調促成者」角色，既不搶功，也不讓走廊被任何一方壟斷。同期中東衝突帶來的能源供應衝擊，也正加速高加索三國尋找俄羅斯以外的替代路徑，這個地緣板塊的重組速度正在加快。",
+      "why_read": "亞美尼亞-亞塞拜然剛結束三十年衝突，而這個衝突幾乎從未進入台灣媒體視野。衝突結束後的地緣重組——特別是脫俄動向——是觀察後冷戰秩序如何鬆動的絕佳視窗。",
+      "topic_tags": ["民主與威權治理", "經濟與貿易"],
+      "region": "高加索（亞美尼亞/亞塞拜然/喬治亞）",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Caucasus Business Journal",
+        "media_country": "亞塞拜然/喬治亞",
+        "source_tier": "B",
+        "source_tier_note": "高加索地區商業與地緣政治評論媒體",
+        "url": "https://caucasusbusinessjournal.com/news/aliyev-georgia-visit-armenia-azerbaijan-trade-russia-april-2026",
+        "original_language": "en",
+        "fetched_at": "2026-04-25T09:40:00+08:00"
+      }
+    }
+  ]
+}

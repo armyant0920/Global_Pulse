@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Pulse — 跨地區資訊報告</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">Global Pulse</h1>
+      <p class="site-tagline">跨地區資訊蒐集 · 跳出單一語言的視角</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filters" id="filters" hidden>
+      <div class="filter-row">
+        <label>
+          <span>地區</span>
+          <select id="filter-region">
+            <option value="">全部地區</option>
+          </select>
+        </label>
+        <label>
+          <span>議題</span>
+          <select id="filter-topic">
+            <option value="">全部議題</option>
+          </select>
+        </label>
+        <label>
+          <span>搜尋</span>
+          <input type="search" id="filter-search" placeholder="關鍵字...">
+        </label>
+        <button id="filter-reset" type="button">重置</button>
+      </div>
+      <p class="filter-stats" id="filter-stats"></p>
+    </section>
+
+    <section id="reports-list" class="reports-list">
+      <p class="loading">載入報告列表中…</p>
+    </section>
+
+    <section id="error-cors" class="error-block" hidden>
+      <h2>無法載入報告</h2>
+      <p>瀏覽器拒絕讀取本地 JSON 檔案。請用以下任一方法解決：</p>
+      <ol>
+        <li><strong>用 Python 啟動本地伺服器：</strong>在此資料夾執行 <code>python3 -m http.server 8000</code>，然後訪問 <a href="http://localhost:8000">http://localhost:8000</a></li>
+        <li><strong>改用 Firefox 開啟</strong>（對本地檔案較寬鬆）</li>
+        <li><strong>VS Code 使用者</strong>：安裝 Live Server 擴充功能後右鍵此檔開啟</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Global Pulse · 由 AI 自動產出 · 所有資訊請點擊原始連結驗證</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script>
+    GlobalPulse.renderIndex();
+  </script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+{
+  "report_id": "0000-00-00-0000-sample",
+  "generated_at": "2026-01-01T00:00:00+08:00",
+  "version": "1.0",
+  "editorial": {
+    "title": "【範例報告】此為網站模板的展示資料，請刪除後執行真實蒐集",
+    "summary": "這是 Global Pulse 網站的範例報告，用來展示版型與互動。實際使用時，請告訴 AI「跑一次 global pulse」，它會用 web_search 蒐集真實的跨地區資訊並產出新報告。範例中的內容均為虛構，請勿引用。確認版型沒問題後，可以把 data/reports/0000-00-00-0000-sample.json 刪除，並在 data/index.json 移除對應條目。",
+    "regions_covered": ["台灣", "日本", "印度", "肯亞"],
+    "topics_covered": ["AI 與科技", "氣候與環境", "民生"],
+    "highlights": [
+      "範例：跨地區報告長這樣",
+      "範例：點選下方項目可展開詳細內容",
+      "範例：議題比較單元預設展開"
+    ],
+    "stats": { "total_items": 3, "news_items": 2, "comparison_items": 0, "wildcard_items": 1 }
+  },
+  "items": [
+    {
+      "id": "sample-001",
+      "type": "news",
+      "title_zh": "【範例】日本本月推出某項 AI 產業政策",
+      "title_original": "Japan unveils new AI industry policy this month (sample)",
+      "one_liner": "範例：30 字以內的一句話重點，幫助快速掃視",
+      "summary": "這是一則範例新聞摘要，用來展示 150-200 字的中文摘要會怎麼呈現。實際執行時，這裡會放 AI 從原文翻譯與重寫的內容，不是逐字直譯，而是符合中文閱讀習慣的版本。專有名詞（例如 METI 經濟產業省）可能保留原文。整段摘要會聚焦在這則資訊的具體事實與論述，避免無關背景。",
+      "why_read": "範例：此欄位的目的是給你一個閱讀切入點，不是裝飾。例如「此議題在當地討論熱烈但台灣媒體幾乎沒報」。",
+      "topic_tags": ["AI 與科技"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "（範例）NHK",
+        "media_country": "日本",
+        "source_tier": "A",
+        "url": "https://www.nhk.or.jp/",
+        "original_language": "ja",
+        "fetched_at": "2026-01-01T00:00:00+08:00"
+      }
+    },
+    {
+      "id": "sample-002",
+      "type": "news",
+      "title_zh": "【範例】印度某邦推出大規模公共住宅計畫",
+      "title_original": "Sample: A state in India launches major public housing plan",
+      "one_liner": "範例：用 30 字以內句子總結這則資訊",
+      "summary": "範例摘要。實際執行時這裡會是真實內容的中文整理。重點是讓你不點開全文也能掌握「發生了什麼、誰受影響、這跟我有什麼關係」。語氣保持中性，不替你下結論。",
+      "why_read": "範例：例如「印度的住宅政策規模常被低估，但對全球建材與勞動市場有連鎖影響」。",
+      "topic_tags": ["民生"],
+      "region": "印度",
+      "importance": "normal",
+      "source": {
+        "media_name": "（範例）The Hindu",
+        "media_country": "印度",
+        "source_tier": "A",
+        "url": "https://www.thehindu.com/",
+        "original_language": "en",
+        "fetched_at": "2026-01-01T00:00:00+08:00"
+      }
+    },
+    {
+      "id": "sample-003",
+      "type": "wildcard",
+      "title_zh": "【範例 · 冷門】肯亞青年在科技園區的新創實驗",
+      "title_original": "Sample: Kenyan youth tech park experiments",
+      "one_liner": "範例：冷門地區的可貴在於原生視角",
+      "summary": "範例摘要。冷門地區的內容通常難以從台灣媒體看到，這個欄位的用途是讓你接觸到「平常不會出現在你動態消息上」的視角與議題。摘要會清楚標注這是當地媒體的報導，不是其他國家對該地的詮釋。",
+      "why_read": "範例：非洲科技創業現場的第一手報導，與西方媒體常見的『援助敘事』很不同。",
+      "topic_tags": ["AI 與科技"],
+      "region": "肯亞",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "（範例）Daily Nation",
+        "media_country": "肯亞",
+        "source_tier": "B",
+        "source_tier_note": "肯亞主流英文報",
+        "url": "https://nation.africa/",
+        "original_language": "en",
+        "fetched_at": "2026-01-01T00:00:00+08:00"
+      }
+    }
+  ]
+}

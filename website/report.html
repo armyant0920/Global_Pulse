@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>報告 — Global Pulse</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="back-link">← 回報告列表</a>
+      <h1 class="site-title" id="report-title">載入中…</h1>
+      <p class="report-meta" id="report-meta"></p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="editorial" class="editorial">
+      <p class="loading">載入報告內容中…</p>
+    </section>
+
+    <section id="report-filters" class="report-filters" hidden>
+      <button class="chip chip-active" data-filter="all">全部 (<span data-count="all">0</span>)</button>
+      <button class="chip" data-filter="major">重要 (<span data-count="major">0</span>)</button>
+      <button class="chip" data-filter="comparison">議題比較 (<span data-count="comparison">0</span>)</button>
+      <button class="chip" data-filter="wildcard">冷門 (<span data-count="wildcard">0</span>)</button>
+    </section>
+
+    <section id="items" class="items"></section>
+
+    <section id="error-block" class="error-block" hidden>
+      <h2>無法載入此份報告</h2>
+      <p id="error-message"></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Global Pulse · 所有資訊請點擊原始連結驗證</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script>
+    GlobalPulse.renderReport();
+  </script>
+</body>
+</html>

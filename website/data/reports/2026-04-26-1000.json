@@ -1,0 +1,247 @@
+{
+  "report_id": "2026-04-26-1000",
+  "generated_at": "2026-04-26T10:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "非洲政變案開庭，拉美趁亂崛起，太平洋島國在悄悄死去",
+    "summary": "本期跑了七個地區：韓國、印度、奈及利亞、哥倫比亞、巴西、智利、太平洋島國（斐濟/東加/薩摩亞），共 10 則。上期覆蓋的日本武器禁令本期有後續——韓國在印度的軍工布局正是該禁令解除後的蝴蝶效應之一，放在比較單元裡處理。\n\n本期三個最值得關注的重點：一、韓國總統李在明訪印宣布「未來夥伴關係」，25 項成果涵蓋防衛、造船、半導體，北京感受到的壓力在北京媒體的用語上清晰可見；二、哥倫比亞小城聖馬爾塔本週接待了全球首屆「化石燃料退出峰會」，50 國出席，這個從 COP28 協議走向具體路線圖的嘗試幾乎沒被台灣媒體報導；三、拉美股市今年逆勢上漲，巴西大盤年初至今漲 21.7%，美中博弈的意外受益者在南半球。\n\n冷門地區：太平洋島國——世界銀行聯合亞開行投入 2.4 億美元對抗慢性病危機，非傳染病（NCD）正在悄悄成為當地頭號殺手，台灣作為太平洋邦交國的核心地區，這個訊號值得注意。",
+    "regions_covered": ["韓國", "印度", "奈及利亞", "哥倫比亞", "巴西", "智利", "太平洋島國（斐濟/東加/薩摩亞）"],
+    "topics_covered": ["經濟與貿易", "民主與威權治理", "氣候與環境政策", "民生"],
+    "highlights": [
+      "韓國-印度「未來夥伴關係」：防衛、造船、半導體三軸，北京稱之「不可避免地敏感」",
+      "全球首屆化石燃料退出峰會在哥倫比亞開幕，50 國討論退出路線，產油國沉默",
+      "拉美股市逆勢走強，巴西大盤今年漲 21.7%，美中博弈帶來的意外贏家在南美"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "韓國總統訪印宣布「未來夥伴關係」，目標 2030 年雙邊貿易翻倍至 500 億美元",
+      "title_original": "India, South Korea Aim to Double Trade, Deepen Shipbuilding Ties",
+      "one_liner": "韓國總統李在明訪印後宣布 25 項合作成果，涵蓋造船、防衛裝備、半導體及 AI，貿易目標翻倍至 500 億美元。",
+      "summary": "4 月 20–21 日，韓國總統李在明對印度進行國是訪問，與總理莫迪會談後宣布「未來夥伴關係」升級，共發布 25 項合作成果。核心亮點包括：韓國 HD 造船廠將在印度南部合資興建大型造船廠，並導入印度海洋發展基金；防衛面，雙方同意深化 K9 自走砲等平台的聯合研發與技術共享，印度目前已部署約 100 門 K9 Vajra-T 型，計劃再採購 100 門；科技面，啟動「印韓數位橋樑」計畫，強化 AI、半導體及數位基礎建設合作。雙邊貿易目標從現行約 270 億美元提升至 2030 年 500 億美元。CNBC 分析指出，美中競爭格局使兩國成為天然的供應鏈夥伴，也讓北京感到不安。",
+      "why_read": "這份協議直接連結到上期報導的日本武器禁令解除——印太防衛供應鏈正在加速重組，台灣的隱身角色（供應鏈一環、地緣節點）在這個重組中越來越清晰。",
+      "topic_tags": ["經濟與貿易", "民主與威權治理"],
+      "region": "韓國",
+      "importance": "major",
+      "source": {
+        "media_name": "Bloomberg",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-20/india-south-korea-aim-to-double-trade-deepen-shipbuilding-ties",
+        "original_language": "en",
+        "fetched_at": "2026-04-26T09:10:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "奈及利亞政變陰謀案正式開審，六名軍官被控叛國罪，軍方啟動特別法庭",
+      "title_original": "Nigeria charges six people with 'terrorism', treason over 2025 coup plot",
+      "one_liner": "六名包括退役少將在內的奈及利亞軍官被正式起訴叛國，涉及 2025 年推翻廷布總統的密謀，軍方同步成立特別軍事法庭。",
+      "summary": "4 月 21 日，奈及利亞聯邦法院對六名涉嫌在 2025 年密謀推翻廷布總統的人員提出 13 項指控，罪名包含叛國和恐怖主義。被告名單涵蓋退役少將穆罕默德·加納、退役上尉奧切戈比亞·維克多等人，另有前巴耶爾薩州州長席爾瓦仍在逃。六名被告於 4 月 22 日出庭均不認罪。奈及利亞軍方同步宣布成立特別軍事法庭，試圖以軍事司法體系與民事法庭雙軌並行審理。事件源自 2025 年 16 名軍官因「違反軍紀」被捕，事後逐漸浮現政變圖謀的指控。分析人士指出，廷布政府將此案公開化，既是對內警示、也是政治表態，但部分法律觀察者質疑以「恐怖主義」罪名定性政變嫌疑是否適當。",
+      "why_read": "奈及利亞是非洲人口最多的國家，政治穩定與否直接影響西非整體局勢。此案也是觀察廷布政府執政脆弱性的窗口——2023 年當選以來內外壓力不斷。",
+      "topic_tags": ["民主與威權治理"],
+      "region": "奈及利亞",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "url": "https://www.aljazeera.com/news/2026/4/21/nigeria-charges-six-people-with-terrorism-treason-over-2025-coup-plot",
+        "original_language": "en",
+        "fetched_at": "2026-04-26T09:15:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "全球首屆化石燃料退出峰會在哥倫比亞聖馬爾塔召開，50 國討論退出路線",
+      "title_original": "Countries gather in Colombia for the first international conference on how to phase out fossil fuels",
+      "one_liner": "哥倫比亞與荷蘭聯合主辦全球首屆化石燃料退出峰會，逾 50 國出席，目標從 COP28 框架協議走向具體退出路線圖。",
+      "summary": "4 月 28–29 日，哥倫比亞港口城市聖馬爾塔舉行第一屆「化石燃料公正轉型國際會議」，由哥倫比亞與荷蘭聯合主辦，逾 50 個國家出席。聖馬爾塔本身具有高度象徵意義——它是哥倫比亞的煤炭主要出口港，召開退出化石燃料會議於此，刻意傳遞訊息。本次會議是 COP28 歷史性協議「開始轉型脫離化石燃料」之後，首次嘗試將文字協議轉化為各國具體行動路線的場合。與會者包括政府代表、原住民社群、非政府組織及工業界。值得注意的是，主要產油國（沙烏地阿拉伯、俄羅斯等）未見顯著發言，而這正反映了化石燃料退出議題的根本困境：最需要退出的國家，最不願意談退出。",
+      "why_read": "COP28 協議談了、峰會也開了——但台灣媒體對這個直接關係到全球能源結構的進程幾乎沒有報導。氣候政策不是遠方的事，它影響台灣的出口商品碳足跡義務與能源轉型壓力。",
+      "topic_tags": ["氣候與環境政策", "經濟與貿易"],
+      "region": "哥倫比亞",
+      "importance": "major",
+      "source": {
+        "media_name": "NPR",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.npr.org/2026/04/25/nx-s1-5796225/countries-gather-in-colombia-for-the-first-international-conference-on-how-to-phase-out-fossil-fuels",
+        "original_language": "en",
+        "fetched_at": "2026-04-26T09:20:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "拉美股市逆勢上漲，巴西大盤年初至今漲 21.7%，美中博弈的意外受益者",
+      "title_original": "Latin America bulls undeterred by Trump's policy",
+      "one_liner": "巴西、智利、哥倫比亞等拉美股市今年大幅上漲，受惠於距中東衝突遙遠、原物料財富豐厚，成為全球資金避風港。",
+      "summary": "2026 年迄今，拉丁美洲主要股市表現搶眼：巴西 BVSP 指數上漲 21.7%、哥倫比亞漲 10.6%、秘魯漲 18.8%、智利漲 8.2%。CNBC 分析將此歸因於兩個結構性優勢——地理距離（遠離中東衝突能源衝擊）與原物料稟賦（巴西、哥倫比亞、墨西哥、厄瓜多均為產油國，受益於能源價格上漲）。然而，世界銀行同期報告指出，巴西和墨西哥這兩個最大經濟體仍受制於「國內金融條件收緊、財政空間有限、貿易政策不確定性」。智利總統卡斯特同期向國會送交大型經濟改革方案，試圖解決結構性不平等，但左右兩翼角力激烈。拉美的投資亮點與政治風險並存，並非單純的避險天堂。",
+      "why_read": "台灣媒體報導拉美幾乎只有負面消息（政變、通膨、毒梟），這次股市表現是一個不一樣的切入點——拉美在地緣博弈中正在找到自己的槓桿。",
+      "topic_tags": ["經濟與貿易", "民生"],
+      "region": "巴西",
+      "importance": "normal",
+      "source": {
+        "media_name": "CNBC",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.cnbc.com/2026/04/21/latin-america-trump-emerging-markets-brazil-cuba.html",
+        "original_language": "en",
+        "fetched_at": "2026-04-26T09:25:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "非洲銀行業首次突破千億美元營收，但工業政策能否解結構困境仍是疑問",
+      "title_original": "Africa Economic Update April 2026: Making Industrial Policy Work in Africa",
+      "one_liner": "非洲銀行業今年首破千億美元營收，世界銀行四月報告聚焦工業政策能否協助非洲突破低附加值出口困境。",
+      "summary": "世界銀行 4 月發布《非洲經濟更新》，主題為「讓工業政策在非洲發揮作用」，點出非洲面臨的核心矛盾：原物料出口依賴使多數非洲國家無法提升產業附加值，但過去的工業政策嘗試大多失敗。報告同期出現了一個里程碑數字——非洲銀行業（以奈及利亞、南非、肯亞等大型銀行為主）總營收首次突破千億美元，是非洲金融業規模化的訊號。然而，奈及利亞同期因應能源價格衝擊調漲油價，肯亞則因中東衝突影響化肥進口（肯亞 26% 的化肥來自中東），農業成本壓力飆升。金融數字光鮮亮麗，民間生計壓力卻同步加劇——這個撕裂感正是 2026 年非洲的典型矛盾。",
+      "why_read": "非洲在台灣媒體幾乎只以「援外」或「衝突」框架出現。銀行業突破千億美元是一個不同的非洲敘事——一個有資本積累動力的大陸，但能不能轉化成工業能力是下一關。",
+      "topic_tags": ["經濟與貿易", "民生"],
+      "region": "非洲",
+      "importance": "normal",
+      "source": {
+        "media_name": "World Bank / TRALAC",
+        "media_country": "美國（國際機構）",
+        "source_tier": "A",
+        "url": "https://www.tralac.org/documents/news/7476-africa-economic-update-april-2026-world-bank/file.html",
+        "original_language": "en",
+        "fetched_at": "2026-04-26T09:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "巴西聯邦警察撤銷美國移民官外交資格，拉美對美緊張再升溫",
+      "title_original": "Brazil revokes diplomatic credentials of US immigration liaison official",
+      "one_liner": "巴西聯邦警察驅逐駐巴西利亞的美國移民聯絡官，為近年拉美-美國移民政策摩擦再添新案例。",
+      "summary": "4 月 22 日，巴西聯邦警察宣布撤銷一名擔任巴西利亞聯絡人的美國移民官員外交資格，此舉被外界解讀為盧拉政府對川普政府強硬移民政策的直接反彈。自川普 2025 年回任以來，美國加速驅逐計畫與邊境管制措施多次引發拉美各國外交抗議，巴西此次行動是其中動作最直接的一次。盧拉政府長期批評美國移民政策「缺乏人道精神」，並拒絕讓美軍機以驅逐方式遣返在美巴西人。此事件本身規模不大，但它是一個更大模式的縮影：美國在後院的軟實力正在流失，拉美各國對於配合美國移民管控的意願正在下降。",
+      "why_read": "美國與拉美的移民摩擦在台灣通常只被當作「美國內政」，但這個故事的另一面是拉美國家正在重新定義自己對美關係的底線——這對整個西半球地緣格局有長遠含義。",
+      "topic_tags": ["民主與威權治理", "民生"],
+      "region": "巴西",
+      "importance": "normal",
+      "source": {
+        "media_name": "Americas Market Intelligence / AS/COA",
+        "media_country": "美國（拉美政策智庫）",
+        "source_tier": "B",
+        "source_tier_note": "拉美政經智庫與分析媒體",
+        "url": "https://www.as-coa.org/articles/imf-and-world-banks-april-2026-update-latin-americas-economic-outlook",
+        "original_language": "en",
+        "fetched_at": "2026-04-26T09:35:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "印度-韓國「未來夥伴關係」：新德里、首爾、北京的三種解讀",
+      "comparison_topic": "印度-韓國戰略夥伴關係升級",
+      "regions": ["印度", "韓國", "中國"],
+      "narrative": "同一份協議，在三個首都的新聞框架裡幾乎是三個不同的故事。\n\n印度的敘事核心是「戰略多元化」。莫迪政府將韓國定位為供應鏈多元化的重要節點——韓國的造船技術、半導體產業、K9 自走砲，填補了印度長期依賴俄羅斯與西方的空白。媒體焦點落在「最大規模非西方防衛合作之一」的歷史性定性上，以及印度「製造業崛起」的自我敘事。\n\n韓國的敘事核心是「市場與多元化」。韓國面臨中國市場萎縮（THAAD 後遺症尚存）與美國關稅不確定性，印度這個 14 億人口、快速成長的市場是戰略資產。首爾媒體更強調的是具體的商業利益：造船廠合作、K9 後續訂單、印度數位市場准入。韓國官方的框架用語是「未來夥伴」而非「安全聯盟」，刻意維持模糊性。\n\n中國的反應是三者中最直接的。《南華早報》與《朝鮮日報》的分析均指出，北京將此視為「不可避免地敏感」——核心顧慮是印度將韓國防衛工業納入中印邊境緩衝體系的長期布局。中國官方媒體雖然措詞相對克制，但中方對印韓關係的任何防衛維度都保持高度警覺。\n\n三種敘事的共同底色是：美中博弈正在重塑亞洲各國尋找彼此的方式——不是透過正式軍事同盟，而是透過造船廠、半導體和自走砲。",
+      "comparison_table": {
+        "dimensions": ["政府立場", "媒體主要框架", "對中關係定位", "與台灣的關聯"],
+        "rows": [
+          {
+            "region": "印度",
+            "values": [
+              "升格「未來夥伴關係」，強調造船、防衛、半導體三軸合作，視韓國為「中國+1」替代節點",
+              "聚焦「最大非西方防衛合作」歷史性定性，強調印度製造業能力升級",
+              "明確意圖多元化脫離對俄依賴，間接降低對中暴露；邊境摩擦持續但不激化",
+              "印度半導體產業崛起若與韓國技術結合，將成為台積電以外的替代路徑之一"
+            ]
+          },
+          {
+            "region": "韓國",
+            "values": [
+              "訂立 500 億美元 2030 年貿易目標，在「未來夥伴」框架下避免強調安全聯盟色彩",
+              "聚焦商業利益（造船合約、K9 訂單、數位市場）而非地緣戰略，維持對中模糊性",
+              "刻意保持低調，不將協議定性為反中；韓中關係因 THAAD 後遺症仍複雜",
+              "韓國造船、半導體技術若大量移轉印度，可能衝擊台灣在全球供應鏈的某些利基位置"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "官方未正式回應，但官媒分析明確指出此合作「不可避免地敏感」，尤其防衛維度",
+              "南華早報、環球時報分析聚焦印韓防衛合作對中印邊境局勢的戰略涵義",
+              "將印韓接近視為美國主導的「印太安全框架」擴展，強調若演變成三邊機制將更警覺",
+              "若印度借助韓國技術在邊境完成防衛現代化，將直接影響北京對印對峙的籌碼"
+            ]
+          }
+        ]
+      },
+      "why_read": "這不是一個普通的雙邊貿易協定——它是亞洲供應鏈重組、美中競爭外溢與各國戰略自主三股力量交匯的縮影。台灣夾在半導體供應鏈的核心，這些重組的每一步都與台灣直接相關。",
+      "topic_tags": ["經濟與貿易", "民主與威權治理"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Bloomberg",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-20/india-south-korea-aim-to-double-trade-deepen-shipbuilding-ties",
+          "original_language": "en",
+          "fetched_at": "2026-04-26T09:10:00+08:00",
+          "supports_region": "韓國"
+        },
+        {
+          "media_name": "CNBC",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://www.cnbc.com/2026/04/21/india-south-korea-aim-to-deepen-ties-amid-geopolitical-uncertainty-here-is-whats-holding-them-back.html",
+          "original_language": "en",
+          "fetched_at": "2026-04-26T09:11:00+08:00",
+          "supports_region": "印度"
+        },
+        {
+          "media_name": "South China Morning Post",
+          "media_country": "香港",
+          "source_tier": "A",
+          "url": "https://www.scmp.com/news/china/military/article/3351324/why-china-will-see-indias-latest-defence-deal-with-south-korea-as-inevitably-sensitive",
+          "original_language": "en",
+          "fetched_at": "2026-04-26T09:12:00+08:00",
+          "supports_region": "中國"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "太平洋島國啟動 2.4 億美元慢性病防治計畫，非傳染病正成為第一殺手",
+      "title_original": "Pacific Healthy Islands Transformation Project — World Bank / ADB regional launch",
+      "one_liner": "世界銀行與亞開行聯合投入 2.4 億美元，在斐濟、東加、吐瓦魯等太平洋島國推動慢性病（NCD）防治，糖尿病與心臟病已超越感染病成為頭號威脅。",
+      "summary": "太平洋健康島嶼轉型計畫（PHIT Project）在 2026 年 4 月正式啟動，總規模 2.395 億美元，由世界銀行、亞洲開發銀行、OPEC 基金與疫情基金聯合出資，覆蓋斐濟、吉里巴斯、東加、吐瓦魯四個核心執行國，並延伸支援薩摩亞、索羅門群島、萬那杜。計畫核心目標是對抗「非傳染性疾病（NCD）」——包括糖尿病、高血壓、肥胖及心血管疾病，這些疾病在太平洋島國的致死率已全面超越傳染病。推手是西方化飲食的迅速擴散（超加工食品、含糖飲料）加上本地傳統生活方式的崩解。諷刺的是，這些島國在氣候危機中最為脆弱、最先被淹沒，但殺死當地人最快的不是海平面上升，而是糖尿病。",
+      "why_read": "台灣在太平洋擁有大量邦交國，這個地區的民生健康危機卻幾乎不在台灣新聞的視野中。2.4 億美元說明外部力量正在投入這個台灣「傳統盟友區域」，而台灣的實質影響力是否跟得上是值得思考的問題。",
+      "topic_tags": ["民生", "氣候與環境政策"],
+      "region": "太平洋島國（斐濟/東加/薩摩亞）",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Islands Business / PACNEWS",
+        "media_country": "斐濟",
+        "source_tier": "B",
+        "source_tier_note": "太平洋地區主要英語新聞媒體",
+        "url": "https://pireport.org/2026/04/23/pacific-islands-news-roundup-april-16-22-2026/",
+        "original_language": "en",
+        "fetched_at": "2026-04-26T09:40:00+08:00"
+      }
+    }
+  ]
+}
