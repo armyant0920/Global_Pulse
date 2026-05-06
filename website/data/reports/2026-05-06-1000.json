@@ -1,0 +1,253 @@
+{
+  "report_id": "2026-05-06-1000",
+  "generated_at": "2026-05-06T10:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "三方貿易戰烽火再起，韓國三星工人要分 AI 紅利，亞美尼亞悄悄成為歐洲外交中心",
+    "summary": "本期涵蓋南韓、越南、日本、印度、歐盟、美國、中國及冷門地區亞美尼亞，共 10 則（6 則重大新聞＋1 篇跨地區比較＋1 則冷門隨機）。\n\n本期三個最值得關注的重點：其一，川普對歐盟汽車祭出 25% 關稅，打破數月前「特恩伯里協議」的 15% 上限，歐中兩方在同一週各自出招，形成本期比較單元的核心張力——三地應對邏輯截然不同，值得對讀。其二，三星電子七萬多名工人計畫從 5 月 21 日起發動 18 天大罷工，要求分享 AI 晶片暴利；同一週越南正式施行首部 AI 專法，顯示亞洲各國正以截然不同的方式消化 AI 帶來的紅利與風險。其三，日本受伊朗戰事衝擊面臨進口通膨，印度則因油價高漲加上弱季風預警而下修成長預測，是今年全球能源衝擊壓縮民生的兩個具體側寫。冷門補充：亞美尼亞五月主辦歐洲政治共同體峰會，40 個歐洲國家聚集葉里溫，是這個夾在俄土之間的小國難得的外交聚光燈時刻。",
+    "regions_covered": ["南韓", "越南", "日本", "印度", "歐盟", "美國", "中國", "亞美尼亞"],
+    "topics_covered": ["AI 與科技", "民生", "經濟與貿易", "科學與健康", "地緣政治"],
+    "highlights": [
+      "川普對歐盟汽車課 25% 關稅，撕毀特恩伯里協議，三角貿易戰成本誰來扛",
+      "三星 AI 獲利全入口袋？南韓 7.4 萬工人扛罷工牌上街",
+      "亞美尼亞五月成歐洲外交中心，40 國峰會壓縮俄羅斯的後院空間"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "AI 獲利給誰？三星 7.4 萬工人揚言 18 天大罷工",
+      "title_original": "Samsung workers rally in South Korea, demanding higher pay and threatening to strike",
+      "one_liner": "三星工人要求分享 AI 晶片暴利，罷工將從 5/21 起連打 18 天。",
+      "summary": "南韓三星電子約 7.4 萬名工會成員預計從 5 月 21 日起發動長達 18 天的全面罷工，工會估計每日損失逾 1 兆韓元（約 7 億美元）。罷工主因是三星晶片部門因 AI 需求爆發獲利創新高，但績效獎金上限卻未隨之調整。約 4 萬名工人於 4 月 23 日在平澤廠區集結，高喊「讓獎金透明化、取消績效上限」。三星董事長申濟尹本週向員工發出內部備忘錄，呼籲勞資雙方在罷工前談妥，警告停產可能衝擊南韓整體半導體供應鏈。此外，三星生物製藥（Samsung Biologics）工人已於 5 月 1 日起連罷兩天，圍繞同樣的薪資爭議。工會方面表示，若資方不移除績效獎金上限並提高基本獎金比率，不排除在罷工期間擴大行動。",
+      "why_read": "這場罷工是「AI 獲利分配給誰」議題在工廠層面的具體化——外界一直在討論 AI 誰受益，這裡給出了一個來自工人的實際版答案。",
+      "topic_tags": ["AI 與科技", "民生"],
+      "region": "南韓",
+      "importance": "major",
+      "source": {
+        "media_name": "Euronews",
+        "media_country": "歐盟",
+        "source_tier": "A",
+        "source_tier_note": "歐洲主流廣播媒體",
+        "url": "https://www.euronews.com/next/2026/04/23/samsung-employees-protest-and-threaten-strike-demanding-share-of-profits-amid-ai-boom",
+        "original_language": "en",
+        "fetched_at": "2026-05-06T09:10:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "越南 AI 法上路：全球少數有獨立 AI 立法的發展中國家",
+      "title_original": "Vietnam's first standalone AI Law: An overview of key provisions, future implications",
+      "one_liner": "越南 3 月施行首部 AI 專法，仿效歐盟風險分級，還允許 AI 演算法作為資本入股。",
+      "summary": "越南《人工智慧法》已於 2026 年 3 月 1 日正式生效，使越南成為全球少數擁有獨立 AI 立法的發展中國家。該法採三層風險分級框架，核心參考歐盟 AI 法案，要求高風險 AI 系統（如醫療診斷、金融服務）進行透明度揭露與人為監督。值得注意的是，越南此法納入一項罕見條款：允許將 AI 模型、演算法和資料集作為合法出資納入公司登記，賦予數位資產明確法律地位。大多數現有 AI 系統業者享有一年（至 2027 年 3 月）過渡期，健康、教育、金融領域延長至 2027 年 9 月。治理機構由科技部統一監管，兼顧創新鼓勵與數位主權維護。",
+      "why_read": "越南此法超越許多亞洲大國——日本、韓國仍在草案階段，台灣也尚無獨立立法。一個東南亞發展中國家主動選擇嚴格框架，在地區語境中相當反常，值得持續追蹤執法走向。",
+      "topic_tags": ["AI 與科技"],
+      "region": "越南",
+      "importance": "major",
+      "source": {
+        "media_name": "IAPP",
+        "media_country": "美國",
+        "source_tier": "A",
+        "source_tier_note": "隱私與數位法規領域國際專業組織",
+        "url": "https://iapp.org/news/a/vietnam-s-first-standalone-ai-law-an-overview-of-key-provisions-future-implications",
+        "original_language": "en",
+        "fetched_at": "2026-05-06T09:15:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "伊朗戰爭燒到日本廚房：日銀凍利率、食品入夏前恐全面漲價",
+      "title_original": "Bank of Japan keeps policy rate steady while raising inflation forecast on Iran war worries",
+      "one_liner": "日銀維持 0.75% 利率不動，但將通膨預測上調至 2.8%，中東衝突推高進口成本。",
+      "summary": "日本銀行（日銀）在 4 月議息會議以 6 比 3 的分裂票維持政策利率於 0.75%，同時大幅上調本財年核心通膨預測至 2.8%（原為 1.9%），並將經濟成長預測從 1% 砍半至 0.5%。主因是伊朗戰事持續衝擊能源市場，導致石化原料（naphtha）供給吃緊，此原料廣泛用於從醫療器材到消費品包裝的各類產品。帝國資料銀行（Teikoku Databank）指出，5 月食品漲價品項相對有限，但預計夏秋之際恐出現更廣泛的第二波漲價潮。三名反對維持利率的委員主張應直接升至 1%，認為中東局勢已讓通膨風險明顯偏向上行。日本財年 2026 預算規模達 122.3 兆日圓，創歷史新高。",
+      "why_read": "這是霍爾木茲封鎖衝擊亞洲民生的具體切片：日本石油百分之百仰賴進口，中東戰事對日常生活的影響遠比歐美直接，從這裡可以感受到全球能源危機的實際質地。",
+      "topic_tags": ["經濟與貿易", "民生"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "CNBC",
+        "media_country": "美國",
+        "source_tier": "A",
+        "source_tier_note": "美國主流財經媒體",
+        "url": "https://www.cnbc.com/2026/04/28/bank-of-japan-keeps-policy-rate-steady-cpi-iran-war-gdp.html",
+        "original_language": "en",
+        "fetched_at": "2026-05-06T09:20:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "印度成長故事的煞車聲：油價衝擊加弱季風，UBS 下修成長預測",
+      "title_original": "India growth warning: UBS cuts FY27 GDP forecast to 6.2% as oil shock, weak monsoon threaten economy",
+      "one_liner": "UBS 將印度 FY27 成長預測下修至 6.2%，點名油價高漲與弱季風是雙重下行風險。",
+      "summary": "瑞銀（UBS）在 5 月初發布報告，將印度 2026-27 財年 GDP 成長預測從 6.7% 下調至 6.2%，並明確指出風險仍偏下行。報告指出兩大主要威脅：其一，中東戰事導致油價持續偏高，印度有約 85% 石油仰賴進口，進口通膨壓力直接侵蝕消費能力；其二，氣候模型顯示 2026 年印度季風可能偏弱，農業產出與農村消費將首當其衝。印度本財年原本被聯合國等機構預測維持 6.4–6.6% 高速增長，是全球主要經濟體中最快的。此次下修反映：即便是成長故事最亮眼的印度，也難以免疫能源與氣候雙重暴露風險。UBS 強調，若油價維持高位加上季風確實不足，通膨壓力將逼使印度央行推遲降息計畫。",
+      "why_read": "印度常被視為「下一個大機會」，但這則報告點出「高增長＋氣候高暴露＋能源高依賴」才是完整版本，對台灣企業布局印度供應鏈是重要的風險背景。",
+      "topic_tags": ["經濟與貿易", "氣候與環境政策"],
+      "region": "印度",
+      "importance": "major",
+      "source": {
+        "media_name": "BusinessToday India",
+        "media_country": "印度",
+        "source_tier": "B",
+        "source_tier_note": "印度主流財經新聞媒體",
+        "url": "https://www.businesstoday.in/latest/economy/story/india-growth-warning-ubs-cuts-fy27-gdp-forecast-as-oil-shock-weak-monsoon-threaten-economy-529688-2026-05-04",
+        "original_language": "en",
+        "fetched_at": "2026-05-06T09:25:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "下一波大流行的候補者：科學家點名流感 D 病毒與犬冠狀病毒",
+      "title_original": "Emerging Respiratory Virus Threats from Influenza D and Canine Coronavirus HuPn-2018",
+      "one_liner": "CDC 期刊警告，兩種動物源病毒若獲人傳人能力，可能引發下一場大流行。",
+      "summary": "美國疾管署（CDC）旗下《新興傳染病》（Emerging Infectious Diseases）期刊於 2026 年 1 月號刊出研究，指出流感 D 病毒（Influenza D virus）和犬冠狀病毒（canine coronavirus HuPn-2018）是值得密切監控的新興威脅。兩者目前主要在動物間傳播，但科學家擔憂若演化出人傳人能力，人類幾乎完全缺乏免疫背景，爆發流行乃至大流行的風險將顯著上升。研究者指出，這兩種病毒的監測體系不完善、缺乏快速診斷工具、無疫苗也無標靶治療，呼籲國際社會在「未出現大規模人感染前」即提前部署。《新聞週刊》（Newsweek）等媒體同步報導，科學界正向 WHO 施壓，要求將兩者列入優先監測名單。",
+      "why_read": "COVID-19 之後「預防性監控」才是關鍵詞，這篇研究代表科學界的主動反省——試圖在下一波之前就把答案準備好，而不是再度被動應對。此為 A 級同儕審查期刊，可信度高。",
+      "topic_tags": ["科學與健康"],
+      "region": "全球",
+      "importance": "normal",
+      "source": {
+        "media_name": "CDC Emerging Infectious Diseases",
+        "media_country": "美國",
+        "source_tier": "A",
+        "source_tier_note": "美國疾管署同儕審查期刊",
+        "url": "https://wwwnc.cdc.gov/eid/article/32/1/25-1764_article",
+        "original_language": "en",
+        "fetched_at": "2026-05-06T09:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "川普要把歐盟汽車關稅提高至 25%，「特恩伯里協議」岌岌可危",
+      "title_original": "Trump announces 25 percent tariffs on European Union cars, trucks",
+      "one_liner": "川普宣布對歐盟汽車課 25% 關稅，撕毀數月前簽訂的 15% 上限協議。",
+      "summary": "美國總統川普於 5 月 1 日宣布，將對歐盟進口汽車及卡車課徵 25% 關稅，理由是歐盟「未遵守現行協議」。這打破了去年在蘇格蘭「特恩伯里協議」（Turnberry Agreement）中談定的 15% 關稅上限——當初被視為美歐貿易緩和的重要里程碑。歐盟貿易委員謝夫喬維奇（Maroš Šefčovič）於 5 月 5 日在巴黎與美國貿易代表格里爾（Jamieson Greer）緊急會面，要求美方「迅速恢復 15% 安排」。歐盟執委會主席馮德萊恩表示歐盟「準備好應對一切情境」，暗示若川普執行新關稅，歐盟將啟動報復措施。受影響最深的是德國豪華車品牌（BMW、賓士、Audi），但分析師指出，美國消費者最終也將承擔更高的汽車售價。",
+      "why_read": "這是美歐關係在貿易上的最新轉折點：特恩伯里協議才簽不到一年就面臨破局，顯示即使已有明文協議，川普政府的貿易承諾依然高度不穩定——對所有與美國談協議的國家都是警訊。",
+      "topic_tags": ["經濟與貿易"],
+      "region": "歐盟",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "source_tier_note": "國際公認獨立媒體",
+        "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks",
+        "original_language": "en",
+        "fetched_at": "2026-05-06T09:35:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "關稅三角戰：美國出招，歐盟硬撐，中國借力——同一場貿易戰的三種劇本",
+      "comparison_topic": "2026 全球貿易戰：美中歐三方因應策略比較",
+      "regions": ["美國", "歐盟", "中國"],
+      "narrative": "同樣是 2026 年 5 月第一週，美中歐三方圍繞貿易秩序各自演出截然不同的劇本。\n\n美國的邏輯是「雙邊施壓」：川普持續以關稅作為外交工具，繼對中國加碼後，5 月 1 日轉頭宣布對歐盟汽車課 25% 關稅。白宮的框架始終一貫——「你們佔了我們便宜，所以我要課稅」——無論談判記錄如何，貿易赤字就是對方的罪狀。\n\n歐盟的困境是「戰略兩難」：面對承諾被撕毀，布魯塞爾出現兩種聲音，一是「準備好反制」，一是「希望透過對話修復」。根本矛盾在於歐洲車廠高度依賴美國市場，真的發動報復，歐洲製造業的代價同樣沉重。謝夫喬維奇與格里爾的巴黎會面，更像是一場「我們真的希望你不要這樣做」的懇求，而非對等談判。從這個角度看，歐盟的「規則秩序」邏輯正在被川普的「交易邏輯」持續侵蝕。\n\n中國的策略則是「多邊迂迴」：北京主動宣示「不刻意追求貿易順差」，以開放主義者的姿態登場。更具體的行動是出口市場的快速重組——中國對美出口大跌 11%，但對非洲、東協、歐盟的出口分別暴增 49.9%、29.4%、27.8%。也就是說，北京不是在直接反制關稅，而是在繞過它，把美國讓出的市場空間快速填滿。\n\n三者對比，最值得關注的不是誰「贏」，而是三套截然不同的全球化邏輯正在被同時測試：美國的雙邊對抗、歐盟的規則秩序、中國的多邊迂迴。目前看來，中國的繞行策略在數據上最為有效；但若川普將矛頭從歐盟轉回中國，格局又將再次改變。對台灣而言，中國轉向東南亞與非洲填補美國缺口，與台灣在這些地區的出口形成直接競爭。",
+      "comparison_table": {
+        "dimensions": ["政府立場", "主要行動", "對美依存度評估", "與台灣的關聯"],
+        "rows": [
+          {
+            "region": "美國",
+            "values": [
+              "主動出擊，以關稅施壓多個貿易夥伴，宣稱捍衛貿易公平",
+              "宣布歐盟汽車 25% 關稅，對中國維持高關稅體制",
+              "N/A（政策主導方）",
+              "台灣作為美國供應鏈盟友，若美歐貿易戰升溫，台灣半導體在美市場優勢相對擴大"
+            ]
+          },
+          {
+            "region": "歐盟",
+            "values": [
+              "呼籲對話、表態準備反制，實際以外交施壓為主，避免全面貿易戰",
+              "派貿易委員赴巴黎緊急磋商，馮德萊恩警告啟動報復選項",
+              "高（美國是歐盟最大出口目的地之一，尤以汽車為甚）",
+              "台歐若推進雙邊談判，美歐貿易緊張是台灣的潛在談判籌碼"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "強調開放貿易、否認刻意追求貿易順差，以多邊主義包裝外交形象",
+              "快速重組出口目的地，積極填補美國縮減的全球市場份額",
+              "低（正快速降低，對美出口跌 11%，對非洲/東協/歐盟大幅增加）",
+              "中國轉向東南亞、非洲市場，與台灣在這些地區的出口形成直接競爭"
+            ]
+          }
+        ]
+      },
+      "why_read": "三套不同的全球化邏輯正在 2026 年 5 月被同時測試，中國「繞行」策略在數據上目前最有效——但這對台灣的東南亞、非洲出口版圖也是直接挑戰，對讀三方邏輯才能看清楚台灣的位置。",
+      "topic_tags": ["經濟與貿易", "地緣政治"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Al Jazeera",
+          "media_country": "卡達",
+          "source_tier": "A",
+          "url": "https://www.aljazeera.com/news/2026/5/5/why-europes-car-industry-is-at-the-centre-of-a-new-us-trade-war",
+          "original_language": "en",
+          "fetched_at": "2026-05-06T09:40:00+08:00",
+          "supports_region": "歐盟"
+        },
+        {
+          "media_name": "Foreign Policy Journal",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "獨立外交政策媒體",
+          "url": "https://www.foreignpolicyjournal.com/2026/05/05/exclusive-china-reiterates-commitment-to-free-trade-denies-deliberately-pursuing-trade-surplus/",
+          "original_language": "en",
+          "fetched_at": "2026-05-06T09:41:00+08:00",
+          "supports_region": "中國"
+        },
+        {
+          "media_name": "Bloomberg",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-01/trump-says-us-to-raise-tariff-rate-on-eu-cars-trucks-to-25",
+          "original_language": "en",
+          "fetched_at": "2026-05-06T09:42:00+08:00",
+          "supports_region": "美國"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "夾縫中的外交舞台：亞美尼亞五月主辦歐洲政治共同體峰會",
+      "title_original": "News from Georgia, Azerbaijan, Armenia 4-8 May 2026 — European Political Community summit in Yerevan",
+      "one_liner": "40 個歐洲國家聚集葉里溫，亞美尼亞搭起俄土夾縫間的歐洲外交橋頭堡。",
+      "summary": "亞美尼亞首都葉里溫（Yerevan）本週成為歐洲外交焦點——歐洲政治共同體（European Political Community, EPC）峰會在此舉行，與會者涵蓋歐盟 27 個成員國及土耳其、英國、烏克蘭等非成員，約 40 個國家的領導人或代表出席。亞美尼亞外長米爾佐揚（Ararat Mirzoyan）與總理帕希尼揚（Nikol Pashinyan）主持開幕，並舉辦「南高加索：轉折點與合作展望」專題討論，邀請土耳其特使、歐盟南高加索特別代表、喬治亞副外長及亞塞拜然代表同台對話。同期消息：土亞兩國簽署協議，聯合修復橫跨兩國邊境的歷史古橋「阿尼橋」（Ani Bridge），這條建於 10–11 世紀的絲路橋梁是兩國自 1993 年關閉邊境以來最具象徵意義的和解工程。峰會選擇在亞美尼亞舉行，本身即具地緣政治意涵：這個長期被俄羅斯視為「後院」的小國，正在以外交策略向歐洲靠攏。",
+      "why_read": "亞美尼亞在台灣媒體幾乎完全缺席，但它正在進行一場沉默的地緣政治重定位——從後蘇聯軌道走向歐洲框架。葉里溫峰會是這個夾縫小國難得的全球曝光時刻，也是高加索地區和解可能性的一個具體訊號。",
+      "topic_tags": ["民主與威權治理", "地緣政治"],
+      "region": "亞美尼亞",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Jam News",
+        "media_country": "喬治亞",
+        "source_tier": "B",
+        "source_tier_note": "高加索地區英語新聞媒體",
+        "url": "https://jam-news.net/news-from-georgia-azerbaijan-armenia-4-8-may-2026/",
+        "original_language": "en",
+        "fetched_at": "2026-05-06T09:45:00+08:00"
+      }
+    }
+  ]
+}
