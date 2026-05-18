@@ -1,0 +1,269 @@
+{
+  "report_id": "2026-05-18-1000",
+  "generated_at": "2026-05-18T10:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "北韓棄統一、川習峰會讓盟友焦慮、剛果伊波拉升為全球緊急事件",
+    "summary": "本期涵蓋南韓、北韓、日本、印度、越南、剛果、南非、奈及利亞及冷門的亞美尼亞（高加索），共10則（6則重大新聞＋1篇跨地區比較＋1則冷門隨機）。\n\n本期三個最值得關注的重點：其一，北韓5月正式修憲刪除「和平統一朝鮮半島」條款，同時首次明訂領土南界為南北韓邊界——金正恩「兩個主權國家」路線至此完成法律定案，改變70年來朝鮮半島的基本政治敘事。其二，川普與習近平5月14-15日北京峰會結果遠低預期，只拿到200架波音訂單與部分農業協議；日本與歐盟對「美中G2雙邊秩序」的焦慮在本期比較單元中清晰呈現。其三，剛果伊波拉疫情5月16日被WHO宣告為「國際公衛緊急事件」（PHEIC），現有疫苗對此病毒株無效，且已擴散至烏干達。\n\n冷門補充：高加索小國亞美尼亞於5月4-5日迎來史上首屆EU-Armenia峰會，這個長期夾在俄羅斯與亞塞拜然之間的國家，正式走上歐洲整合路線。",
+    "regions_covered": ["南韓", "北韓", "日本", "印度", "越南", "剛果", "南非", "奈及利亞", "美國", "中國", "歐盟", "亞美尼亞"],
+    "topics_covered": ["AI 與科技", "民主與威權治理", "民生", "經濟與貿易", "科學與健康", "文化與社會議題", "地緣政治"],
+    "highlights": [
+      "北韓5月修憲正式刪除統一條款，朝鮮半島70年分治敘事完成法律定案",
+      "川習北京峰會成果有限，歐盟與日本擔憂被美中雙邊秩序排除在外",
+      "剛果伊波拉升格WHO國際公衛緊急事件，現有疫苗無效且已跨境擴散至烏干達"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "南韓兵源危機：軍方探索與現代汽車合作，讓機器人犬走上前線",
+      "title_original": "South Korea Exploring Using Hyundai Robots as Army Numbers Fall",
+      "one_liner": "南韓六年內兵力縮減20%，軍方正式評估與現代汽車的機器人夥伴關係，Spot機器犬率先用於偵察任務。",
+      "summary": "南韓軍隊目前兵力約45萬人，較六年前縮減近20%，全球最低出生率使這一數字預計持續下降。首爾軍方正評估與現代汽車展開策略夥伴關係，在前線部署AI驅動的無人系統。具體規劃包括：波士頓動力（Boston Dynamics）四腳機器人Spot執行監控與偵察、四輪MobED平台擔任後勤支援、X-ble Shoulder外骨骼輔助士兵負重，優先聚焦非戰鬥角色。現代汽車具備特殊優勢：為電動車開發的電子架構可直接移植機器人平台，2026年初該公司已向南韓消防局捐贈無人消防機器。南韓軍事機器人化討論從研發層面正式進入採購評估階段。",
+      "why_read": "這不只是「機器人很酷」的科技故事，而是人口結構危機迫使一個國家重新定義國防兵源的極端現實。台灣面臨相似的少子化與兵役困境，南韓的這個方向值得認真追蹤。",
+      "topic_tags": ["AI 與科技", "民生"],
+      "region": "南韓",
+      "importance": "major",
+      "source": {
+        "media_name": "Bloomberg",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall",
+        "original_language": "en",
+        "fetched_at": "2026-05-18T09:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "北韓修憲：正式刪除「統一」目標，首次明訂領土南界為南北韓邊界",
+      "title_original": "N. Korea removes 'unification' reference from constitution",
+      "one_liner": "北韓最高人民會議3月通過修憲，刪除「和平統一朝鮮半島」條款，新增「領土南界為南北韓邊界」的條文。",
+      "summary": "北韓最高人民會議於3月通過憲法修正案，5月初正式公布。此次修憲有兩大核心改變：一是刪除自1992年起存在的「和平統一朝鮮半島」條款；二是新增第二條，明確將北韓領土定義為「北接中俄、南接大韓民國」之範圍——這是北韓憲法首次出現領土界定條款。新憲法同時強化了金正恩「國家元首」地位，並確立其對核武的專有指揮控制權。這被視為金正恩2024年宣示「兩個主權國家路線」的法律定案。與此同時，北韓宣布今年內將部署可打擊首爾、射程逾60公里的155公釐自走砲系統，並即將服役首艘驅逐艦。",
+      "why_read": "北韓70年來的憲法都寫著「統一」，如今這兩個字被換成「兩國邊界」。這是法律意義上的「永久分治宣言」，不是修辭。觀察朝鮮半島走向，一向是台灣看待自身處境的重要參照座標。",
+      "topic_tags": ["民主與威權治理", "地緣政治"],
+      "region": "北韓",
+      "importance": "major",
+      "source": {
+        "media_name": "The Korea Herald",
+        "media_country": "南韓",
+        "source_tier": "B",
+        "source_tier_note": "南韓主流英文媒體",
+        "url": "https://www.koreaherald.com/article/10732099",
+        "original_language": "en",
+        "fetched_at": "2026-05-18T09:05:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "OECD日本調查：食品通膨趨緩，但中東能源風險仍是最大下行隱憂",
+      "title_original": "BOJ's policy rate likely to reach 2% by end-2027, OECD says",
+      "one_liner": "OECD 5月13日發布日本經濟調查，食品通膨降至17個月低點，但中東局勢仍是日本最大外部風險，BOJ利率預計2027年底達2%。",
+      "summary": "OECD 5月13日發布2026年日本經濟調查。主要發現：日本GDP增長料從2025年的1.3%放緩至2026-27年的0.9%；食品通膨率降至3.6%（17個月低點），此前受能源與糧食壓力推升的食品價格開始趨緩；日本銀行（BOJ）政策利率預計於2027年底升至2%，升息路徑確立但步伐審慎。OECD同時指出中東局勢持續不穩定是日本最大外部下行風險——日本石油進口依賴度近90%，霍爾木茲通路一旦受阻，直接衝擊食品與工業成本。首相高市早苗表示石油供應在2026年底前已有替代路線，但長期方案仍未明朗。",
+      "why_read": "這份調查是「遠方戰事如何打到你餐桌」的最直接示範：中東的霍爾木茲局勢，具體化為日本的食品物價和央行升息壓力。台灣能源進口依賴結構類似日本，這個脈絡值得對比思考。",
+      "topic_tags": ["民生", "經濟與貿易"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "The Japan Times",
+        "media_country": "日本",
+        "source_tier": "B",
+        "source_tier_note": "日本主流英文媒體",
+        "url": "https://www.japantimes.co.jp/business/2026/05/13/economy/boj-policy-rate-oecd-estimate/",
+        "original_language": "en",
+        "fetched_at": "2026-05-18T09:10:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "印度、越南升格「全面戰略夥伴」：13項協議觸及稀土、潛艦維修與印太安全",
+      "title_original": "India, Vietnam elevate ties to enhanced comprehensive strategic partnership; set $25 billion trade target",
+      "one_liner": "越南總統5月5-7日訪問印度，兩國升格夥伴關係並簽署13項協議，含稀土合作與印度協助維修越南潛艦。",
+      "summary": "越南總統蘇林（Tô Lâm）於5月5至7日訪問印度，兩國宣布升格為「增強型全面戰略夥伴關係」，簽署涵蓋科技、貿易、國防、文化與關鍵礦產的13項協議，訂定2030年雙邊貿易目標250億美元（目前約150億）。國防合作是核心亮點：印度將提供越南蘇愷-30戰機與基洛級潛艦的維修服務，越南亦加入印太海洋倡議。稀土礦物合作協議備受矚目——雙方將建立不繞道中國的關鍵礦產直接合作機制。背景是越南在南海持續面對中國壓力，印度則推進「東向政策」的安全化布局，兩國利益高度契合。",
+      "why_read": "台灣極少追蹤「印度—越南」這條軸線，但兩國在稀土礦物與潛艦維護上的直接合作，正打造一條繞開中國的印太供應鏈。這對台積電與台灣半導體業所仰賴的礦物來源多元化布局，是值得密切觀察的地緣訊號。",
+      "topic_tags": ["經濟與貿易", "地緣政治"],
+      "region": "印度",
+      "importance": "major",
+      "source": {
+        "media_name": "Deccan Herald",
+        "media_country": "印度",
+        "source_tier": "B",
+        "source_tier_note": "印度主流英語媒體",
+        "url": "https://www.deccanherald.com/amp/story/india/india-vietnam-elevate-ties-to-enhanced-comprehensive-strategic-partnership-set-25-billion-trade-target-3993053",
+        "original_language": "en",
+        "fetched_at": "2026-05-18T09:15:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "剛果伊波拉疫情：WHO宣告「國際公衛緊急事件」，現有疫苗對此株無效",
+      "title_original": "Health officials raise alarm over new Ebola outbreak in DR Congo",
+      "one_liner": "WHO 5月16日宣告剛果伊波拉（Bundibugyo株）為PHEIC，DRC已逾336名疑似病例、88例死亡，且疫苗不適用、已擴散至烏干達。",
+      "summary": "剛果民主共和國（DRC）東部伊圖里省於4月下旬爆發伊波拉疫情，病毒株為Bundibugyo（不同於2014年西非疫情的Zaire株）。WHO於5月16日宣告為「國際公衛緊急事件」（PHEIC）——歷史上宣告案例極少。截至5月16日，DRC有336名疑似病例、88例死亡；烏干達出現2例確診、1例死亡，顯示疫情已跨境擴散。最令公衛界憂慮的是：目前已核准的伊波拉疫苗（Ervebo）對Bundibugyo株效力不佳，無現成可用疫苗。非洲疾管中心（Africa CDC）緊急召集超過130個國家和組織代表的協調會議，美、英、歐盟均承諾投入資源。疫情發源地為礦業小鎮Mongbwalu及Rwampara，人員流動是主要擴散風險。",
+      "why_read": "這次病毒株沒有現成疫苗，WHO在確診個案數仍少時就拉最高警報——這個速度本身說明全球公衛界2014年後的學習曲線。剛果疫情對全球供應鏈和非洲區域穩定的潛在影響，值得持續追蹤。",
+      "topic_tags": ["科學與健康"],
+      "region": "剛果",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "url": "https://www.aljazeera.com/news/2026/5/15/health-officials-raise-alarm-over-new-ebola-outbreak-in-dr-congo",
+        "original_language": "en",
+        "fetched_at": "2026-05-18T09:20:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "南非排外暴力升溫：兩名奈及利亞公民確認遇難，拉馬福薩首度公開回應",
+      "title_original": "Nigerians seek return from South Africa amid xenophobia concerns",
+      "one_liner": "南非針對外籍人士的暴力事件造成至少2名奈及利亞公民死亡，拉馬福薩公開表態，奈及利亞啟動自願撤僑並召見南非外交官。",
+      "summary": "繼4月底南非反非法移民示威與外籍人士攻擊事件升溫後，奈及利亞駐約翰尼斯堡領事館於5月初確認兩名公民遭殺害：Amaramiro Emmanuel與Ekpenyong Andrew均因排外相關暴力事件不治。奈及利亞外交部召見南非代辦表達「強烈關切」，並宣布啟動自願撤僑——但政府聲明指出費用由當事人自行負擔，此舉在奈及利亞媒體引發「政府應對軟弱」的批評，《ThisDay》等媒體發表強烈評論。南非總統拉馬福薩於5月12日首次公開表態，稱這些攻擊是「機會主義者煽動的仇恨」，表示南非「沒有容許仇外心理的空間」。逾130名奈及利亞人已登記撤僑意願，迦納、肯亞等多個非洲國家亦持續關切局勢。",
+      "why_read": "上期報告是這個故事的爆發點，本期是後續：有名有姓的受害者、外交召見、以及奈及利亞媒體對本國政府「手軟」的批評。非洲內部南北矛盾的外交化，比「排外新聞」本身更值得追蹤。",
+      "topic_tags": ["文化與社會議題"],
+      "region": "南非",
+      "importance": "normal",
+      "source": {
+        "media_name": "Africanews",
+        "media_country": "喀麥隆",
+        "source_tier": "B",
+        "source_tier_note": "非洲主流多語言新聞平台（France 24 旗下）",
+        "url": "https://www.africanews.com/2026/05/05/nigerians-seek-return-from-south-africa-amid-xenophobia-concerns/",
+        "original_language": "en",
+        "fetched_at": "2026-05-18T09:25:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "川習北京峰會後，誰最焦慮？——美、中、日、歐盟的四方反應對比",
+      "comparison_topic": "川習北京峰會（2026年5月）各方反應",
+      "regions": ["美國", "中國", "日本", "歐盟"],
+      "narrative": "5月14至15日，美國總統川普訪問北京，與中國主席習近平舉行了被各方高度期待的峰會。結果讓很多人失望：交出的成果是200架波音飛機訂單（遠低於川普事前吹噓的500架）、部分農業開放（中國重新允許進口美國大豆）、以及一個模糊的「繼續對話」框架。台灣問題沒有解決：習近平在公開聲明中明確告訴川普，台灣是中美關係「最重要的議題」，若「處理不當」可能導致衝突。\n\n這場峰會最值得關注的，不是美中之間發生了什麼，而是美中之外的各方如何解讀。\n\n日本的焦慮最直接：華盛頓和北京在天壇廟前把酒言歡、慶祝「21世紀兩大超強」的姿態，讓東京覺得自己被晾在門外。日本媒體普遍以「G2雙頭壟斷秩序」來描述這場峰會，歐洲智庫CEPA的分析指出，日歐從未被事先諮詢，峰會成果也沒有照顧到它們的核心關切（如稀土出口管制、科技解除限制等）。\n\n歐盟的反應更加保留：Euronews的分析標題直接是「令人失望的峰會結果，讓川普回到現實」。歐盟始終沒有被納入談判框架，而美中雙邊處理稀土管制等議題，直接影響歐洲的工業與科技供應鏈。\n\n中國官媒則大篇幅呈現習近平以主場身分接待川普的外交勝利姿態，強調主權立場在台灣問題上的清晰表達，以及中國在貿易談判中的「有序讓步」而非被迫讓步。美中雙方各取所需的詮釋空間，恰恰說明這次峰會最大的結構性問題：美中雙邊包辦模式正在讓其他中等強國感到更加邊緣化——無論是盟友日本，還是多邊框架的守護者歐盟。",
+      "comparison_table": {
+        "dimensions": ["政府／官方立場", "主流媒體焦點", "民間或學界反應", "對台灣的潛在影響"],
+        "rows": [
+          {
+            "region": "美國",
+            "values": [
+              "川普稱峰會「非常成功」，強調波音訂單與大豆進口，定調為貿易去風險的開始",
+              "主流媒體較保留，聚焦「成果遠低預期」（200架 vs 500架波音）及台灣問題未解",
+              "外交學界普遍認為這是「穩定化」而非「突破」，部分鷹派批評川普過快讓步",
+              "習近平公開警告台灣問題若「處理不當」會引發衝突，川普回應模糊，台灣安全保障訊號更不確定"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "官媒以「主場外交勝利」定調，強調中國在對等基礎上接待美國總統，主權立場完整表達",
+              "人民日報、新華社大篇幅報導習近平主場姿態，淡化讓步內容、突顯美方「有所收斂」",
+              "微博輿論偏向民族自豪，認為「讓川普來北京本身就是勝利」",
+              "北京視台灣問題的清晰表達為峰會最大成果，且此次無需付出代價即讓美方知悉紅線所在"
+            ]
+          },
+          {
+            "region": "日本",
+            "values": [
+              "外務省措辭謹慎，未公開批評，但官員私下向媒體透露對被排除在外的深度擔憂",
+              "日媒以「G2秩序形成」為核心敘事，《日本經濟新聞》分析「美日同盟的籌碼在弱化」",
+              "CEPA等智庫直言：稀土和科技管制等日本最關心的議題，在雙邊談判中根本沒被觸及",
+              "若美中雙邊框架持續深化，日本在東北亞的戰略空間將被壓縮，台灣議題的多邊支持也更難組建"
+            ]
+          },
+          {
+            "region": "歐盟",
+            "values": [
+              "歐盟委員會謹慎表示「期待了解細節」，但多名歐洲議會議員公開批評成果有限且未諮詢歐洲",
+              "Euronews標題為「令人失望的峰會結果讓川普回到現實」，法媒普遍較悲觀",
+              "歐洲學界擔心稀土和AI晶片管制的雙邊解決方案，讓歐洲被隔離在供應鏈重組之外",
+              "歐盟在台灣問題上無正式軍事角色，若美中雙邊化處理成為常態，歐洲的集體聲明將更難轉化為實際影響力"
+            ]
+          }
+        ]
+      },
+      "why_read": "這場峰會的「有限成果」本身不是最大的故事，最大的故事是：美中雙邊包辦模式正在讓盟友和中等強國感到被邊緣化。這個G2動態的形成，對台灣的國際空間與安全保障訊號，都有深遠意涵。",
+      "topic_tags": ["經濟與貿易", "地緣政治"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "CNBC",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
+          "original_language": "en",
+          "fetched_at": "2026-05-18T09:30:00+08:00",
+          "supports_region": "美國"
+        },
+        {
+          "media_name": "CBS News",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://www.cbsnews.com/news/trump-xi-jinping-meeting-china-beijing-trade-tariffs-taiwan-iran/",
+          "original_language": "en",
+          "fetched_at": "2026-05-18T09:31:00+08:00",
+          "supports_region": "中國"
+        },
+        {
+          "media_name": "CEPA (Center for European Policy Analysis)",
+          "media_country": "美國",
+          "source_tier": "A",
+          "source_tier_note": "美國智庫，專注歐洲與跨大西洋政策",
+          "url": "https://cepa.org/article/a-global-g2-xi-trump-summit-spurs-europe-japan-jitters/",
+          "original_language": "en",
+          "fetched_at": "2026-05-18T09:32:00+08:00",
+          "supports_region": "日本"
+        },
+        {
+          "media_name": "Euronews",
+          "media_country": "法國",
+          "source_tier": "A",
+          "url": "https://www.euronews.com/2026/05/15/underwhelming-summit-outcome-in-china-brings-trump-back-to-reality",
+          "original_language": "en",
+          "fetched_at": "2026-05-18T09:33:00+08:00",
+          "supports_region": "歐盟"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "高加索轉向：史上首屆歐盟—亞美尼亞峰會在葉里溫召開，正式走向西方整合",
+      "title_original": "Joint declaration following the first Armenia–EU summit",
+      "one_liner": "亞美尼亞5月4-5日迎來首屆EU-Armenia峰會，歐盟宣布部署駐亞美尼亞民事任務（EUPM），這個高加索小國正式啟動歐洲整合路線。",
+      "summary": "2026年5月4至5日，歐盟理事會主席科斯塔（António Costa）與歐委會主席馮德萊恩（Ursula von der Leyen）訪問葉里溫，與亞美尼亞總理帕希尼揚（Nikol Pashinyan）舉行史上首屆EU-Armenia雙邊峰會，同期舉辦第八屆「歐洲政治共同體」峰會。在安全合作上，歐盟4月21日已啟動「歐盟駐亞美尼亞夥伴任務」（EUPM Armenia）——這是歐盟有史以來第一次在高加索地區部署民事安全任務。背景是：2020年與2023年兩次納戈爾諾-卡拉巴赫（Nagorno-Karabakh）戰爭後，俄羅斯幾乎按兵不動，讓亞美尼亞深切感受到「傳統安全夥伴」的空洞，帕希尼揚政府由此加速西向轉型。雙方在2025年12月簽署的新版戰略框架下，進一步深化能源、運輸與數位合作。",
+      "why_read": "亞美尼亞長期是俄羅斯的後院，如今歐盟卻在葉里溫設立安全任務、召開峰會。這是高加索地緣格局重組最清晰的信號，也是「俄羅斯勢力圈正在鬆動」的具體案例。台灣媒體幾乎從未追蹤這個方向，但它正在靜靜地改變歐洲東部安全地圖。",
+      "topic_tags": ["地緣政治", "民主與威權治理"],
+      "region": "亞美尼亞",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Council of the European Union",
+        "media_country": "比利時",
+        "source_tier": "A",
+        "source_tier_note": "歐盟理事會官方新聞稿",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/05/joint-declaration-following-the-first-armenia-eu-summit/",
+        "original_language": "en",
+        "fetched_at": "2026-05-18T09:35:00+08:00"
+      }
+    }
+  ]
+}
