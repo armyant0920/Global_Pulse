@@ -89,7 +89,14 @@ JSON 資料完全結構化，未來想轉移到其他平台（部落格、Notion
 
 ## 排程執行（進階）
 
-試跑階段建議手動執行 5-10 次，調整地區比例與議題篩選滿意後，再考慮搬到 Claude Cowork 做定期排程。
+試跑階段建議手動執行 5-10 次，調整地區比例與議題篩選滿意後，再考慮搬到 Claude Cowork / Routines 做定期排程。
+
+排程用的標準 prompt 範本已放在 [`skill/routine-prompt.md`](skill/routine-prompt.md)，含：
+- 自動排程模式的指令（會跳過互動式確認）
+- GitHub 推送步驟
+- 可選的「輪換 / 隨機 / 鎖定」變化型範例
+
+**重要**：實際 prompt 在 Routines 介面填入時要把 `<PAT>` 換成 GitHub Personal Access Token，**不要**把含真實 PAT 的版本提交到 repo。若 PAT 不慎外洩，立刻去 GitHub Settings → Developer settings 撤銷重發。
 
 ---
 
