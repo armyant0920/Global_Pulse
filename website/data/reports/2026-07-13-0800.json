@@ -1,0 +1,274 @@
+{
+  "report_id": "2026-07-13-0800",
+  "generated_at": "2026-07-13T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "日本AI國家隊成軍、剛果伊波拉破六百死、旭日旗世界盃開戰：七月第二週跨地區速報",
+    "summary": "本期跑了日本、南韓、剛果民主共和國、越南、喬治亞、亞塞拜然，以及涵蓋歐盟、中國、越南、日本的關稅地緣比較單元，共十一則。本週最值得關注的三條線：一是日本政府砸六十億美元押注「主權AI」，聯合SoftBank、Sony、NEC、Honda建立Noetra聯盟，路線不是追趕通用大模型，而是在醫療照護、製造業、核災現場建立垂直護城河；二是剛果民主共和國伊波拉疫情持續惡化，七月初死亡人數突破六百，Bundibugyo型病毒株正好不在現有核准療法的適用範圍，華語媒體幾乎零報導；三是世界盃日本球迷在美國賽場揮舞旭日旗，南韓向FIFA提正式投訴，一場足球賽事讓亞洲歷史傷口在北美舞台再度浮現。本期比較單元聚焦七月二十四日美國關稅大限逼近，歐盟、中國、越南、日本的地緣算盤如何分歧。冷門地區來自高加索，亞塞拜然與喬治亞、土耳其剛完成三國聯合特種部隊演習。",
+    "regions_covered": ["日本", "南韓", "剛果民主共和國", "越南", "泰國", "喬治亞", "亞塞拜然", "歐盟", "中國", "美國"],
+    "topics_covered": ["AI 與科技", "軟性生活議題", "科學與健康", "民生", "民主與威權治理", "經濟與貿易"],
+    "highlights": [
+      "日本砸六十億美元建立Noetra主權AI聯盟，策略是垂直深耕本地場景而非追趕通用大模型",
+      "剛果伊波拉疫情七月初破六百死，Bundibugyo型病毒株讓現有療法失效，治療試驗剛啟動",
+      "世界盃旭日旗事件升級為南韓正式外交投訴，亞洲歷史傷口在北美球場上演"
+    ],
+    "stats": {
+      "total_items": 11,
+      "news_items": 6,
+      "comparison_items": 4,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "日本砸六十億美元建立主權AI聯盟Noetra，目標是在長照、製造與核災現場取得全球領先",
+      "title_original": "Japan plans sovereign AI model and 10 million AI robots",
+      "one_liner": "日本政府資助SoftBank等四家巨頭組成Noetra聯盟，不挑戰OpenAI，而是在老齡照護與製造業建立AI護城河。",
+      "summary": "日本政府宣布以總計約六十億美元（一兆日圓，分五年投入）資助Noetra聯盟，成員包含SoftBank、Sony、NEC與Honda，並與產業技術總合研究所（AIST）合作，目標是建立本土AI基礎模型。Noetra的定位刻意迴避與OpenAI、Anthropic的正面對決，轉而聚焦日本具有獨特資料優勢的領域：高齡照護、製造工廠現場、福島第一核電廠除役作業及自然災害應對。政府同步設定2040年在十八個產業部署一千萬台AI機器人的目標，涵蓋餐飲、食品製造與醫療照護。參與Noetra的企業預計擴增至四十四家，涵蓋汽車、電子、金融與物流業。日本政府另已核准「生成式AI政府採購與應用指引」，為公部門導入AI提供制度依據。",
+      "why_read": "日本選擇的AI路線——在本地垂直場景建立護城河而非追求通用模型——與美中競逐的邏輯截然不同，但長遠可能是更難被複製的優勢。這個「垂直深耕」vs「水平通用」的分野，是觀察AI國家戰略不可錯過的對比。",
+      "topic_tags": ["AI 與科技"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "The Japan Times",
+        "media_country": "日本",
+        "source_tier": "A",
+        "source_tier_note": "日本英語獨立大報",
+        "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/",
+        "original_language": "en",
+        "fetched_at": "2026-07-13T07:20:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "世界盃旭日旗風波：日本球迷在美國賽場揮舞二戰旗幟，南韓向FIFA提正式外交投訴",
+      "title_original": "Uproar at the World Cup: Japanese fans waved their World War II-era flag in the USA",
+      "one_liner": "日本球迷在世界盃賽場揮旭日旗，南韓提出官方投訴，歷史傷口在足球場上再度點燃。",
+      "summary": "2026年世界盃在美國、加拿大、墨西哥舉辦，日本球迷在墨西哥蒙特瑞體育場的日本對突尼西亞小組賽中揮舞旭日旗，直接違反FIFA禁止展示具攻擊性政治象徵的規定。南韓隨即向FIFA提出正式申訴，要求追究責任。旭日旗在南韓、中國及多個亞洲國家被視為日本帝國主義侵略的象徵，其在國際體育賽事中出現每次都引發外交層面的連鎖反應。與此同時，另一段影片在社群媒體廣泛流傳：日本隊遭淘汰後，一名崩潰痛哭的日本球迷獲得巴西與墨西哥球迷主動圍繞安慰，該片段獲超過五百萬次觀看。兩個場景並置，呈現了日本在本屆世界盃的複雜存在。至截稿時，四強賽為法國對西班牙與阿根廷對英格蘭，決賽定於七月十九日。",
+      "why_read": "旭日旗爭議並非新議題，但在全球收視的世界盃場合正式進入FIFA政治議程，是罕見升級。此事件清楚顯示：亞洲的歷史傷痛不會因為移到北美場地就被抹去，反而在更廣的國際社會中被迫上演。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "i24NEWS",
+        "media_country": "以色列",
+        "source_tier": "B",
+        "source_tier_note": "以色列國際新聞頻道",
+        "url": "https://www.i24news.tv/en/news/fifa-world-cup-2026/artc-uproar-at-the-world-cup-japanese-fans-waved-their-world-war-ii-era-flag-in-the-usa",
+        "original_language": "en",
+        "fetched_at": "2026-07-13T07:22:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "剛果伊波拉疫情七月突破六百死，Bundibugyo病毒株讓現有療法失效，WHO治療試驗剛啟動",
+      "title_original": "Ebola death toll in DR Congo surpasses 500",
+      "one_liner": "剛果2026年伊波拉疫情近年最嚴重，七月初確診逾一千七百例、死亡破六百，WHO的治療試驗剛剛開始。",
+      "summary": "剛果民主共和國2026年伊波拉疫情截至七月上旬已確認一千七百九十二例，死亡人數突破六百，WHO於五月十六日宣布本次疫情為「國際關注公共衛生緊急事件（PHEIC）」，是全球最高級衛生警戒。此次疫情特殊之處在於病毒株：引發本次疫情的是Bundibugyo型伊波拉病毒，而現有核准療法（MBP134單株抗體與抗病毒藥物remdesivir）是為Zaire型設計，對Bundibugyo型效力存疑，因此WHO在七月二日才啟動新的臨床試驗評估替代療法。主要爆發地在伊圖裏省（逾一千六百三十一例），北基伍省與南基伍省亦有波及；烏干達出現二十例跨境案例。WHO坦言疫情「真實規模尚未完整確立」，每日平均新增三十八例。",
+      "why_read": "這次疫情在亞洲華語媒體幾乎完全缺席。Bundibugyo型病毒株讓現有核准療法派不上用場這一技術細節，正是本次疫情比以往更難控制的關鍵——不是資源問題，而是科學問題。值得持續追蹤。",
+      "topic_tags": ["科學與健康"],
+      "region": "剛果民主共和國",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "source_tier_note": "國際公認獨立媒體",
+        "url": "https://www.aljazeera.com/news/2026/7/6/ebola-death-toll-in-dr-congo-surpasses-500",
+        "original_language": "en",
+        "fetched_at": "2026-07-13T07:24:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "越南名目GDP逼近泰國，世界銀行預測最快2027年完成超越，東南亞製造重心悄然位移",
+      "title_original": "Vietnam, Thailand to suffer most among ASEAN-5 in 2026: World Bank",
+      "one_liner": "越南成長率衝7.8%，泰國僅剩1.3%，東南亞第二大經濟體的寶座正面臨歷史性易主。",
+      "summary": "越南2026年第一季GDP成長率達7.83%，零售銷售1至4月年增12.1%，政府設下全年10%成長目標。世界銀行預估越南全年可維持6.8%成長，OECD預測6.2%。相較之下，泰國因家庭債務高企、美國關稅衝擊與強勢泰銖壓縮出口，全年成長恐僅1.3%，是ASEAN-5中差距最懸殊的兩個案例。多家分析機構估算，越南名目GDP最快可於2026至2027年間超越泰國，製造業外資流入與數位服務擴張是主要動能。越南同時積極發展旅遊業，成為東南亞成長最快的旅遊目的地之一，但也面臨泰國式「過度觀光」的警惕。泰國外資雖在數據中心與雲端服務仍有動能，整體增速遠遜越南。",
+      "why_read": "東南亞製造業重心位移是過去十年的緩慢趨勢，但「越南GDP超越泰國」若成真，將是區域政治地位的象徵性翻轉。從台灣供應鏈轉移的角度來看，越南已成為台廠最重要的第二製造基地之一，這個換位牽連甚廣。",
+      "topic_tags": ["民生", "經濟與貿易"],
+      "region": "越南",
+      "importance": "major",
+      "source": {
+        "media_name": "Nikkei Asia",
+        "media_country": "日本",
+        "source_tier": "A",
+        "source_tier_note": "日經亞洲版，國際公認財經獨立媒體",
+        "url": "https://asia.nikkei.com/economy/vietnam-thailand-to-suffer-most-among-asean-5-in-2026-world-bank",
+        "original_language": "en",
+        "fetched_at": "2026-07-13T07:26:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "南韓《半導體特別法》正式施行，設總統直屬委員會護航晶片產業，NVIDIA與SK Hynix宣布多年深度合作",
+      "title_original": "South Korea implements the Semiconductor Special Act",
+      "one_liner": "南韓立法設置總統直屬半導體委員會，同時與NVIDIA達成多年合作，全面鞏固晶片產業戰略地位。",
+      "summary": "南韓本月正式施行《半導體特別法》，核心措施包括在總統府設立「半導體產業競爭力強化特別委員會」、指定半導體特別聚落並配套基礎建設。此法被業界視為南韓版的《晶片法案》，是政府直接介入半導體生態系的重要制度信號。與此同時，NVIDIA與SK Hynix宣布多年技術合作，雙方共同研發下一代記憶體，配合NVIDIA的AI基礎設施藍圖；SK Hynix亦將使用NVIDIA工具加速半導體模擬並建立數位孿生廠房系統。美國智庫CSIS的PacTech Pulse分析指出，南韓在AI專利人均數量上居全球第一，在2025年可重要AI模型產出量上僅次美國與中國，整體AI研發實力躍升全球第四。",
+      "why_read": "南韓把半導體列為「國家核心戰略產業」並設置總統直屬委員會，力度超過多數民主國家。NVIDIA-SK Hynix合作的時間點也說明：在中美技術脫鉤的情境下，誰能跟誰合作本身已是地緣政治判斷，不只是商業決策。",
+      "topic_tags": ["AI 與科技"],
+      "region": "南韓",
+      "importance": "major",
+      "source": {
+        "media_name": "CSIS PacTech Pulse",
+        "media_country": "美國",
+        "source_tier": "A",
+        "source_tier_note": "美國戰略與國際研究中心（CSIS）月刊分析，公信力高",
+        "url": "https://www.csis.org/analysis/pactech-pulse-july-2026",
+        "original_language": "en",
+        "fetched_at": "2026-07-13T07:28:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "喬治亞執政黨稱最大反對黨為「垂死組織」，民主倒退加速，歐盟入盟進程實質凍結",
+      "title_original": "The ruling party of Georgia called the opposition United National Movement a \"dying organization\"",
+      "one_liner": "喬治亞「喬治亞夢」執政黨持續打壓反對黨與媒體，民主評估報告顯示轉型成果正在逆轉。",
+      "summary": "喬治亞執政黨「喬治亞夢（Georgian Dream）」近日公開稱最大反對黨「統一全國運動（UNM）」為「垂死組織」，持續壓縮反對黨政治空間。前總統薩卡什維利自2021年遭監禁，其獄中仍試圖介入UNM內部人事，引發新一輪黨內分裂。獨立民主評估機構BTI 2026年度報告指出，喬治亞民主品質顯著下滑，執政黨正系統性控制國家機構，獨立媒體空間持續收窄。歐洲議會及歐盟多次發表聲明批評喬治亞的選舉環境惡化，雙邊入盟進程實質凍結。喬治亞曾被視為後蘇聯民主轉型的相對成功案例，如今的走向被多位民主研究學者視為「非軍事、非衝突型民主倒退」的典型案例。",
+      "why_read": "喬治亞案例在台灣幾乎完全缺席，但它是民主如何在「非衝突狀態」下被系統性瓦解的教科書案例。執政黨用法律與制度把對手邊緣化，而非訴諸明顯暴力——這個模式與近年全球民主倒退的主流型態高度吻合，值得比對。",
+      "topic_tags": ["民主與威權治理"],
+      "region": "喬治亞",
+      "importance": "normal",
+      "source": {
+        "media_name": "Pravda Georgia",
+        "media_country": "喬治亞",
+        "source_tier": "B",
+        "source_tier_note": "喬治亞當地英語新聞媒體",
+        "url": "https://ge.news-pravda.com/en/georgia/2026/07/07/31403.html",
+        "original_language": "en",
+        "fetched_at": "2026-07-13T07:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "美國關稅大限七月逼近：歐盟搶先締約、中國硬撐、越南走鋼絲、日本靜待出牌",
+      "comparison_topic": "美國貿易關稅政策與各方地緣應對",
+      "regions": ["歐盟", "中國", "越南", "日本"],
+      "narrative": "2026年七月二十四日，美國依據Section 122對全球大多數貿易夥伴徵收的10%基礎關稅正式到期。取而代之的是USTR主導的Section 301調查，預計對四十六個國家課徵12.5%的新關稅，涵蓋中國、越南、日本、南韓、印度及台灣。這個截止日期讓各方的地緣算盤一覽無遺，呈現截然不同的應對策略。\n\n歐盟是本輪中唯一在七月一日前搶先完成雙邊協議的主要行為者：歐盟同意對美國工業品免除進口關稅，換取美國對歐盟商品設定15%上限（含汽車從27.5%降至15%）。這個「確定性換讓步」的策略，是歐盟在跨大西洋依存與戰略自主之間所做的現實選擇，代價是提前承認美方談判優勢，換取可預測的貿易環境。值得注意的是，歐盟仍在擴大對中國商品的貿易壁壘，同時維持對美國的讓步——顯示歐盟選擇了親美路線而非中間路線。\n\n中國的處境最複雜。五月的川習峰會後，雙方設立了貿易理事會，原則上討論對等降關稅框架，但中國仍面臨Section 301下35%以上的綜合加成，特定戰略商品關稅遠超100%。北京的策略是「以結構性反制代替逐項妥協」：通過供應鏈外移（越南、墨西哥）、「AI加消費」政策刺激內需、以及Z.ai等GLM模型展示技術追趕能力，分散關稅衝擊，同時保持談判的彈性模糊。\n\n越南的兩難最為微妙。作為大量外資製造轉移的目的地，越南本月維持10%基礎稅率，但若Section 301的12.5%方案落地，越南的出口競爭力將直接受壓；更棘手的是，美國已對包含越南在內的四十四個國家啟動「勞動法違規」調查，意味著另一層懲罰性風險疊加。越南的對策是同步加快與美國的雙邊貿易談判，以及穩固與歐盟、日本的自貿協定基底，避免過度依賴任何單一市場。\n\n日本選擇靜觀其變。目前仍維持10%基礎稅率，汽車關稅談判懸而未決。東京的策略是「以技術升級對沖關稅不確定性」——Noetra AI聯盟、半導體製造在地化（TSMC熊本廠）等長期投資，讓日本能在關稅無論如何落地都保有談判籌碼。然而，對美汽車出口占日本整體出口比重偏高，這是最脆弱的環節。\n\n對台灣而言，台灣同樣處於10%到12.5%的不確定灰區，半導體例外條款的談判進展將直接影響台灣的出口格局。這場關稅博弈的本質，已超越「保護主義vs自由貿易」的舊框架，演變為「哪個國家能用什麼代價買到確定性」的地緣算計。",
+      "comparison_table": {
+        "dimensions": ["當前關稅地位（七月）", "談判策略", "主要產業衝擊", "與台灣的關聯"],
+        "rows": [
+          {
+            "region": "歐盟",
+            "values": [
+              "七月一日起享15%上限協議，汽車從27.5%降至15%，確定性最高",
+              "搶先簽雙邊協議，以讓步換確定性，同時強化對中國貿易壁壘",
+              "汽車業受益，製藥業面臨美國Section 301新調查壓力",
+              "台灣與歐盟無類似雙邊協議，在談判博弈上相對弱勢"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "仍面臨Section 301綜合稅率35%以上，特定戰略商品超100%，不確定性最高",
+              "以拖待變、供應鏈外移越南墨西哥為跳板、GLM等模型展示技術追趕",
+              "科技、電動車、太陽能受衝擊最深，內需刺激政策是緩衝",
+              "台灣是中美供應鏈競爭的關鍵節點，中方積極在台灣以外複製替代來源"
+            ]
+          },
+          {
+            "region": "越南",
+            "values": [
+              "維持10%基礎，但面臨Section 301 12.5%及勞動法調查雙重風險",
+              "加快與美雙邊談判，同時穩固歐日自貿協定分散依賴",
+              "製造業出口最脆弱，訂單延遲風險高，旅遊業是另一成長支柱",
+              "越南是台廠供應鏈轉移的主要目的地，兩者在關稅上面臨相似困境"
+            ]
+          },
+          {
+            "region": "日本",
+            "values": [
+              "10%基礎，汽車關稅談判懸而未決，七月二十四日後走向不明",
+              "靜待美方出牌，以Noetra AI、TSMC熊本廠等技術投資強化長期韌性",
+              "對美汽車出口是最脆弱環節，佔整體出口比重高",
+              "台灣半導體在日本AI佈局中扮演核心角色，TSMC熊本廠二期是共同支點"
+            ]
+          }
+        ]
+      },
+      "why_read": "七月二十四日的關稅大限是觀察各國地緣站位的最佳時間窗：誰已搶先簽約（歐盟）、誰繼續拖延（中國）、誰最焦慮（越南）——這些答案直接反映了各方對自身籌碼的判斷。這不只是貿易政策，更是全球秩序重組中每個國家選邊站的地緣算計。",
+      "topic_tags": ["經濟與貿易"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Tax Foundation",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "美國非黨派稅收政策研究機構",
+          "url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+          "original_language": "en",
+          "fetched_at": "2026-07-13T07:32:00+08:00",
+          "supports_region": "美國（整體關稅架構）"
+        },
+        {
+          "media_name": "South China Morning Post",
+          "media_country": "香港",
+          "source_tier": "A",
+          "source_tier_note": "英語香港媒體，長期報導中港議題",
+          "url": "https://www.scmp.com/topics/us-china-trade-war",
+          "original_language": "en",
+          "fetched_at": "2026-07-13T07:32:00+08:00",
+          "supports_region": "中國"
+        },
+        {
+          "media_name": "Nikkei Asia",
+          "media_country": "日本",
+          "source_tier": "A",
+          "source_tier_note": "日經亞洲版，財經獨立媒體",
+          "url": "https://asia.nikkei.com/economy/vietnam-thailand-to-suffer-most-among-asean-5-in-2026-world-bank",
+          "original_language": "en",
+          "fetched_at": "2026-07-13T07:32:00+08:00",
+          "supports_region": "越南"
+        },
+        {
+          "media_name": "Baker Botts Tariff Tracker",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "美國律師事務所關稅政策追蹤報告",
+          "url": "https://ourtake.bakerbotts.com/post/102n7tq/trump-tariff-tracker-july-2-2026",
+          "original_language": "en",
+          "fetched_at": "2026-07-13T07:33:00+08:00",
+          "supports_region": "日本"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "高加索鷹翔2026：亞塞拜然、喬治亞、土耳其完成三國特種部隊聯演，俄羅斯後院的地緣板塊悄然位移",
+      "title_original": "\"Caucasian Eagle 2026\" joint special forces exercise concludes in Georgia",
+      "one_liner": "納卡戰後的亞塞拜然與NATO成員土耳其、喬治亞完成三國聯合軍演，高加索安全架構正在悄悄西向翻轉。",
+      "summary": "「高加索鷹2026（Caucasian Eagle 2026）」三國聯合特種部隊演習近日在提比里西近郊穆赫拉尼軍事基地圓滿結束，參與國為亞塞拜然、喬治亞與土耳其。演習內容包括建築清除、控制爆破、直升機插入作戰及戰術協同訓練。這場演習的地緣意涵遠超純軍事演練：土耳其是NATO成員國，三方軍事協調等同於將NATO的作戰語言帶入高加索核心地帶；亞塞拜然在2020至2023年奪回納卡地區後，正快速整合進以土耳其為樞紐的西向軍事網絡；喬治亞即便國內民主倒退，在安全政策上仍明顯傾向西向。同期，亞塞拜然國家石油公司SOCAR在烏克蘭南部的加油站被俄羅斯無人機擊毀，再度顯示巴庫在俄烏戰爭中的高度曝險位置。亞塞拜然總統阿利耶夫亦在美國獨立日致電祝賀川普，並表示「今日亞塞拜然與亞美尼亞和平共存並發展貿易往來」。",
+      "why_read": "高加索在華語媒體能見度幾近於零，但「高加索鷹2026」清楚揭示：納卡戰後俄羅斯在南高加索的影響力正在加速萎縮，土耳其的區域安全網絡正在填補這個真空。這個轉向比多數人意識到的更深刻、更快速，也是理解俄土關係與黑海秩序變動的重要切入點。",
+      "topic_tags": ["民主與威權治理"],
+      "region": "亞塞拜然",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "JAMnews",
+        "media_country": "喬治亞",
+        "source_tier": "B",
+        "source_tier_note": "高加索地區獨立新聞媒體，提供在地視角",
+        "url": "https://jam-news.net/news-in-georgia-azerbaijan-armenia-6-10-july-2026/",
+        "original_language": "en",
+        "fetched_at": "2026-07-13T07:38:00+08:00"
+      }
+    }
+  ]
+}
