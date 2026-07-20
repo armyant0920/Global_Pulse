@@ -1,0 +1,265 @@
+{
+  "report_id": "2026-07-20-0800",
+  "generated_at": "2026-07-20T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "歐盟AI法上路倒數、玻利維亞貨幣崩潰、日本奪電競冠軍：七月第三週全球速報",
+    "summary": "本期跑了日本、美國、剛果民主共和國、緬甸、中國、南韓，加上歐盟／美國／聯合國的AI監管比較單元，以及冷門地區玻利維亞，共十則。本週最值得關注的三條線：一是歐盟AI法八月二日全面生效、美國伊利諾州同週簽署AI安全措施法、聯合國在日內瓦召開全球AI治理對話，三方邏輯截然不同——歐盟立法先行、美國碎片化自治、聯合國努力讓開發中國家入場；二是中國第二季GDP僅4.3%為三年多來最弱，與此同時南韓靠半導體超循環把全年預測上修至3%，中韓「一冷一熱」格外對比鮮明；三是冷門地區玻利維亞正在上演二十年來最嚴重的經濟危機，政府結束15年的美元固定匯率、向IMF求援，街頭已有24人喪生，但這場危機在亞洲媒體幾乎是零報導。本期軟性議題：日本電競戰隊UNLIMIT在電競世界盃奪下ALGS冠軍，亞洲戰隊在歐洲主辦的頂級電競賽場上揚名。",
+    "regions_covered": ["日本", "美國", "剛果民主共和國", "緬甸", "中國", "南韓", "歐盟", "聯合國", "玻利維亞"],
+    "topics_covered": ["軟性生活議題", "AI 與科技", "科學與健康", "民主與威權治理", "經濟與貿易", "民生"],
+    "highlights": [
+      "歐盟AI法八月生效、美國州級AI立法潮、聯合國AI治理對話同週登場，三種監管邏輯分道揚鑣",
+      "中國Q2 GDP僅4.3%為近三年低點，南韓靠半導體把全年預測上修至3%，一冷一熱",
+      "玻利維亞貨幣崩潰、24人抗議喪生，IMF談判啟動，亞洲媒體幾乎零報導"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "日本電競戰隊UNLIMIT奪下ALGS 2026 Split 1全球冠軍，電競世界盃首度移師巴黎",
+      "title_original": "ALGS 2026 Split 1 Playoffs: Japan's UNLIMIT wins championship — Esports World Cup relocates to Paris",
+      "one_liner": "日本UNLIMIT在Apex Legends頂級賽決賽第十局逆轉奪冠，獲60萬美元獎金；電競世界盃首次從沙烏地移到歐洲。",
+      "summary": "2026年電競世界盃（Esports World Cup, EWC）首度移師歐洲，主辦城市從沙烏地阿拉伯利雅德改為法國巴黎，引發電競圈廣泛討論。其中Apex Legends全球系列賽（ALGS）2026 Split 1季後賽，由日本戰隊UNLIMIT在決賽最終局驚險逆轉奪冠，獲得60萬美元獎金，是日本隊在Apex頂級職業賽中規格最高的奪冠紀錄。同期EWC舉辦的賽事還包括Dota 2（總獎池200萬美元）、格鬥遊戲FATAL FURY等，整個七月巴黎儼然成為全球電競首都。EWC從中東搬到歐洲的決定，背景是主辦方試圖提升賽事在歐洲的曝光度，同時因應此前部分選手和觀眾對在沙烏地舉辦國際賽的人權疑慮——這個地點決策本身已成為電競社群的重要討論話題。",
+      "why_read": "電競世界盃2026年首度遷出中東是一個值得關注的文化政治訊號；日本戰隊的奪冠則顯示亞洲電競在全球頂級賽場的競爭力正在提升，台灣電競產業可以從中觀察日本的培訓與組織模式。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "日本",
+      "importance": "normal",
+      "source": {
+        "media_name": "PandaScore Blog",
+        "media_country": "法國",
+        "source_tier": "B",
+        "source_tier_note": "電競數據與賽事追蹤平台",
+        "url": "https://www.pandascore.co/blog/esports-tournaments-july-2026-calendar",
+        "original_language": "en",
+        "fetched_at": "2026-07-20T07:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "美國伊利諾州簽署AI安全措施法，三州形成事實聯邦標準，覆蓋全美四成AI市場",
+      "title_original": "Pritzker signs landmark AI regulation bill that aims to mitigate risks of 'catastrophic harms'",
+      "one_liner": "伊利諾州加入加州、紐約，三州合計覆蓋美國40%AI市場，在聯邦立法缺位下形成事實標準。",
+      "summary": "伊利諾州州長JB Pritzker於7月6日簽署《人工智慧安全措施法》（AI Safety Measures Act），針對年度收益超過五億美元的大型AI模型，要求業者在模型可能造成武器製造、大規模網路攻擊等「災難性傷害」時，負有透明度與風險揭露義務。伊利諾州加入已有類似立法的加州、紐約，三州人口與經濟規模合計涵蓋全美約40%的AI市場，觀察者指出此舉在聯邦立法長期缺位下形成了一套「非正式聯邦標準」。美國聯邦貿易委員會（FTC）同步於7月7日在《聯邦公報》發布AI準確性政策聲明，徵求公眾意見至7月31日，評估是否對刻意操控AI輸出的行為加以規範。聯邦與州之間的管轄權衝突也隨之浮現——FTC聲明中明確討論州法與聯邦標準的衝突問題。",
+      "why_read": "美國AI監管「由州到聯邦」的路徑與歐盟由上而下的架構形成對比；台灣若以美式路徑為師，必須先想清楚有沒有對應「州政府」的中間層來協調分散的監管邏輯。",
+      "topic_tags": ["AI 與科技"],
+      "region": "美國",
+      "importance": "major",
+      "source": {
+        "media_name": "WTTW Chicago",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "芝加哥公共廣播電台（PBS聯播網）",
+        "url": "https://news.wttw.com/2026/07/06/pritzker-signs-landmark-ai-regulation-bill-aims-mitigate-risks",
+        "original_language": "en",
+        "fetched_at": "2026-07-20T07:05:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "剛果民主共和國伊波拉疫情擴散速度超越歷史紀錄，現有療法對Bundibugyo株幾乎失效",
+      "title_original": "WHO Global Health Emergencies: Ebola in DR Congo spreading faster than any previous recorded outbreak",
+      "one_liner": "剛果伊波拉疫情以史上最快速度擴散，現有核准療法對此波病毒株無效，治療試驗剛啟動。",
+      "summary": "世界衛生組織（WHO）警告，剛果民主共和國當前的伊波拉疫情擴散速度是自1976年伊波拉病毒首次被發現以來有記錄的最快一次。此波疫情的病毒株為Bundibugyo型，而目前國際上核准用於治療伊波拉的藥物均針對更常見的Zaire型開發，對Bundibugyo株的療效極為有限，導致醫療應對陷入困境，新的治療試驗才剛剛啟動。聯合國安理會同期對助長剛果東部暴力的武裝團體領袖實施制裁，但持續惡化的安全局勢使人道援助難以深入疫情核心地區。烏干達同期在執行伊波拉監測時確認境內一起孤立的馬堡病毒（Marburg）病例，進一步拉高中非地區的衛生警報等級。據報導WHO已宣告漢他病毒全球疫情結束，但剛果伊波拉疫情仍是當前最緊迫的突發公衛事件。",
+      "why_read": "Bundibugyo株對現有療法失效、加上戰亂地帶難以介入，是公衛史上少見的雙重困境；這波疫情在台灣與亞洲媒體能見度極低，但其潛在的跨境擴散風險不容忽視。",
+      "topic_tags": ["科學與健康"],
+      "region": "剛果民主共和國",
+      "importance": "major",
+      "source": {
+        "media_name": "UN News",
+        "media_country": "國際",
+        "source_tier": "A",
+        "source_tier_note": "聯合國官方新聞服務",
+        "url": "https://news.un.org/en/story/2026/07/1167865",
+        "original_language": "en",
+        "fetched_at": "2026-07-20T07:10:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "緬甸人道危機持續惡化：三百八十萬人流離失所，援助資金到位率僅四成三",
+      "title_original": "Myanmar Humanitarian Update No. 52 — 13 July 2026",
+      "one_liner": "緬甸軍事衝突已造成380萬人流離失所，今年援助資金缺口超過一半，部分地區實際到達率不足3%。",
+      "summary": "聯合國人道事務協調廳（OCHA）7月13日發布第52期緬甸人道更新報告，境內流離失所人數已達380萬，許多人已多次被迫遷移。衝突最激烈地區集中在西北和東南部：僅勃固邦一地就有約兩萬五千人從30個村子出走；克欽邦空襲造成萬人流離失所並有平民傷亡；實皆地區的戰鬥迫使900人越境逃往印度。2026年全年人道援助需求為8.9億美元，目前僅到位43%。在制定目標的490萬人援助對象中，第一季實際到達僅160萬人；緊急住所援助的年度目標達成率甚至不到3%。燃料短缺進一步癱瘓醫療設施與供水系統。俄羅斯與緬甸軍政府持續舉行聯合軍演，ASEAN則在泰國主導下試圖為軍政府正常化鋪路。",
+      "why_read": "緬甸危機的規模已被多個機構列為全球最嚴峻人道危機之一，但它不在大國角力的聚光燈下，導致援助資金長期嚴重短缺——這種「不夠顯眼的大型危機」是Global Pulse存在的理由之一。",
+      "topic_tags": ["民主與威權治理"],
+      "region": "緬甸",
+      "importance": "major",
+      "source": {
+        "media_name": "UN OCHA",
+        "media_country": "國際",
+        "source_tier": "A",
+        "source_tier_note": "聯合國人道事務協調廳定期報告",
+        "url": "https://www.unocha.org/publications/report/myanmar/myanmar-humanitarian-update-no-52-13-july-2026",
+        "original_language": "en",
+        "fetched_at": "2026-07-20T07:15:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "中國第二季GDP僅成長4.3%，為三年多來最低，世界銀行示警內需不振",
+      "title_original": "China's GDP growth weakens to 4.3%, below official target range",
+      "one_liner": "中國Q2 GDP增速跌至4.3%，低於官方目標，通縮壓力持續，世界銀行示警需「重新平衡成長」。",
+      "summary": "中國國家統計局7月15日公布，2026年第二季GDP年增率為4.3%，低於官方設定的4.5%至5%目標區間，也是三年多來最低單季增速。彭博、CNN等媒體分析指出核心問題在於內需持續低迷：消費者信心不振、房地產市場仍在調整、物價維持通縮壓力。亮點方面，中國6月份月度汽車出口突破100萬輛首創紀錄，電動車、電池與綠能設備外銷仍是撐盤關鍵。世界銀行本月發布《重新平衡成長》中國經濟更新報告，建議中國以強化家庭消費和提振私部門信心為優先，否則恐陷入長期脆弱局面。全年GDP預測已被多家機構下修至4.4%，距官方底線僅剩薄薄一線。",
+      "why_read": "4.3%本身不算崩盤，但在大量基礎建設刺激的背景下仍交出這個數字，代表傳統政策工具的邊際效益正在遞減——這是觀察中國能否成功完成經濟結構轉型的重要訊號。",
+      "topic_tags": ["經濟與貿易"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "Bloomberg",
+        "media_country": "美國",
+        "source_tier": "A",
+        "source_tier_note": "國際財經媒體",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/china-s-gdp-growth-weakens-to-4-3-below-official-target-range",
+        "original_language": "en",
+        "fetched_at": "2026-07-20T07:20:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "南韓把2026年GDP預測上修至3%，半導體超循環帶動景氣反彈，提出2030年四強出口國願景",
+      "title_original": "S. Korea revises growth outlook to 3% for 2026 amid semiconductor supercycle",
+      "one_liner": "南韓政府以半導體需求激增為由，將全年GDP目標上修至3%，同步提出2030年躋身全球四大出口國願景。",
+      "summary": "南韓政府7月14日宣布，將2026年全年GDP成長率預測由2%上修至3%，主要驅動力是全球AI投資浪潮帶動的半導體超循環（supercycle），加上中東局勢不確定性比預期消退更快，兩項利多推動南韓出口強勁回升。政府同步提出「3-4-5願景」：以3%為潛在成長率目標、躋身全球四大出口國（4th）、人均國民所得超越五萬美元（50K USD）。首爾新創生態系統在AI、半導體、機器人、生技、金融科技與遊戲業同步加速，吸引外資目光。值得注意的是，此樂觀預測建立在半導體出口持續強勁、地緣政治風險可控兩個假設上，若任一條件改變，數字可能快速反轉。與此形成對比的是，同期中國GDP僅4.3%、遠低於目標，中韓景氣的「一冷一熱」格外鮮明。",
+      "why_read": "南韓在多數國家普遍下修預測的2026年把GDP目標一口氣上調一個百分點，背後是半導體供應鏈集中的結構性紅利——這讓台灣不得不思考在半導體領域與韓國的競合格局將如何演變。",
+      "topic_tags": ["經濟與貿易"],
+      "region": "南韓",
+      "importance": "major",
+      "source": {
+        "media_name": "UPI",
+        "media_country": "美國",
+        "source_tier": "A",
+        "source_tier_note": "國際通訊社",
+        "url": "https://www.upi.com/Top_News/World-News/2026/07/14/korea-South-Korea-economic-growth-three-percent-semiconductor-supercycle/5411784024741/",
+        "original_language": "en",
+        "fetched_at": "2026-07-20T07:25:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "AI監管的三種語法：歐盟立法落地、美國州級補網、聯合國搭對話台",
+      "comparison_topic": "AI監管全球格局",
+      "regions": ["歐盟", "美國", "聯合國/全球"],
+      "narrative": "2026年七月是全球AI監管史上的密集時刻：歐盟《人工智慧法》（EU AI Act）宣告8月2日全面生效，成為史上第一部橫跨多個主要經濟體的綜合性AI法律；同一週，美國伊利諾州簽署《AI安全措施法》，與加州、紐約形成事實上的「三州聯盟」，覆蓋全美約40%的AI市場；在日內瓦，聯合國召開全球AI治理對話，試圖為南北國的AI落差搭起橋梁。\n\n三方的核心邏輯截然不同。歐盟的假設是「風險必須被法律定義與管制」，以應用場景而非技術本身為監管起點，對高風險AI（生物辨識、關鍵基礎設施控制、信用評分等）設最嚴格門檻，罰款上限可達全球年營業額的7%。部分科技公司已宣布限縮歐盟地區服務以降低合規風險。美國聯邦政府至今仍無統一AI法，但各州已搶先填補空白，FTC的AI準確性政策聲明則顯示聯邦監管有追趕跡象，聯邦與州之間的管轄衝突也隨之浮現。聯合國的路徑最為柔性：以多邊對話建立共識，強調開發中國家的AI參與權，但缺乏約束力。\n\n這場「三方賽跑」對台灣的意義在於：台灣目前正在審議AI基本法草案，若以歐盟路徑為師，優點是規範清晰，但中小企業合規成本高；若走美式路徑，則需要思考有無地方層級承擔「州政府」的角色；若純粹等聯合國架構落地，恐怕要等到2030年代。現在是台灣做選擇的視窗期。",
+      "comparison_table": {
+        "dimensions": ["監管架構", "本週重大動作", "核心爭議", "對台灣的參考點"],
+        "rows": [
+          {
+            "region": "歐盟",
+            "values": [
+              "法律先行：以應用場景與風險等級分類管制，高風險類別設嚴格合規門檻，罰款上限達年營業額7%",
+              "EU AI Act 8月2日全面生效，歐盟委員會同步推出AI網路安全行動計畫",
+              "中小企業合規成本過高；部分科技公司已限縮歐盟服務；法規是否扼殺創新仍有爭議",
+              "台灣AI基本法草案的主要參考架構；但立法進度落後歐盟約2-3年"
+            ]
+          },
+          {
+            "region": "美國",
+            "values": [
+              "聯邦缺位、州級補網：各州自主立法，FTC以政策聲明填補聯邦空白",
+              "伊利諾州7月6日簽署AI安全措施法；FTC發布AI準確性政策聲明，徵求公眾意見至7月31日",
+              "聯邦vs州管轄衝突浮現；AI安全定義分歧；科技業積極遊說反對過度管制",
+              "台灣若走美式路徑，需先解決「沒有州政府層級」的制度缺口"
+            ]
+          },
+          {
+            "region": "聯合國/全球",
+            "values": [
+              "多邊對話框架：以共識建立非強制約束為核心，側重開發中國家的AI參與權",
+              "7月6-7日在日內瓦召開全球AI治理對話，聚焦大規模風險防範與南北數位落差",
+              "大國之間AI監管分歧使全球共識難以落實；部分國家視AI治理為擴展影響力的工具",
+              "台灣非聯合國成員，難以直接參與；可透過OECD等多邊管道間接影響"
+            ]
+          }
+        ]
+      },
+      "why_read": "歐盟、美國、聯合國同週在AI監管上各有重大動作，讓這一週成為觀察「誰在定義AI規則」的絕佳切片，也讓台灣AI立法的選擇更為急迫且具體。",
+      "topic_tags": ["AI 與科技"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "OriginBrief AI Policy Weekly",
+          "media_country": "國際",
+          "source_tier": "B",
+          "source_tier_note": "AI政策追蹤聚合平台",
+          "url": "https://www.originbrief.app/en/reports/ai-regulation-policy/2026-07-13/weekly",
+          "original_language": "en",
+          "fetched_at": "2026-07-20T07:30:00+08:00",
+          "supports_region": "歐盟"
+        },
+        {
+          "media_name": "WTTW Chicago",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "芝加哥公共廣播電台（PBS聯播網）",
+          "url": "https://news.wttw.com/2026/07/06/pritzker-signs-landmark-ai-regulation-bill-aims-mitigate-risks",
+          "original_language": "en",
+          "fetched_at": "2026-07-20T07:30:00+08:00",
+          "supports_region": "美國"
+        },
+        {
+          "media_name": "FTC.gov",
+          "media_country": "美國",
+          "source_tier": "A",
+          "source_tier_note": "美國聯邦貿易委員會官方新聞稿",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
+          "original_language": "en",
+          "fetched_at": "2026-07-20T07:31:00+08:00",
+          "supports_region": "美國"
+        },
+        {
+          "media_name": "UN News",
+          "media_country": "國際",
+          "source_tier": "A",
+          "source_tier_note": "聯合國官方新聞服務",
+          "url": "https://news.un.org/en/story/2026/07/1167862",
+          "original_language": "en",
+          "fetched_at": "2026-07-20T07:32:00+08:00",
+          "supports_region": "聯合國/全球"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "玻利維亞貨幣崩潰：24人抗議喪生、15年美元釘匯退場、IMF緊急談判啟動",
+      "title_original": "2026 Bolivian protests and economic crisis: Dollar peg abandoned after 15 years, IMF talks begin amid unrest",
+      "one_liner": "玻利維亞結束15年美元固定匯率、貨幣貶值逾30%，抗議已有24死，政府轉向IMF求援33億美元。",
+      "summary": "玻利維亞正在經歷近二十年來最嚴重的經濟危機。天然氣產量持續下滑、外匯儲備耗盡、美元嚴重短缺，催生了礦工、農民與運輸業者的大規模街頭抗議，截至7月9日至少24人在衝突中喪生、37人受傷，道路封鎖估計造成25億美元的直接損失。政府被迫在6月29日宣布結束維持15年的美元固定匯率（1美元=6.96玻利維亞諾），改採浮動制，初始匯率設定在9.73，換算貶幅逾30%。匯率改革雖被IMF視為正確方向，但政府旋即於7月15日啟動33億美元的IMF貸款談判，此舉又引發工會抗議，擔憂貸款附帶的緊縮條件。玻利維亞中央銀行同步計畫重開美元存款帳戶、歸還凍結的9.33億美元存款，試圖恢復民間對本幣信心。",
+      "why_read": "玻利維亞的危機是「資源詛咒＋固定匯率陷阱」的教科書案例：天然氣出口榮景掩蓋了經濟多元化的缺失，能源衰退後整個財政架構如骨牌倒下。這種脆弱性在資源依賴型開發中國家普遍存在，但亞洲媒體幾乎沒有在報導。",
+      "topic_tags": ["民生", "經濟與貿易"],
+      "region": "玻利維亞",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Wikipedia（2026 Bolivian protests）",
+        "media_country": "國際",
+        "source_tier": "B",
+        "source_tier_note": "Wikipedia整合路透社、彭博、美聯社等多來源的事件紀錄頁面",
+        "url": "https://en.wikipedia.org/wiki/2026_Bolivian_protests",
+        "original_language": "en",
+        "fetched_at": "2026-07-20T07:35:00+08:00"
+      }
+    }
+  ]
+}
