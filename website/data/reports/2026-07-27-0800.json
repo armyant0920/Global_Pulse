@@ -1,0 +1,281 @@
+{
+  "report_id": "2026-07-27-0800",
+  "generated_at": "2026-07-27T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "核彈試射震太平洋，日本驅客倍徵稅，電競正式列入亞運金牌：七月末週全球脈衝",
+    "summary": "七月最後一週，一枚中國潛射核彈在太平洋上空劃出弧線，讓南海周邊各國不得不公開表態——菲律賓憤怒（導彈飛越其領土上空），日本克制（用詞刻意迴避「譴責」），澳洲以「太平洋和平之海」框架批評，美國以核不擴散立場施壓，中國照舊說例行訓練。同一週，中國在上海主辦世界人工智慧大會，習近平親自登台，宣布成立「世界人工智慧合作組織（WAICO）」，29國加入、總部設上海——北京在AI外交方面正全面加速布局。非政治面同樣豐富：日本從7月1日起將離境稅從1,000日圓跳到3,000日圓，是近年最強硬的過境流量控管動作；電競在9月愛知名古屋亞運正式設11個金牌項目，東南亞各國已比照奧運備戰；印度西孟加拉邦傳出尼帕病毒小規模群聚，提醒南亞生物安全缺口仍在。本期冷門地區聚焦太平洋島國——那顆潛射飛彈正是降落在諾魯與東加之間，小島無力表態，卻首當其衝。",
+    "regions_covered": ["日本", "中國", "印度", "美國", "菲律賓", "澳洲", "太平洋島國（諾魯／東加）"],
+    "topics_covered": ["軟性生活議題", "AI 與科技", "科學與健康", "經濟與貿易", "地緣政治", "民主與威權治理"],
+    "highlights": [
+      "中國潛射核彈首次飛越太平洋，菲律賓怒斥「挑釁」，日本只說「分析中」",
+      "日本離境稅三倍跳、電競列入亞運金牌：觀光與電競的亞洲棋局同步進行",
+      "習近平宣布成立全球AI合作組織，29國加入，北京搶進AI外交主導權"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "日本離境稅7月起三倍跳至3,000日圓，矛頭直指平均消費過低的廉價旅客",
+      "title_original": "Japan triples departure tax in push to combat overtourism",
+      "one_liner": "日本最強硬的過境流量管控：7月1日起離境稅從1千升至3千日圓，年度稅收預估從500億跳至1,200億日圓。",
+      "summary": "2026年7月1日起，日本將國際旅客離境稅從1,000日圓大幅調升至3,000日圓，是迄今規模最大的單次觀光流量管控動作。政府估計此舉將使年度稅收從約500億日圓跳升至1,200億日圓，所得將專款用於改善鄉村基礎設施與熱點地區的旅客分流機制。背景是日圓持續疲軟拉動入境人數屢創新高，但旅客平均消費未同步提升，京都、大阪及富士山周邊居民的擠壓感早已到臨界點。泰國、新加坡、越南也在今年跟進「以質換量」的觀光策略，四個亞洲主要旅遊市場形成刻意淡化入境人次、轉向追求高消費旅客的共同共識。日本這次不是小額調漲而是直接三倍，代表政府已明確選邊「寧少客、要對的客」。",
+      "why_read": "這是亞洲觀光政策典範轉移的關鍵案例——日本選擇用稅收作為門檻而非限制入境人數，台灣若持續討論觀光超載問題，這套框架的利弊直接可參考。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "The Japan Times",
+        "media_country": "日本",
+        "source_tier": "A",
+        "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/tourist-tax-increase/",
+        "original_language": "en",
+        "fetched_at": "2026-07-27T08:00:00+08:00"
+      }
+    },
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "2026愛知名古屋亞運電競正式設11個金牌項目，各國已比照奧運模式組建國家隊",
+      "title_original": "Esports at the Asian Games 2026 – 11 Medal Events Confirmed",
+      "one_liner": "9月亞運電競設11個金牌項目，PUBG、英雄聯盟、街頭霸王6全入列，東南亞各國正式組建國家電競隊。",
+      "summary": "2026年9月23日至10月2日在日本愛知名古屋舉行的亞洲運動會，電競將以11個正式金牌項目亮相，涵蓋《PUBG MOBILE》《英雄聯盟》《eFootball》《Gran Turismo 7》《街頭霸王6》《鐵拳8》《永恆回歸》等。這是電競第二次進入亞運且規模大幅擴張，賽場設於常滑市愛知國際展覽中心。韓國、中國、日本、東南亞各國已比照奧運模式設立電競國家隊及選拔機制。南韓文化體育觀光部已在晉州提前舉辦「亞洲電競錦標賽2026」作為熱身，泰國與印尼亦設有政府補助的國家訓練中心。電競入亞運的意義不只是運動分類問題，背後是整套國家隊補助、選手身分法律化及訓練經費的政策配套，讓電競正式成為國家資源投入的競技項目。",
+      "why_read": "電競正從「打電動」轉型為國家軟實力工具——各國隊伍組成與資金規模，直接反映哪些政府已把電競納入文化外交棋局。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "Olympics.com",
+        "media_country": "瑞士（國際奧委會）",
+        "source_tier": "A",
+        "source_tier_note": "奧委會官方資訊來源",
+        "url": "https://www.olympics.com/en/news/asian-games-2026-esports-medal-events-list",
+        "original_language": "en",
+        "fetched_at": "2026-07-27T08:00:00+08:00"
+      }
+    },
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "習近平親赴世界AI大會，宣布成立29國「世界人工智慧合作組織」，總部設上海",
+      "title_original": "China's Xi Jinping Launches New AI Alliance: What Is It?",
+      "one_liner": "北京在上海主辦世界AI大會，習近平首次親自登台，宣布成立WAICO——北京的AI外交版圖進入新階段。",
+      "summary": "7月17日，習近平在上海世界人工智慧大會上首次親自發表主題演講，宣布成立「世界人工智慧合作組織（WAICO）」，總部設在上海，29個創始國加入。北京以「開源AI」與「合作共用」為旗號，強調與非洲、拉丁美洲和亞洲發展中國家共享AI紅利，同時呼籲各國抵制「科技保護主義」（外界普遍解讀為針對美國晶片出口管制）。WAICO的架構形式與聯合國專業機構相近，但設立於中國、由中方主導，外界關注其話語規則是否會向「AI發展不受地緣政治干擾」方向傾斜。同一週，Nvidia宣布與日本工業機器人廠商發那科（Fanuc）和安川電機（Yaskawa）建立AI機器人合作，蘋果AI功能亦取得中國監管核准並整合阿里巴巴通義千問模型。",
+      "why_read": "北京不再只是批評美國的AI規則，而是主動設計自己的治理框架並拉入29國——這場AI外交競賽的陣型正在快速成形。",
+      "topic_tags": ["AI 與科技"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+        "original_language": "en",
+        "fetched_at": "2026-07-27T08:00:00+08:00"
+      }
+    },
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "印度西孟加拉邦尼帕病毒小規模群聚，醫護確診後快速圍堵，南亞公衛缺口再現",
+      "title_original": "Nipah Virus in South Asia: From Emergence to Enduring Preparedness Challenges",
+      "one_liner": "尼帕病毒在西孟加拉邦再現，涉及醫護群聚感染，病死率高達75%，無疫苗、無特效藥的處境引發關注。",
+      "summary": "2026年初，尼帕病毒（Nipah virus）在印度西孟加拉邦造成有限規模的群聚感染，涉及數名醫療院所工作人員，在快速隔離下得以圍堵。發表於《臨床微生物與感染》期刊的分析報告指出，尼帕病毒的人際傳播性雖不如流感廣泛，但病死率高達75%，且目前無核准疫苗及特效藥，是全球衛生當局視為高優先監測的病原之一。南亞的果蝠族群為天然宿主，孟加拉與印度農村地區農民定期接觸棗椰樹汁的暴露風險仍未消除。報告警告，相關國家醫院的感染管控措施存在明顯缺口，一旦疫情從群聚擴散至醫療機構社區層面，後果難以控制。WHO東南亞辦公室同期公布的上半年流感整備進度報告，顯示孟加拉和尼泊爾正在建立標準化的新興呼吸道疾病調查協議。",
+      "why_read": "尼帕病毒是WHO「疾病X」候選名單常客，但在東亞的報導曝光極少——這份報告提供的不是恐慌，而是真實存在的南亞生物安全漏洞。",
+      "topic_tags": ["科學與健康"],
+      "region": "印度",
+      "importance": "major",
+      "source": {
+        "media_name": "Clinical Microbiology and Infection (ScienceDirect)",
+        "media_country": "荷蘭（學術期刊）",
+        "source_tier": "A",
+        "source_tier_note": "同儕審查學術期刊",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1198743X26001394",
+        "original_language": "en",
+        "fetched_at": "2026-07-27T08:00:00+08:00"
+      }
+    },
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "美國7月24日對60國祭出新關稅，中國最高12.5%，歐盟與澳洲即時反駁",
+      "title_original": "US slaps fresh tariffs on China, 50-plus countries in latest wave",
+      "one_liner": "美國以「強迫勞動供應鏈」為由對60國加徵10-12.5%關稅，多方即時反嗆，台廠越南布局面臨新壓力。",
+      "summary": "7月24日，美國以「強迫勞動供應鏈」為由，向包含中國（12.5%）在內的60個貿易夥伴加徵新一輪關稅，東南亞多國受10%稅率波及。歐盟發表聲明稱相關理由「缺乏事實依據」；澳洲外交部以「完全不正當」形容；巴西宣布向WTO提出爭端解決申請；馬來西亞與菲律賓表達希望透過協商解決的立場。中國以「貿易霸凌主義」反制，宣布等比例報復措施。對台灣而言，此輪關稅直接影響過去兩年剛完成越南廠擴建的電子零組件業者，面臨再次重定供應鏈路由的壓力。目前美國正同步評估是否在7月底前加推針對半導體、藥品與關鍵礦物的Section 232附加稅，相關動向牽動台灣出口結構。",
+      "why_read": "這次同時列入60國創下前所未見的廣度，各方反應可作為觀察貿易夥伴對美依賴度與外交底線的即時截面——比任何評論文章都直接。",
+      "topic_tags": ["經濟與貿易"],
+      "region": "美國",
+      "importance": "major",
+      "source": {
+        "media_name": "South China Morning Post",
+        "media_country": "香港",
+        "source_tier": "A",
+        "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave",
+        "original_language": "en",
+        "fetched_at": "2026-07-27T08:00:00+08:00"
+      }
+    },
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "日本央行升息接近1.0%，與聯準降息形成政策分歧，亞洲貨幣棋局正在重排",
+      "title_original": "Asia Outlook 2026: Bank of Japan on track to raise policy rate to 1.0% by July",
+      "one_liner": "日銀升息推進中、聯準降息同步，亞洲貨幣板塊重新計算：日圓走強衝擊出口型鄰國，資金流向悄然移動。",
+      "summary": "ING Think與多家金融機構分析顯示，日本央行（BOJ）在薪資成長持續支撐內需的背景下，已將基準利率從2025年底的0.5%逐步升至0.75%，並預計在2026年7月前後進一步升至1.0%。這是日本自1990年代以來最積極的升息節奏，且與美聯準近期轉向降息的方向形成顯著政策分歧。日圓升值預期帶動亞洲投資組合重新計算：對東南亞出口型國家形成競爭壓力，但也降低日本企業對外直接投資的資金成本。台韓出口商的外幣避險需求隨之升溫。與此同時，亞洲供應鏈加速從中國轉向東南亞與印度，利率分歧加上地緣政治重組，形成資金與產業雙軌並進的結構性變化。",
+      "why_read": "日銀升息不是日本內政，而是整個亞洲的金融背景音——台灣和韓國的出口廠商、外幣投資人都在看這個利率差如何演變。",
+      "topic_tags": ["經濟與貿易"],
+      "region": "日本",
+      "importance": "normal",
+      "source": {
+        "media_name": "ING Think",
+        "media_country": "荷蘭",
+        "source_tier": "B",
+        "source_tier_note": "荷蘭國際集團旗下經濟研究部門",
+        "url": "https://think.ing.com/uploads/reports/Asia_Outlook_2026.pdf",
+        "original_language": "en",
+        "fetched_at": "2026-07-27T08:00:00+08:00"
+      }
+    },
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "同一枚飛彈，五種框架：中國潛射核彈試射各國的不同敘事",
+      "comparison_topic": "中國JL-3潛射彈道飛彈試射各國反應",
+      "regions": ["中國", "菲律賓", "美國", "日本", "澳洲"],
+      "narrative": "7月6日，中國海軍從核潛艦發射JL-3型潛射彈道飛彈，射程約7,300公里，飛越菲律賓呂宋島上空後落入諾魯與東加之間的太平洋水域。這是中國首次公開將潛射飛彈射進開放太平洋，也是中國核三位一體（陸基洲際飛彈、轟炸機、潛射飛彈）正式完整化的象徵性時刻。試射時間刻意選在美國主導的「環太平洋軍演（RIMPAC）」同日，並恰逢2016年南海仲裁裁決十周年。\n\n五國的反應映照出各自截然不同的戰略處境。菲律賓是這次措辭最強硬的聲音——飛彈實際通過其主權天空，外交部「表達關切、呼籲克制」，而國防部更直接稱之為「魯莽的武力展示」與「計算好的挑釁行動」，是民主陣營中最直接的定性。美國川普政府則將批評框定在核不擴散邏輯：強調在「美國致力防止核擴散之際，中國卻反其道而行」，並批評北京只提前數小時、且資訊不足的通報方式。澳洲的切入框架是太平洋認同：外長黃英賢使用「太平洋應是和平之海」的措辭，國防部長稱其「進一步破壞地區穩定」。\n\n最值得注意的是日本。儘管日本在軍事上持續靠攏美國，官房長官木原稔的用詞卻刻意迴避「譴責」，改說「正在分析具體細節」，且「目前無法判斷北京的真實意圖」。這並非疏失，而是日本在最大貿易夥伴（中國）與核心安全夥伴（美國）之間的戰略模糊——用詞選擇本身就是一種外交訊號。\n\n中國官媒全球時報則引述軍事專家將此定性為「例行年度訓練」，符合「核二次打擊」正常戰備，並稱已事先通報有關國家。北京的策略是既不否認試射，也不炫耀，讓「例行化」成為模糊空間。\n\n對台灣而言，這次試射路線恰恰穿越菲律賓並落在太平洋島國水域，代表中國的潛射核武已具備從南海出發打擊西太平洋任意目標的能力——這個能力提升不需要對台灣直接動作，但已改變了台灣所在的整體戰略環境。",
+      "comparison_table": {
+        "dimensions": ["官方立場", "主要批評框架", "措辭強度", "與台灣的關聯性"],
+        "rows": [
+          {
+            "region": "中國",
+            "values": [
+              "官媒稱「例行年度訓練」，已事先通報有關國家",
+              "以核嚇阻正當性與核二次打擊能力為論述框架",
+              "低調定性，不承認也不炫耀",
+              "試射路線與南海主張呼應，間接對台灣形成威懾訊號"
+            ]
+          },
+          {
+            "region": "菲律賓",
+            "values": [
+              "外交部「表達關切、呼籲克制」；國防部稱「魯莽挑釁」",
+              "主權侵害（飛彈飛越菲律賓天空）",
+              "最強硬，是民主陣營中唯一直接使用「挑釁」字眼的",
+              "美菲軍事聯結進一步強化，菲方強硬立場間接呼應台灣安全關切"
+            ]
+          },
+          {
+            "region": "美國",
+            "values": [
+              "川普政府稱「高度關切」，批評北京通報細節不足",
+              "核不擴散框架與全球核秩序透明度",
+              "強烈批評，但未使用「挑釁」字眼，定性相對克制",
+              "強化對台安全承諾的壓力點提升，美中核競爭影響台海態勢"
+            ]
+          },
+          {
+            "region": "日本",
+            "values": [
+              "官房長官稱「正在分析，目前無法判斷北京意圖」",
+              "迴避定性，刻意保留戰略模糊空間",
+              "民主陣營中最克制的聲音，主動降低對抗意涵",
+              "日本強化防衛力與對中貿易依賴的矛盾在此事件中具體呈現"
+            ]
+          },
+          {
+            "region": "澳洲",
+            "values": [
+              "總理、外長、國防部長三人同日公開批評",
+              "太平洋地區認同框架（「太平洋應是和平之海」）",
+              "強烈批評，是五眼聯盟中情感框架最鮮明的",
+              "澳洲與台灣在維護西太平洋規則秩序上有共同戰略利益"
+            ]
+          }
+        ]
+      },
+      "why_read": "同一枚飛彈，五個政府給出了五種解讀框架——這組對比比任何分析文章都直接說明各國的底層邏輯與利益計算。日本的「分析中」和菲律賓的「挑釁」之間的距離，正是亞洲地緣政治的真實溫度。",
+      "topic_tags": ["民主與威權治理", "地緣政治"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Global Times",
+          "media_country": "中國",
+          "source_tier": "B",
+          "source_tier_note": "中國官媒，環球時報英文版",
+          "url": "https://www.globaltimes.cn/page/202607/1365253.shtml",
+          "original_language": "en",
+          "fetched_at": "2026-07-27T08:00:00+08:00",
+          "supports_region": "中國"
+        },
+        {
+          "media_name": "BusinessWorld",
+          "media_country": "菲律賓",
+          "source_tier": "B",
+          "source_tier_note": "菲律賓主流財經報",
+          "url": "https://bworldonline.com/the-nation/2026/07/07/761846/phl-condemns-chinese-missile-test/",
+          "original_language": "en",
+          "fetched_at": "2026-07-27T08:00:00+08:00",
+          "supports_region": "菲律賓"
+        },
+        {
+          "media_name": "The Hill",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://thehill.com/policy/defense/5957727-china-icbm-missile-test/",
+          "original_language": "en",
+          "fetched_at": "2026-07-27T08:00:00+08:00",
+          "supports_region": "美國"
+        },
+        {
+          "media_name": "American Enterprise Institute (AEI)",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "美國保守派智庫，China-Taiwan Update 系列報告",
+          "url": "https://www.aei.org/articles/china-taiwan-update-july-10-2026/",
+          "original_language": "en",
+          "fetched_at": "2026-07-27T08:00:00+08:00",
+          "supports_region": "日本"
+        },
+        {
+          "media_name": "The Diplomat",
+          "media_country": "日本（美國編輯部）",
+          "source_tier": "A",
+          "url": "https://thediplomat.com/2026/07/chinas-submarine-launched-ballistic-missile-test-was-a-message-to-the-pacific/",
+          "original_language": "en",
+          "fetched_at": "2026-07-27T08:00:00+08:00",
+          "supports_region": "澳洲"
+        }
+      ]
+    },
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "飛彈落在家門口：諾魯與東加之間，太平洋島國的沉默困境",
+      "title_original": "China's Pacific SLBM Test Signals a New Phase in Undersea Nuclear Competition",
+      "one_liner": "中國潛射飛彈降落在太平洋島國聚居海域，這些無核保護傘的小國首當其衝，卻在國際輿論中幾乎缺席。",
+      "summary": "7月6日中國潛射飛彈試射的彈道終點，落在諾魯（Nauru）與東加（Tonga）之間的太平洋水域。這些太平洋島國面積極小、人口僅數萬至十餘萬不等，既沒有核保護傘，也沒有軍事聯盟可即刻聲援，卻成為大國核武測試的「場域」。《外交家》雜誌分析指出，此次試射標誌中國潛艦核威懾能力正式進入「全球遠洋投射」階段，太平洋島國的戰略意義也從氣候難民議題延伸至大國核博弈的緩衝區。諾魯在2024年從承認台灣轉向承認中華人民共和國，如今一枚中國飛彈降落在其附近海域，外界無法確知諾魯的私下立場。部分分析人士認為，北京選擇在太平洋島國海域測試，是以「展示實力而非直接威脅」的方式強化外交存在感。這些島國同時面對海平面上升帶來的生存壓力，大國的軍備競賽又讓它們的戰略空間更加逼仄。",
+      "why_read": "太平洋島國夾在中美博弈之間，氣候危機讓他們的地理正在縮小，核競賽讓他們的戰略空間更加逼仄——卻幾乎從未有機會在國際場合說清楚自己的處境。",
+      "topic_tags": ["地緣政治", "民主與威權治理"],
+      "region": "太平洋島國（諾魯／東加）",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "The Diplomat",
+        "media_country": "日本（美國編輯部）",
+        "source_tier": "A",
+        "source_tier_note": "本則由外部媒體報導太平洋島國角度，缺乏當地一手來源",
+        "url": "https://thediplomat.com/2026/07/chinas-pacific-slbm-test-signals-a-new-phase-in-undersea-nuclear-competition/",
+        "original_language": "en",
+        "fetched_at": "2026-07-27T08:00:00+08:00"
+      }
+    }
+  ]
+}
