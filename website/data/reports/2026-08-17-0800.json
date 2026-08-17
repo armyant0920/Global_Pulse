@@ -1,0 +1,250 @@
+{
+  "report_id": "2026-08-17-0800",
+  "generated_at": "2026-08-17T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "電競亞運倒數、中國組 AI 聯盟、越南騰飛：八月第三週全球脈衝",
+    "summary": "本期從八個地區蒐集資訊，共 10 則（含 1 篇跨地區 AI 治理比較、1 則太平洋冷門地區）。\n\n本期最值得關注的三個重點：\n\n一、**中國組建 WAICO，AI 治理裂成兩個世界**：就在歐盟 AI 法案透明度條款 8 月 2 日正式上路之際，中國上月在上海號召 29 個全球南方國家共組世界人工智慧合作組織（WAICO），美歐全缺席。AI 全球規則正在形成兩套互不相容的體系。\n\n二、**亞運電競倒數一個月，東南亞移動電競站上舞台**：2026 年亞運電競賽事將於 9 月 19 日在愛知-名古屋揭幕，Mobile Legends: Bang Bang 首度列為金牌項目，這是東南亞遊戲文化正式進入正規大型運動會的歷史時刻。\n\n三、**El Niño 把地球推向十年後**：科學家最新報告指出地球暖化速率已近翻倍，今年最強 El Niño 讓各地提前感受未來溫度，政策緊迫性倍增。\n\n冷門地區本期聚焦太平洋：諾魯（Nauru）上月正式改名瑙魯（Naoero），以母語取回被殖民抹去的名字，這個只有一萬兩千人的島國靜靜完成了一件具有象徵意義的事。",
+    "regions_covered": ["日本", "中國", "越南", "美國／全球", "印度", "肯亞", "歐盟", "全球南方（WAICO 成員）", "瑙魯（太平洋島國）"],
+    "topics_covered": ["軟性生活議題", "AI 與科技", "民生", "氣候與環境政策", "科學與健康", "文化與社會議題"],
+    "highlights": [
+      "中國主導 WAICO 成立，29 國在上海另立 AI 治理框架，西方全缺席",
+      "亞運電競 9 月揭幕，東南亞 Mobile Legends 首度成金牌項目",
+      "El Niño 把地球暖化速率推向每十年 0.35°C，科學家示警緊迫"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "亞運電競 2026 倒數一月，十一項賽事即將在名古屋點燃",
+      "title_original": "Esports at the 2026 Asian Games: 11 medal events set for Aichi-Nagoya",
+      "one_liner": "9月亞運電競11項目登場，東南亞MLBB奪牌夢近了",
+      "summary": "第二十屆亞洲運動會將於 2026 年 9 月 19 日至 10 月 4 日在日本愛知-名古屋舉行，電競項目擴增至 11 個金牌項目，較 2023 年杭州亞運的 7 項大幅增加。電競比賽場地定於愛知機場展覽中心（Aichi Sky Expo），時間為 9 月 23 日至 10 月 2 日，由亞洲電子競技聯合會（AESF）與日本電競聯盟（JESU）共同籌辦。本屆最受矚目的變化是 Mobile Legends: Bang Bang（MLBB）首度被列為亞運正式金牌項目——這款遊戲在菲律賓、印尼、馬來西亞等東南亞國家擁有龐大玩家社群，東南亞代表隊被視為奪牌熱門。此外，League of Legends、Street Fighter 6、Tekken 系列、Honor of Kings、Pokemon UNITE 等廣受歡迎的遊戲均入列。近 25 個國家和地區確認參賽，部分獲直接邀請，部分須通過資格賽取得席次。賽程已全數公告，各國代表隊正在積極備戰。",
+      "why_read": "電競進亞運的進程走到了 11 項金牌的規模，東南亞移動電競文化終於以正式體育賽事的形式獲得承認——這個轉變對亞洲玩家社群的意義，遠比「又多一個國際比賽」更深，也值得台灣電競產業持續關注。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "Olympics.com（國際奧委會）",
+        "media_country": "瑞士",
+        "source_tier": "A",
+        "source_tier_note": "亞奧理事會官方資訊來源",
+        "url": "https://www.olympics.com/en/news/asian-games-2026-esports-medal-events-list",
+        "original_language": "en",
+        "fetched_at": "2026-08-17T07:20:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "中國在上海另立山頭：29 國簽署 WAICO，AI 治理裂成兩個世界",
+      "title_original": "China's Xi Jinping launches new AI alliance: What is it?",
+      "one_liner": "中國組AI合作組織，全球南方站隊上海，西方全缺席",
+      "summary": "2026 年 7 月 16 日，中國主導下，印尼、巴西、南非、俄羅斯、巴基斯坦、哈薩克、塞內加爾等 29 個全球南方國家在上海世界人工智慧大會（WAIC）前夕簽署協議，成立總部設於上海的「世界人工智慧合作組織」（WAICO）。習近平在大會強調「以人為本、AI 向善」原則，聯合國秘書長古特瑞斯亦出席簽署儀式。WAICO 宣示目標是讓 AI 發展對所有國家公平、有益、安全，強調全球南方不應在 AI 發展中被邊緣化。然而，美國、歐盟成員國、日本、英國、韓國等主要西方民主體全數缺席——這與同期歐盟 AI 法案嚴格執法、西方主導的 AI 安全框架形成鮮明對比。《外交家》雜誌和《富比士》均指出，WAICO 是中國試圖以上海為中心、主導 AI 全球治理論述的戰略部署，有別於西方推動的倫理與安全框架。",
+      "why_read": "AI 全球規則正在分裂成兩套互不相容的體系，而且分裂速度比多數人預期的快。WAICO 的成立讓「AI 治理」不再是技術標準問題，而是一個明確的地緣競爭場域——這件事在台灣的媒體曝光度遠低於其重要性。",
+      "topic_tags": ["AI 與科技"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+        "original_language": "en",
+        "fetched_at": "2026-08-17T07:25:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "越南首度超越泰國，躍升東南亞第二大航空市場",
+      "title_original": "Vietnam beats Thailand as Southeast Asia's second-largest aviation market",
+      "one_liner": "七月越南座位數740萬超泰國690萬，越航成最大航空",
+      "summary": "根據 2026 年 7 月最新航空容量數據，越南以 740 萬個航班座位首次超越泰國（690 萬），躍升為東南亞第二大商業航空市場，僅次於印尼（1,090 萬）。越南航空（Vietnam Airlines）更以 281 萬個座位成為東南亞座位容量最大的航空公司。越南此次排名躍升，主因是入境旅遊持續強勁成長，多家航空公司積極擴充越南航班。相比之下，泰國、馬來西亞（520 萬）、菲律賓（490 萬）的航空容量均出現下滑，主因是中東緊張局勢推高航油成本，導致多家東南亞航空削減國際班次。分析師指出，越南的崛起折射出其在後供應鏈重組時代的整體經濟動能，以及國際投資者和旅遊業者對越南長期前景的信心。過去十年，越南刻意壓低成本、開放外資、強化基礎設施，這張成績單正以最日常的航班座位統計呈現。",
+      "why_read": "越南超越泰國這件事看似只是一組統計數字，卻是過去十年東南亞政經版圖悄悄重組的縮影——越南的安靜崛起正越來越難以忽視。",
+      "topic_tags": ["民生"],
+      "region": "越南",
+      "importance": "major",
+      "source": {
+        "media_name": "The Investor (Vietnam Investment Review)",
+        "media_country": "越南",
+        "source_tier": "B",
+        "source_tier_note": "越南官方投資信息平台，英文版",
+        "url": "https://theinvestor.vn/vietnam-beats-thailand-as-southeast-asias-second-largest-aviation-market-d19731.html",
+        "original_language": "en",
+        "fetched_at": "2026-08-17T07:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "科學家最新警告：本世紀最強 El Niño 把地球推向十年後的溫度",
+      "title_original": "Record El Niño could fast-forward planet's temperature by a decade",
+      "one_liner": "暖化速率翻倍至每十年0.35°C，El Niño加速兌現未來",
+      "summary": "《華盛頓郵報》2026 年 8 月 13 日報導，本年度 El Niño 強度達本世紀以來最強，其疊加效應讓全球各地提前感受到「十年後的溫度」。科學家在排除 El Niño、火山爆發和太陽週期等自然干擾因素後，發現地球在過去十年的純暖化速率已達每十年 0.35°C，幾乎是 1970 至 2015 年（每十年約 0.2°C）的兩倍。《InsideClimateNews》同期報告指出全球暖化正急速加速，海洋、極地、陸地均出現超出模型預期的變化。人工智慧分析 120 萬張衛星圖像顯示，浮游藻類正在全球海洋大規模蔓延；北極永凍層解凍釋出的古老碳也加速進入海洋，可能引發微生物將其轉化為溫室氣體的連鎖反應。在水資源面，亞利桑那、內華達、加州等地因科羅拉多河水源未來十年大幅削減而面臨嚴峻危機。聯合國《防治荒漠化公約》（UNCCD）第 17 屆締約方大會（COP17）亦於八月在蒙古烏蘭巴托召開。",
+      "why_read": "「暖化速率加快」在科學界討論多年，但 El Niño 把這個抽象數字變成了活生生的當下感受，各地的極端天氣不再是未來情境——這個時間感的壓縮，才是這篇報告最值得細讀之處。",
+      "topic_tags": ["氣候與環境政策"],
+      "region": "全球",
+      "importance": "major",
+      "source": {
+        "media_name": "The Washington Post",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.washingtonpost.com/weather/2026/08/13/record-el-nio-could-fast-forward-planets-temperature-by-decade/",
+        "original_language": "en",
+        "fetched_at": "2026-08-17T07:35:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "印度獨立 79 週年：從藥品短缺到機器人手術，醫療版圖巨變",
+      "title_original": "India 79: The health journey from scarcity to smart care with telemedicine and robotic surgery",
+      "one_liner": "Ayushman Bharat覆蓋1.2億住院次，印度醫療79年劇變",
+      "summary": "2026 年 8 月 15 日，印度慶祝獨立第 79 週年，WION 等印度媒體回顧了印度醫療體系 79 年間的驚人蛻變。從獨立初期藥品短缺、基礎醫療匱乏的困境，到如今遠端醫療和機器人輔助手術逐漸普及，印度醫療現代化的速度正在加快。政府主導的 Ayushman Bharat（阿育曼巴拉）計畫截至 2026 年 6 月已覆蓋超過 1.2 億次住院治療，為中低收入家庭提供重要的醫療安全網。在人力資源面，印度目前有超過 1388 萬名西醫執業醫師和 394 萬護理人員，並積極推動醫療設備本地製造和全球供應鏈整合。然而，城鄉醫療差距、醫師分布不均、農村最後一哩路等結構性挑戰依然嚴峻。聯合國預算分配顯示印度政府對醫療的投入在 2026-27 財年達 1.065 兆盧比（約 120.5 億美元），較前一年增加約 10%。",
+      "why_read": "印度的醫療轉型走的是政策補貼加民間市場的混合路徑，與中國的政府主導模式或台灣的全民健保模式截然不同——這個對比值得在討論「哪種醫療體系更能因應未來」時細看。",
+      "topic_tags": ["科學與健康", "民生"],
+      "region": "印度",
+      "importance": "normal",
+      "source": {
+        "media_name": "WION",
+        "media_country": "印度",
+        "source_tier": "B",
+        "source_tier_note": "印度主流新聞電視頻道及媒體平台",
+        "url": "https://www.wionews.com/india-news/india-79-the-health-journey-from-scarcity-to-smart-care-with-telemedicine-and-robotic-surgery-1786767810097/amp",
+        "original_language": "en",
+        "fetched_at": "2026-08-17T07:40:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "肯亞宣布全額資助大學生學費，非洲罕見教育政策大轉向",
+      "title_original": "Kenya transitions to 100% government funding for all enrolled university students",
+      "one_liner": "魯托宣布肯亞全額補助大學學費，非洲示範效應值得關注",
+      "summary": "肯亞總統魯托（William Ruto）近期宣布，肯亞將推動大學教育「全額政府資助」政策，對所有在校大學生承諾由政府 100% 承擔學費。這一政策若全面落實，將是肯亞高等教育資金結構的根本性轉型。過去，肯亞大學生面臨高額學貸壓力，違約率高居不下，許多來自低收入家庭的學生因財務壓力而中途輟學或無緣升學。本次政策轉向發生在肯亞晉升非洲聯盟最高出資等級之際，展現出肯亞尋求扮演更積極地區大國角色的野心。肯亞近年在數位基礎建設和創業生態系上持續投資，若高等教育政策落實，可能進一步強化國內人才庫。然而，財政來源和執行機制的細節尚未完整公布，外界對其財政可持續性存有疑慮。值得注意的是，同期肯亞電力監管機構也要求新建風電和太陽能項目必須加裝電池儲能設施，顯示政府在多領域同步推進結構性改革。",
+      "why_read": "在非洲多數國家仍在為基礎教育普及掙扎的背景下，肯亞此舉若真能落實，其示範效應可能遠超非洲——但「宣布」與「落實」之間的距離，也正是這則新聞值得持續追蹤的理由。",
+      "topic_tags": ["民生", "文化與社會議題"],
+      "region": "肯亞",
+      "importance": "normal",
+      "source": {
+        "media_name": "Africa Center for Strategic Studies",
+        "media_country": "美國",
+        "source_tier": "A",
+        "source_tier_note": "美國國防部下屬非洲研究機構，每日非洲媒體評論",
+        "url": "https://africacenter.org/daily-media-review/africa-media-review-for-august-3-2026/",
+        "original_language": "en",
+        "fetched_at": "2026-08-17T07:45:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "AI 治理三條路：歐盟立規矩、中國組聯盟、全球南方找主權",
+      "comparison_topic": "AI 全球治理",
+      "regions": ["歐盟", "中國", "全球南方（WAICO 成員）"],
+      "narrative": "2026 年七月到八月，AI 全球治理的裂縫以非常具體的方式顯現出來，而且三個方向同時發力。\n\n歐盟 AI 法案（EU AI Act）的透明度條款於 8 月 2 日正式生效。從這天起，所有在歐盟境內部署的 AI 系統產生的內容必須清楚標示，讓用戶知道自己正在與 AI 互動或接觸 AI 產製的素材。這是 AI 監管史上最具強制力的單一立法行動，適用對象包含所有在歐盟市場運作的企業，不論其總部在哪裡。歐盟推動的邏輯是：技術必須在既有的人權和法治框架內運作，而不是反過來讓技術改變社會規則。\n\n就在同一個月，另一個訊號從上海傳出。習近平在世界人工智慧大會上宣布，29 個全球南方國家簽署協議，成立世界人工智慧合作組織（WAICO），總部定於上海。成員包括印尼、巴西、南非、巴基斯坦、俄羅斯、哈薩克、塞內加爾等。美國、歐盟成員國、日本、英國、韓國全數缺席。WAICO 的邏輯更靠近「公平發展權」：全球南方不應只是 AI 技術的消費者，而應有資格參與規則制定，且技術主權是國家自主的一部分。\n\n第三條線：8 月 12 日至 14 日，全球南方國家的部長和外交代表在日內瓦聯合國辦公室開會，草擬「AI 主權公約」（Geneva Compact on AI Sovereignty），試圖以集體行動為小國爭取在 AI 治理中的發言空間。這個框架與 WAICO 有部分重疊，但更強調獨立於中美兩大陣營之外的第三條路。\n\n三個框架的根本邏輯差異深刻，而且很難調和。歐盟在乎的是「AI 是否侵害了現有的人權標準」；中國在乎的是「誰制定規則、規則的話語權在哪裡」；全球南方的部分聲音在乎的是「我能不能不被強迫選邊、保留自己的技術自主空間」。\n\n對台灣而言，這場三向競爭直接影響科技出口、供應鏈定位和數位外交走向。台灣製造的 AI 晶片和相關產品若出口到歐盟，就必須符合 EU AI Act；若持續深化與東南亞的技術合作，則面對 WAICO 成員國選邊的壓力。更根本的問題：台灣在這場 AI 治理辯論中是否有足夠的聲音？目前答案並不明朗。三條路並行，都宣稱代表「人類利益」，都在搶奪「全球標準」的定義權——這場爭奪將持續相當長的時間。",
+      "comparison_table": {
+        "dimensions": ["核心邏輯", "2026 年 7-8 月具體行動", "主要成員／陣營", "對台灣及亞洲的意涵"],
+        "rows": [
+          {
+            "region": "歐盟",
+            "values": [
+              "法治優先：AI 必須符合既有人權與民主標準，技術服從社會規範",
+              "8 月 2 日 AI 透明度規則強制上路，AI 生成內容須標示；AI Gigafactories 計畫展開招標",
+              "EU 27 國＋英美日澳盟友體系；歐盟 AI Act 已成全球外溢標準基準",
+              "台灣出口含 AI 功能的產品需符合 EU AI Act；台歐科技合作框架可能跟進"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "主導權邏輯：以上海為中心建立另一套治理話語，強調「以人為本」",
+              "7 月 16 日 WAICO 在上海成立，29 國簽約；WAIC 大會展示 AI 技術實力",
+              "俄羅斯、印尼、巴西、南非、巴基斯坦等全球南方大國；美歐日缺席",
+              "台灣被排除在 WAICO 框架外；東南亞盟友越南、菲律賓面臨中方拉攏壓力"
+            ]
+          },
+          {
+            "region": "全球南方（WAICO）",
+            "values": [
+              "主權邏輯：拒絕被西方技術標準單方面支配，爭取 AI 發展的公平接入",
+              "8 月 12-14 日日內瓦 AI 主權高峰會草擬《日內瓦 AI 主權公約》，試圖建立第三條路",
+              "哈薩克、塞內加爾、寮國、奈及利亞等 29 國；後續可能擴大，但內部路線分歧",
+              "東南亞、南亞國家面臨選邊壓力；部分國家嘗試同時與兩套框架保持彈性關係"
+            ]
+          }
+        ]
+      },
+      "why_read": "這不是抽象的外交辭令：三套框架都在搶同一件事——誰決定未來 AI 如何被開發、部署和監管。台灣科技業已在這場競爭的正中心，但這個議題在台灣的討論深度還遠遠不夠。",
+      "topic_tags": ["AI 與科技"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Forbes",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://www.forbes.com/sites/timbajarin/2026/07/28/china-launches-waico-in-shanghai-as-west-sits-out-ai-governance/",
+          "original_language": "en",
+          "fetched_at": "2026-08-17T07:47:00+08:00",
+          "supports_region": "歐盟"
+        },
+        {
+          "media_name": "Al Jazeera",
+          "media_country": "卡達",
+          "source_tier": "A",
+          "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+          "original_language": "en",
+          "fetched_at": "2026-08-17T07:48:00+08:00",
+          "supports_region": "中國"
+        },
+        {
+          "media_name": "UN Indico（聯合國日內瓦辦公室）",
+          "media_country": "聯合國",
+          "source_tier": "A",
+          "source_tier_note": "聯合國官方活動資訊平台",
+          "url": "https://indico.un.org/event/1024169/",
+          "original_language": "en",
+          "fetched_at": "2026-08-17T07:49:00+08:00",
+          "supports_region": "全球南方（WAICO 成員）"
+        }
+      ]
+    },
+
+    {
+      "id": "item-010",
+      "type": "wildcard",
+      "title_zh": "太平洋微型島國諾魯正式改名「瑙魯」，用母語取回被殖民抹去的名字",
+      "title_original": "Pacific island nation Nauru officially changes name to 'Naoero'",
+      "one_liner": "諾魯改名瑙魯(Naoero)，以母語發音取回殖民前的身份",
+      "summary": "2026 年 7 月底，全球面積第三小的太平洋島國諾魯（Nauru）正式啟用國名「瑙魯」（Republic of Naoero），讓官方名稱回歸傳統拼法，以反映 Nauruan 母語的正確發音（「Now-ero」，而非英語的「Now-roo」）。這項改變源自 2026 年 5 月議會通過的憲法修正案，總統阿德昂（David Adeang）確認不再舉行原定公投，直接生效。聯合國已應政府要求將官方登記更新為 Naoero，國際代碼從 NRU 改為 NRO，國民稱謂從 Nauruan 改為 dei-Naoero。澳洲、紐西蘭、美國、中國等國外交部和大使館網站均已跟進更新。「Nauru」這個名稱最初由歐洲殖民者改造而來，因為他們覺得原住民語 Naoero 的發音太難。如今的名稱復原是一種主權宣示：語言是文化自主的一部分，不應被他人強制扭曲。瑙魯人口僅約 1 萬 2 千人，是氣候變遷和海平面上升最直接受威脅的國家之一。",
+      "why_read": "就在大國 AI 博弈和氣候爭論的喧囂中，這個只有一萬兩千人的太平洋島國靜靜做了一件事：把自己名字的尊嚴要回來。在去殖民化論述越來越受國際社會重視的背景下，這個小動作的象徵意義值得記錄。",
+      "topic_tags": ["文化與社會議題"],
+      "region": "瑙魯（太平洋島國）",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "url": "https://www.aljazeera.com/news/2026/7/31/pacific-island-nation-nauru-officially-changes-name-to-naoero",
+        "original_language": "en",
+        "fetched_at": "2026-08-17T07:55:00+08:00"
+      }
+    }
+  ]
+}
