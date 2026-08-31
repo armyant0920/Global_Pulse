@@ -1,0 +1,249 @@
+{
+  "report_id": "2026-08-31-0800",
+  "generated_at": "2026-08-31T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "電競世界盃巴黎落幕、格陵蘭百年冰崩、SCO三雄吉爾吉斯聚首：八月末週全球脈衝",
+    "summary": "本期涵蓋法國、日本、全球（格陵蘭）、越南、中國、中東、吉爾吉斯／印度／俄羅斯、玻利維亞共八個地區，共計 10 則。\n\n本週最值得關注的是今日（8月31日）起一連兩天在吉爾吉斯比什凱克舉行的上合組織（SCO）第26屆峰會：中國習近平、印度莫迪、俄羅斯普丁罕見同框，慶祝SCO成立25週年。三方對同一個多邊平台的期待截然不同——中國要主導AI合作議程、印度在尷尬中尋求雙邊機遇、俄羅斯渴望能源出口的合法門面。本期比較單元深掘此三角張力。\n\n軟性生活面，電競世界盃2026（EWC26）於8月23日在巴黎大皇宮圓滿閉幕，25項賽事史上最大規模；文化面，日本前衛藝術女王草間彌生8月26日於東京辭世，享年97歲。氣候面，格陵蘭彼德曼冰川8月4日崩裂，76平方公里冰島——相當於曼哈頓大小——漂入北冰洋，是2020年以來最大北極冰崩事件，科學家警告後頭還有更大塊即將脫落。本期冷門地區是玻利維亞，國內示威浪潮持續，政府已向周邊國家求援人道協助。",
+    "regions_covered": ["法國", "日本", "全球（格陵蘭）", "越南", "東南亞", "中國", "中東", "吉爾吉斯", "印度", "俄羅斯", "玻利維亞"],
+    "topics_covered": ["軟性生活議題", "文化與社會議題", "科學與健康", "氣候與環境政策", "民生", "AI 與科技", "經濟與貿易", "地緣政治", "民主與威權治理"],
+    "highlights": [
+      "SCO 25週年三雄峰會：習莫普丁比什凱克聚首，三種盤算撐起同一個多邊框架",
+      "草間彌生辭世享年97，全球藝術界哀悼日本前衛藝術女王",
+      "格陵蘭彼德曼冰川百年大崩，76平方公里冰島漂入北極，近年最大冰流事件"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "電競世界盃2026巴黎大皇宮落幕：25項賽事史上最大規模，BaiSha Gaming奪CS2冠軍",
+      "title_original": "2026 Esports World Cup concludes at Grand Palais, Paris",
+      "one_liner": "EWC26於8月23日在巴黎閉幕，25項賽事25支冠軍隊，電競世界盃首次移師歐洲創歷史",
+      "summary": "2026年電競世界盃（EWC26）自7月6日起在法國巴黎舉行，8月23日於歷史地標巴黎大皇宮（Grand Palais）舉辦頒獎典禮正式閉幕，是該賽事首度在歐洲舉辦。本屆共設25個電競項目，涵蓋24款遊戲，規模創歷屆之最。亮眼成績包括：亞洲電競隊伍BaiSha Gaming以3比0橫掃Team Liquid，奪下CROSSFIRE項目冠軍；德國戰隊BIG在20支強隊決賽中脫穎而出，贏得《要塞英雄》Fortnite Reload Championship桂冠。《英雄聯盟》方面，歐洲職業選手Caps成為首位進入Hall of Legends的西方職業選手，而LCS聯賽已於8月29至30日移師墨西哥城舉辦主場賽事，顯示電競賽事全球化步伐加速。值得注意的是，今年EWC首度移至歐洲舉辦，被業界解讀為全球電競資本不再只看中東的重大信號。",
+      "why_read": "EWC從中東移至歐洲舉辦，是電競作為全球主流體育運動不再依賴單一資本的轉折點；而亞洲隊伍在西方主場的表現，也是預測九月愛知亞運電競賽結果的最佳指標。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "法國",
+      "importance": "major",
+      "source": {
+        "media_name": "Wikipedia / Esports World Cup Official",
+        "media_country": "國際",
+        "source_tier": "A",
+        "url": "https://en.wikipedia.org/wiki/2026_Esports_World_Cup",
+        "original_language": "en",
+        "fetched_at": "2026-08-31T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "草間彌生8月26日辭世享年97，全球藝術界哀悼日本前衛藝術女王",
+      "title_original": "Japan's Yayoi Kusama, Who Turned Hallucinations Into Art, Dies at 97",
+      "one_liner": "以無限圓點震撼全球的草間彌生8月26日在東京辭世，她直至最後仍未放下畫筆",
+      "summary": "日本前衛藝術家草間彌生（Yayoi Kusama）於2026年8月26日在東京一間醫院因多重器官衰竭辭世，享年97歲。她的代表畫廊David Zwirner隨即發布訃告，CNN、NPR、BBC等國際主流媒體同步大幅報導。草間彌生1950年代旅居紐約，以圓點（polka dots）和「無限鏡屋」（Infinity Mirror Rooms）成為20世紀最具辨識度的藝術家之一，深刻影響普普藝術與裝置藝術的發展。她因長期罹患神經疾病而選擇自願住院，但在她東京的醫療機構中仍持續創作，直至生命最後一刻都未放下畫筆。她的逝世讓日本國內藝文界與民間同感失落——許多日本民眾視她為「用藝術戰勝病痛」的象徵人物，而非僅是受西方肯定的藝術家。她晚年作品的版權與商業合作議題，預計將成為國際藝術市場的下一個焦點。",
+      "why_read": "草間彌生是少數真正跨越東西方文化隔閡的日本藝術家，她的離世象徵一個從戰後廢墟中重建的日本創作精神時代的謝幕；她在西方藝術市場的成功路徑，也一再被問到「這樣的道路今天還走得通嗎？」",
+      "topic_tags": ["文化與社會議題"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "CNN",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.cnn.com/2026/08/26/style/japanese-artist-yayoi-kusama-dies-intl-hnk",
+        "original_language": "en",
+        "fetched_at": "2026-08-31T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "格陵蘭彼德曼冰川8月4日崩解76平方公里，北極近十年最大冰崩，科學家警告後繼更大",
+      "title_original": "Manhattan-sized ice island breaks off Greenland's Petermann Glacier",
+      "one_liner": "相當於曼哈頓大小的76平方公里冰島8月4日從彼德曼冰川斷裂，2020年來最大北極冰崩事件",
+      "summary": "2026年8月4日，格陵蘭彼德曼冰川（Petermann Glacier）浮冰舌東側一塊面積達76.4平方公里、厚達150公尺的巨型冰體斷裂入海，形成一座面積相當於曼哈頓島的冰島（ice island）。歐洲太空總署（ESA）哨兵一號（Sentinel-1）雷達衛星於8月3日已捕捉到冰舌中線顯著龜裂，次日即完全斷裂，是自2012年以來彼德曼最大單次流失，也是2020年以來北極圈最大冰崩事件。研究人員警告，現有衛星影像顯示冰舌後方還有兩塊更大的冰體存在成熟斷裂線，預計將在數個月內相繼脫落。冰島目前漂入北冰洋，對北極航道安全與漁業資源構成影響。氣候科學家指出，此事件再度印證北極暖化速度遠超氣候模型的基準預測。",
+      "why_read": "這起事件把氣候數字從新聞統計欄轉為具體物理現實——一個曼哈頓大小的冰塊在一夜之間消失，而且後面還有更大的等著，科學家說這個速度比五年前的預測快了整整一個世代。",
+      "topic_tags": ["科學與健康", "氣候與環境政策"],
+      "region": "全球（格陵蘭）",
+      "importance": "major",
+      "source": {
+        "media_name": "ScienceDaily / EurekAlert",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260823094145.htm",
+        "original_language": "en",
+        "fetched_at": "2026-08-31T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "越南蟬聯東南亞Q2成長冠軍，AI與晶片需求驅動越菲向「高收入」門檻衝刺",
+      "title_original": "Vietnam Leads Southeast Asia Growth as AI Demand Lifts Tech-Driven Economies",
+      "one_liner": "越南Q2再度領跑東南亞，半導體與AI供應鏈帶動越菲快速接近高收入國家門檻，泰國墊底",
+      "summary": "彭博社8月18日報導，越南在2026年第二季再次蟬聯東南亞主要經濟體成長冠軍，馬來西亞、新加坡分居二三位，均受惠於全球AI基建建設帶動的半導體與電子元件出口需求。越南近年積極吸引三星等外資半導體廠，在全球AI供應鏈重組中佔得先機；菲律賓同樣因電子業出口激增，被分析師預測將在數年內達到世界銀行定義的「高收入」門檻。相比之下，泰國成為東南亞表現最弱的主要經濟體，主因是觀光復甦慢於預期、傳統製造業受中國低價競爭衝擊。報導指出，東南亞正出現「AI成長分流」：有半導體製造能力的國家快速起飛，以傳統製造業或觀光業為主的國家相對停滯。台灣在越南的台商布局龐大，此成長趨勢對台越供應鏈下一步走向具有直接影響。",
+      "why_read": "東南亞的AI分流是全球供應鏈重組在地方層次的縮影——台灣選擇在哪些東南亞國家深耕，在這份成長圖譜下將有新的參考座標。",
+      "topic_tags": ["民生", "AI 與科技"],
+      "region": "越南",
+      "importance": "major",
+      "source": {
+        "media_name": "Bloomberg",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-18/ai-boom-and-energy-shocks-see-growth-in-southeast-asia-bifurcate",
+        "original_language": "en",
+        "fetched_at": "2026-08-31T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "中國下半年開局失速：7月工業、消費、投資三指標全數遜預期，AI紅利難外溢",
+      "title_original": "China's Economic Woes Mount With Disappointing Start to Half",
+      "one_liner": "中國7月工業產出增速三個月來首次下滑至4.5%，消費與投資同步遜預期，政策刺激壓力升溫",
+      "summary": "彭博社8月17日報導，中國2026年下半年一開局便遭遇多指標全面走弱的困境。7月份工業生產年增率放緩至4.5%，為三個月來首次下滑並低於市場預期；社會消費品零售年增2.6%，固定資產投資增速亦令人失望。值得注意的是，高科技製造業相對亮眼——3D打印設備、鋰電池、工業機器人產量分別大增52.3%、40.2%、28.5%，顯示AI基建相關製造仍強勁。中國官方媒體CGTN則強調「前七個月整體穩中有進」，與彭博的負面解讀形成對比。市場普遍預期北京將在9月前出台進一步刺激措施；人民銀行也已悄悄擴大跨境人民幣操作空間。分析師將目前局面定性為「AI鏈之外一切沉寂」——少數領域爆發但多數就業密集型產業依然低迷。",
+      "why_read": "中國官媒與西方財經媒體對同一組數據的解讀有幾乎正負相反的落差，這種敘事分歧本身就是值得觀察的信號——代表兩套世界對中國經濟走向的判斷已進入完全不同的軌道。",
+      "topic_tags": ["經濟與貿易"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "Bloomberg",
+        "media_country": "美國",
+        "source_tier": "A",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
+        "original_language": "en",
+        "fetched_at": "2026-08-31T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "霍爾木茲外交陷僵局：美國8月27日表示未與伊朗對話，危機進入第三個月",
+      "title_original": "US says it's not talking to Iran as Strait of Hormuz diplomacy intensifies",
+      "one_liner": "霍爾木茲危機滿三個月，美方8月27日否認正與伊朗談判，胡塞武裝同期傳指揮官陣亡消息",
+      "summary": "根據「Middle East & Africa Reports」8月30日報導，美國國務院8月27日明確表示目前並未與伊朗進行任何正式外交談判，打破外界期待的外交突破預期，使霍爾木茲海峽局勢持續緊繃。胡塞武裝（Houthis）同期公布兩名指揮官——少將Hassan Mutahhar與上校Mohammed al-Ghathi——在也門政府軍交火中陣亡，區域衝突持續延燒。從台灣視角而言，霍爾木茲長期封鎖或管制已間接影響日本、韓國、台灣的能源進口成本，是本期最具地緣政治外溢效應的事件。西方媒體分析認為，美方「說不談、也不升級」的姿態，是刻意維持戰略模糊以避免在亞洲問題上分心的信號；而伊朗則持續以「不是拒絕談判，只是等對等條件」的論述對外說明立場。",
+      "why_read": "霍爾木茲是台灣能源進口的關鍵航道，這個衝突雖以中東地名出現，其影響早已跨越地區。值得觀察的是：西方、伊朗、區域各方對「外交僵局原因」的描述截然不同，顯示多方都在等對方先動。",
+      "topic_tags": ["地緣政治", "民主與威權治理"],
+      "region": "中東",
+      "importance": "major",
+      "source": {
+        "media_name": "A Skeptic News (Middle East & Africa Reports)",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "英語時事分析刊物",
+        "url": "https://askeptic.substack.com/p/2026-08-30-middle-east-and-africa",
+        "original_language": "en",
+        "fetched_at": "2026-08-31T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "SCO 25年峰會三種眼：中國要主導、印度要平衡、俄羅斯要解套",
+      "comparison_topic": "2026 上合組織（SCO）比什凱克峰會各方立場",
+      "regions": ["中國", "印度", "俄羅斯"],
+      "narrative": "2026年8月31日至9月1日，第26屆上海合作組織（SCO）峰會在吉爾吉斯首都比什凱克舉行，恰逢SCO成立25週年。中國習近平、印度莫迪、俄羅斯普丁同場出席，構成本週亞歐地緣最值得觀察的三角張力。\n\n對中國而言，SCO是「去美元化」與「全球南方合作」敘事的核心舞台。本屆峰會中國重推「AI合作行動計畫」，試圖以科技議程補強過去以安全合作為主的框架，同時透過多邊機制削弱美國在中亞的影響力。習近平並在峰會期間與莫迪舉行雙邊會談，中印在邊境對峙稍和的背景下，雙邊關係走向成為外界焦點。\n\n對印度而言，SCO卻是一個「尷尬但又不能不進去」的多邊框架。《外交政策》8月28日一篇分析直言「印度對SCO的用處越來越少」：SCO成員巴基斯坦仍是印度的安全威脅，俄羅斯深陷戰事無暇旁顧，中國是長期戰略競爭者——莫迪此行更像是維持一張外交入場券，而非真正期待多邊成果。印度媒體的焦點在於莫迪與習近平雙邊會談的機遇，而非SCO整體框架的意義。\n\n俄羅斯的盤算最為迫切。在西方制裁下，普丁需要SCO提供替代結算渠道、能源進出口夥伴，以及一個在國際上展示「不孤立」的場合。俄羅斯官媒塔斯社（TASS）以大篇幅將峰會定性為「多極世界秩序鞏固的里程碑」，與西方媒體「多邊主義危機」的解讀形成鮮明對比。\n\nSCO峰會的深層意義，不在於它會通過什麼決議，而在於三個核心大國各自在這個框架裡「想要什麼」的落差有多大。這種多邊主義的內部裂縫，才是理解地緣政治走向的真正切入點。對台灣而言，若SCO演進為一個中國主導的數位治理與AI標準聯盟，台灣將被進一步孤立於這套替代標準體系之外——這個風險遠比SCO的安全合作決議來得直接。",
+      "comparison_table": {
+        "dimensions": ["出席主要目的", "本國媒體焦點", "民間／輿論反應", "對台灣的間接影響"],
+        "rows": [
+          {
+            "region": "中國",
+            "values": [
+              "主導SCO議程，推AI合作計畫，強化中亞影響力，安排習莫雙邊會談",
+              "強調多邊主義勝利，習莫雙邊會談備受關注，AI合作計畫作為新亮點被大幅報導",
+              "官方輿論積極正面，強調中國主導全球南方合作，部分民間聲音質疑SCO實質成效",
+              "若SCO演進為中國主導的AI與數位標準聯盟，台灣將被進一步孤立於替代標準體系之外"
+            ]
+          },
+          {
+            "region": "印度",
+            "values": [
+              "維持多方外交彈性，抓住習莫雙邊機遇，兼顧與俄關係，為印度打開中亞貿易空間",
+              "聚焦莫迪-習近平雙邊會談、印度的中亞貿易布局，SCO整體框架被低調處理",
+              "民間輿論分裂：部分質疑與宿敵巴基斯坦同框的必要性，部分認為印度應積極從內部影響SCO走向",
+              "印度在SCO的影響力，間接決定中亞供應鏈是否向民主國家靠攏，影響台灣多元化選項的空間"
+            ]
+          },
+          {
+            "region": "俄羅斯",
+            "values": [
+              "尋找能源出口替代路徑、RMB結算擴展管道，以及打破西方孤立的外交合法性門面",
+              "官媒大量報導峰會為西方孤立政策的挫敗，強調多極世界秩序正在成形",
+              "國內受制裁民眾期待SCO帶來實質貿易鬆綁，但實質效果有限，輿論期待與現實有落差",
+              "俄羅斯能源向SCO成員轉移，使中亞形成不依賴西方標準的能源定價圈，台灣能源多元化選項受到間接擠壓"
+            ]
+          }
+        ]
+      },
+      "why_read": "SCO峰會的意義不在於它會通過什麼決議，而在於三個核心大國各自對同一個多邊框架的期待落差有多大——這種內部裂縫，才是理解地緣政治走向的真正切入點，而不是峰會公報的措辭。",
+      "topic_tags": ["地緣政治", "民主與威權治理"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Outlook India",
+          "media_country": "印度",
+          "source_tier": "B",
+          "source_tier_note": "印度英語主流新聞週刊",
+          "url": "https://www.outlookindia.com/international/sco-summit-2026-in-bishkek-what-is-on-the-agenda",
+          "original_language": "en",
+          "fetched_at": "2026-08-31T08:00:00+08:00",
+          "supports_region": "印度"
+        },
+        {
+          "media_name": "Foreign Policy",
+          "media_country": "美國",
+          "source_tier": "A",
+          "url": "https://foreignpolicy.com/2026/08/28/sco-shanghai-cooperation-organisation-summit-india-china-pakistan-russia-bishkek/",
+          "original_language": "en",
+          "fetched_at": "2026-08-31T08:00:00+08:00",
+          "supports_region": "印度"
+        },
+        {
+          "media_name": "anews.com.tr",
+          "media_country": "土耳其",
+          "source_tier": "B",
+          "source_tier_note": "中東英語媒體",
+          "url": "https://www.anews.com.tr/world/2026/08/28/xi-modi-putin-to-meet-in-kyrgyzstan-what-to-watch-at-sco-summit",
+          "original_language": "en",
+          "fetched_at": "2026-08-31T08:00:00+08:00",
+          "supports_region": "中國"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "玻利維亞2026示威浪潮：政府向鄰國求援，南美最貧困國的政治危機再度爆發",
+      "title_original": "2026 Bolivian protests: Government seeks humanitarian aid from Argentina, Chile, Ecuador",
+      "one_liner": "玻利維亞國內示威持續，外長公開感謝阿根廷、智利、厄瓜多的人道援助，政局動盪浮上檯面",
+      "summary": "根據2026年玻利維亞示威相關報導，玻利維亞國內政治危機持續發酵，示威浪潮已達到政府不得不向周邊鄰國正式請求人道協助的程度。玻利維亞外長Fernando Aramayo公開感謝阿根廷、智利、厄瓜多政府提供人道援助，支持玻國安全部隊應對當前局勢。玻利維亞為南美洲最內陸的國家之一，長期依賴天然氣出口，近年因氣候與能源轉型衝擊、加上國內政治對立尖銳，經濟與社會壓力持續累積。本次示威源自多重積怨，外界分析師指出，現有執政框架面臨嚴峻的合法性挑戰。與同為內陸南美國家的巴拉圭、烏拉圭相比，玻利維亞的制度韌性明顯較弱，此番動盪是否演變為更大規模政治危機，值得持續觀察。",
+      "why_read": "玻利維亞是亞洲媒體幾乎不報的南美內陸國，但它的政治危機是了解「全球南方」如何在能源轉型與通膨壓力下出現裂縫的窗口，比大國政治更直接呈現普通人生活的破裂。",
+      "topic_tags": ["民主與威權治理", "民生"],
+      "region": "玻利維亞",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Wikipedia (2026 Bolivian protests)",
+        "media_country": "國際",
+        "source_tier": "B",
+        "source_tier_note": "維基百科事件頁面，整合多方來源",
+        "url": "https://en.wikipedia.org/wiki/2026_Bolivian_protests",
+        "original_language": "en",
+        "fetched_at": "2026-08-31T08:00:00+08:00"
+      }
+    }
+  ]
+}
