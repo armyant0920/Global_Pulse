@@ -1,0 +1,294 @@
+{
+  "report_id": "2026-10-26-0800",
+  "generated_at": "2026-10-26T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "LoL世界賽淘汰賽倒數、晶片戰矛盾外交、美國期中選舉全球算盤：十月末週全球脈衝",
+    "summary": "本期涵蓋美洲、亞洲、歐洲、中亞共九個地區，總計10則內容。三大看點：一、英雄聯盟Worlds 2026瑞士制分組賽本週收尾，8強淘汰賽11月3日開打、決賽11月14日在紐約布魯克林登場，T1衛冕或BLG破局，答案即將揭曉；二、美中晶片博弈進入「廢管制又補警告」的矛盾外交新回合——美國10月1日廢除部分晶片出口管制，同日卻警告企業採購華為昇騰晶片恐觸法，北京直斥「霸凌」；三、距美國期中選舉（11月3日）不足兩週，本期比較單元聚焦日、中、歐、東南亞如何各懷鬼胎解讀這場「美國內政」。冷門地區選哈薩克：新憲法7月落地、庫魯台一院制議會完成改選，裏海軍演意外後軍隊大整頓，這個中亞最大國正悄悄完成後俄烏時代的戰略自我重組。",
+    "regions_covered": ["美國", "南韓", "歐盟", "中國", "日本", "越南", "泰國", "德國", "哈薩克"],
+    "topics_covered": ["軟性生活議題", "AI 與科技", "經濟與貿易", "地緣政治", "民主與威權治理", "民生"],
+    "highlights": [
+      "LoL Worlds淘汰賽倒數：四強戰11月3日開打，T1、BLG、Gen.G、G2角逐布魯克林決賽",
+      "美中晶片矛盾外交：廢管制同日祭出華為警告，中國出口前8月已翻倍仍嗆「霸凌」",
+      "美國期中選舉8天倒數：民主黨翻轉眾院機率達85%，日中歐東南亞各打各的算盤"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "LoL世界賽淘汰賽倒數：瑞士制分組賽收尾，8強11月3日決生死，布魯克林總決賽席位剩七天",
+      "title_original": "2026 Season World Championship – Swiss Stage results and Knockout Stage preview",
+      "one_liner": "Worlds 2026瑞士制分組賽本週結束，8強淘汰賽11月3日開打，T1衛冕路遭BLG與G2夾擊",
+      "summary": "2026年英雄聯盟世界錦標賽（Worlds 2026）自10月15日在洛杉磯開跑後，瑞士制分組賽於本週進入尾聲，8強名單即將確定。四強淘汰賽定於11月3至6日，準決賽11月7至8日，總決賽11月14日在紐約布魯克林Barclays Center舉行，總獎金500萬美元（冠軍破百萬美元）為歷屆最高。衛冕冠軍T1由傳奇中路選手Faker領銜，被視為奪冠大熱門；南韓賽區另一支隊伍Gen.G同樣備受分析師看好；中國賽區Bilibili Gaming（BLG）承載中國玩家「打破韓國壟斷」的強烈期待；歐洲G2 Esports是西方最被看好的挑戰者。本屆全程在美國境內舉辦，品牌商業合作量創新高，電競全球化的「美國主場年」格外受到關注。",
+      "why_read": "上期（10月19日）已追蹤世界賽開幕，本期進入淘汰賽倒計時。值得觀察的是：中國玩家社群對BLG的情緒支持已演變成民族意義的投射，這個現象在韓國玩家論壇同樣存在，電競場外的輿論博弈和場內較量一樣精彩。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "美國",
+      "importance": "normal",
+      "source": {
+        "media_name": "LoL Esports Wiki (lol.fandom.com)",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "英雄聯盟電競官方wiki，賽程與結果資料最權威",
+        "url": "https://lol.fandom.com/wiki/2026_Season_World_Championship",
+        "original_language": "en",
+        "fetched_at": "2026-10-26T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "歐盟AI法8月正式開罰、白宮9月迫六大AI廠商簽責任承諾：十月AI監管雙頭並進",
+      "title_original": "EU AI Act GPAI enforcement begins August 2, 2026; White House secures frontier AI voluntary commitments September 29",
+      "one_liner": "歐盟8月對AI廠商啟動罰款機制，美國9月取得六大廠商自願承諾，兩套AI治理路線十月同步運作",
+      "summary": "2026年8月2日，歐盟人工智慧法（EU AI Act）通用目的AI（GPAI）模型執法條款正式生效，歐盟AI辦公室可就違規行為開罰最高1500萬歐元或全球年營收3%（取較高者）。AI生成內容透明標示義務（Article 50）同步適用。美國方面，白宮9月29日宣布Anthropic、Google、Meta、Nvidia、OpenAI及xAI六大AI實驗室共同簽署「前沿AI責任承諾」，涵蓋內部控制、獨立稽核、董事會監督，由DOJ及FBI提供框架，但整體屬自願性質。進入10月，歐盟多個成員國合規部門啟動稽核審查；英國另發布醫療AI監管指引；17國發布AI政府科研優先清單。兩套路徑——歐盟的硬性法規與美國的軟性承諾——在十月同步落地，確立了未來數年全球AI治理的雙頭框架。",
+      "why_read": "歐美AI監管同步落地，與台灣正在研擬中的AI基本法草案時程高度重疊。歐盟硬執法VS美國軟承諾的差異，將深刻影響跨國AI公司在亞洲市場的策略，台灣業者現在必須同時參考兩套規則。",
+      "topic_tags": ["AI 與科技"],
+      "region": "歐盟",
+      "importance": "major",
+      "source": {
+        "media_name": "AF.NET AI News Intelligence",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "AI新聞聚合媒體，彙整全球AI監管動態",
+        "url": "https://af.net/realtime/october-2026-ai-safety-update-key-developments-in-the-us-and-uk/",
+        "original_language": "en",
+        "fetched_at": "2026-10-26T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "中國晶片出口前8月暴增104%，美國廢部分管制卻同日祭出華為警告，北京嗆「霸凌」",
+      "title_original": "China chip exports nearly double; US revokes some controls but warns on Huawei Ascend — Beijing hits back",
+      "one_liner": "中國IC出口前8月增逾一倍達2568億美元，美10月1日廢管制同日補上華為警告，中國商務部稱之霸凌",
+      "summary": "中國海關總署數據顯示，2026年前8個月積體電路出口額達約2568億美元，年增逾104%，主要受全球AI訓練推理需求爆發帶動，晶片已超越電動車成為中國最大單項出口品類。對ASEAN貿易同期成長22.7%，對歐美則分別為8.4%與4.1%。世界銀行隨即上調2026年中國GDP成長預測至4.5%。然而湯姆氏硬體（Tom's Hardware）分析指出，增長主要由AI訓練晶片漲價驅動，先進製程出貨量突破有限。關鍵事件發生在10月1日：美國商務部廢除部分先進運算晶片出口管制，同日卻發布指引，警告企業採購華為「昇騰」晶片恐觸犯出口管制法。中國商務部立即回應，稱此舉為「典型單邊主義霸凌行為」，宣告將採取反制措施，中美晶片博弈進入新一輪矛盾循環。",
+      "why_read": "「廢管制同日補警告」的矛盾外交顯示美中晶片戰已深陷利益拉鋸——完全禁止衝擊美國AI硬體商，完全放開難向國會交代。台灣半導體業夾在其中，這輪博弈直接影響台廠客戶結構與接單策略，值得密切追蹤。",
+      "topic_tags": ["AI 與科技", "經濟與貿易"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "South China Morning Post",
+        "media_country": "香港",
+        "source_tier": "A",
+        "source_tier_note": "英語香港主流報，涵蓋中國科技與貿易議題",
+        "url": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year",
+        "original_language": "en",
+        "fetched_at": "2026-10-26T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "日本史上最大武器出口：三菱重工為澳洲建三艘護衛艦，軍備出口禁忌正式破除",
+      "title_original": "Japan Plans to Transform Military Capabilities with Drones, Boost Domestic Defense Industry; Mitsubishi Heavy to build Mogami-class frigates for Australia",
+      "one_liner": "三菱重工為澳洲建造三艘最上型護衛艦，是日本戰後規模最大武器出口，軍備輸出禁忌正式終結",
+      "summary": "日本防衛省宣布，三菱重工將為澳洲建造三艘升級版「最上型」護衛艦，成為日本史上規模最大武器出口合約，象徵2026年4月解除武器出口限制後政策的具體落地。FY2026國防預算較前年大增9.4%（創歷史新高），重點投入巡弋飛彈與無人機系統，目標在FY2027前建立「SHIELD」（同步混合整合強化濱海防禦）架構。8月發布的2026年版防衛白皮書以強烈措辭警告：「印太地區不排除出現類似俄烏衝突的嚴重局勢」，並將中國列為「最大戰略挑戰」。隨著日本軍火出口許可落地，日澳、日韓、日菲安全合作均顯著升溫，顯示日本加速從「防衛國」轉型為「安全輸出國」，對東亞地區軍事平衡具深遠影響。",
+      "why_read": "日本戰後首次大規模武器出口，在台灣媒體卻未獲對應份量的報導。中國與韓國對日本軍備擴張的不同反應，以及這對台海安全架構的意義，是觀察東亞地緣格局的重要切入點。",
+      "topic_tags": ["地緣政治", "民主與威權治理"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "USNI News",
+        "media_country": "美國",
+        "source_tier": "A",
+        "source_tier_note": "美國海軍學院新聞網，軍事與海事報導權威來源",
+        "url": "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
+        "original_language": "en",
+        "fetched_at": "2026-10-26T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "美國期中選舉8天倒數：民主黨翻轉眾院機率達85%，廣告支出創紀錄38億美元",
+      "title_original": "Democrats 85% to Flip the House in 2026 Midterms, Senate Still a Toss-Up; record $3.8B ad spending",
+      "one_liner": "11月3日期中選舉距今8天，民主黨翻轉眾院機率達85%，川普低支持率是主因，參院仍五五波",
+      "summary": "美國第119屆國會中期選舉將於11月3日舉行，預計逾1億人投票，截至10月12日廣告支出已達38億美元破歷屆紀錄。共和黨目前在眾院持218對214的些微多數，民主黨只需淨增4席即可翻轉。預測市場Kalshi與Polymarket給出民主黨翻轉眾院機率約85%；Decision Desk HQ模型給76%。分析師指出主因為川普低迷支持率、關稅政策衝擊及選民對通膨的不滿，符合「在位黨中期必輸」歷史規律（二戰後平均失26席）。參議院方面，10個戰地州（緬因、俄亥俄、北卡、愛荷華、喬治亞等）決定政局，Kalshi合約共和黨小幅領先51%，仍屬高度競爭。廣告支出戰場集中德州、俄亥俄、密西根。早期投票已在多州展開。",
+      "why_read": "若民主黨翻轉眾院，川普行政預算和部分立法議程將受到制衡，AI法案、對台軍售進度、北約資金等議題都可能出現轉折。這場選舉已是全球最受矚目的地緣政治變數之一。",
+      "topic_tags": ["民主與威權治理"],
+      "region": "美國",
+      "importance": "major",
+      "source": {
+        "media_name": "Modern Diplomacy",
+        "media_country": "歐洲",
+        "source_tier": "B",
+        "source_tier_note": "以地緣政治與外交議題為主的分析媒體",
+        "url": "https://moderndiplomacy.eu/2026/10/19/2026-us-midterm-elections-explained-key-dates-battleground-races-and-whats-at-stake/",
+        "original_language": "en",
+        "fetched_at": "2026-10-26T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "越南GDP今年將超越泰國？泰商瘋搶投資越南，東南亞第二大經濟體易位進行式",
+      "title_original": "Thai firms' 500bn baht Vietnam investment fuels partnership push as GDP could overtake Thailand's in two years",
+      "one_liner": "2026年越南GDP有機會首度超越泰國，泰商在越投資達5000億泰銖，東南亞格局正在重新排序",
+      "summary": "《日經亞洲》年初預測越南2026年GDP將首度超越泰國，引發東南亞廣泛討論。泰國工業聯合會9月16日受訪指出，越南可能在一至兩年內超越泰國，並呼籲泰國改變心態「合作而非競爭」。泰商在越南的已登記投資已超過5000億泰銖（約140億美元），2025年越南FDI年增15.2%至285.4億美元。泰國2026年GDP成長預測僅1.5%（OECD），受高家庭負債、邊境緊張與政治不確定性拖累；越南全年成長目標約9%，雖因中東局勢影響第一季放緩至7.8%，全年仍具成長動能。越南10月舉辦越泰商業論壇，雙方宣告深化供應鏈合作，地緣鄰國從「競爭對手」轉向「互補夥伴」的態勢明顯。",
+      "why_read": "東南亞第二大經濟體身份的易位，不只是數字排行，更是地區製造業、服務業和外資流向的結構性轉移。台灣企業在東南亞布局時，這個格局變化是不可忽視的投資背景。",
+      "topic_tags": ["民生", "經濟與貿易"],
+      "region": "越南",
+      "importance": "major",
+      "source": {
+        "media_name": "The Nation Thailand",
+        "media_country": "泰國",
+        "source_tier": "B",
+        "source_tier_note": "泰國主流英語報紙",
+        "url": "https://www.nationthailand.com/business/economy/40071087",
+        "original_language": "en",
+        "fetched_at": "2026-10-26T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "美國期中選舉全球旁觀者：日本算安全承諾、中國算晶片解禁、歐洲算北約預算",
+      "comparison_topic": "美國期中選舉的全球利益盤算",
+      "regions": ["日本", "中國", "德國/歐盟", "越南/東南亞"],
+      "narrative": "距美國2026年期中選舉不足兩週，全球各地對這場「美國內政」的關注程度遠超一般期中選舉應有的國際版面。原因在於：川普第二任任期帶來的外交政策震盪，已讓每個與美國有安全或貿易利益的國家，都不得不把「美國國會力量的變化」納入戰略計算。\n\n日本的核心關切是「安全承諾的穩定性」。日本2026年大幅升高國防預算、首次對外輸出武器、推動與澳菲韓的安全合作，很大程度上是在美國安全承諾可能鬆動的前提下主動自我強化。若民主黨翻轉眾院，對烏克蘭援助與傳統同盟政策或略趨穩定；但日本政策圈同時了解，無論哪黨主導國會，對中強硬路線都不會實質改變。\n\n中國的報導策略是「去神聖化」——官媒持續強調美國兩黨輪替並無本質差異，都是「資本家利益代理人」，目的在削弱民主制度的對外吸引力。然而，中國科技業界卻暗中追蹤：若民主黨控制眾院，對華晶片出口管制政策能否比共和黨版本更具彈性？中美晶片戰的節奏，部分取決於國會能否制衡行政部門的單邊決定。\n\n德國與歐洲的最大焦點是北約資費與烏克蘭援助的可預測性。羅斯柴爾德7月地緣分析直接點名美國中期選舉為全球關鍵變數，歐洲媒體的報導重心是「美國民主機制的韌性測試」，帶著既期待民主黨勝選、又擔心美國內部撕裂持續加劇的複雜情緒。\n\n越南與東南亞主要看的是關稅與供應鏈確定性。越南2026年已鞏固「替代中國製造」的角色，但川普關稅威脅始終懸而未決。若民主黨翻轉眾院，多邊貿易框架回歸的機率略升，對東南亞出口導向經濟體稍為有利，泰越商業合作的深化也在這個前提下加速佈局。",
+      "comparison_table": {
+        "dimensions": ["核心關切", "媒體關注焦點", "民主黨翻轉眾院的預期影響", "與台灣的類比關係"],
+        "rows": [
+          {
+            "region": "日本",
+            "values": [
+              "安全承諾穩定性：日本自強之路是否仍有美國背書",
+              "跨黨派的對日防衛承諾延續性與印太戰略的可持續性",
+              "對烏克蘭與傳統同盟援助可能略增，對中強硬路線不變",
+              "台灣與日本同樣評估「美國承諾的可靠度」，但台灣暴露程度更高、談判籌碼更少"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "晶片管制政策走向：民主黨是否比共和黨更有談判空間",
+              "官媒刻意低調或去神聖化，強調「兩黨本質相同」削弱民主示範效應",
+              "晶片管制整體不會鬆動，多邊外交機制可能增加中美科技談判空間",
+              "台灣議題兩黨立場相近，民主黨翻轉不改變中美台戰略三角的基本格局"
+            ]
+          },
+          {
+            "region": "德國/歐盟",
+            "values": [
+              "北約資費與烏克蘭援助的可預測性，及川普外交單邊主義的制衡力度",
+              "美國民主機制韌性測試，眾院如何限制行政擴權",
+              "北約承諾略趨穩定，歐洲自主防衛壓力可能稍降，法國2027選前情勢略為緩解",
+              "歐洲關注美國民主本身的健康程度，台灣更直接關注美國對華政策與武器供應節奏"
+            ]
+          },
+          {
+            "region": "越南/東南亞",
+            "values": [
+              "關稅政策確定性：多邊貿易機制是否有機會回歸、單邊關稅威脅是否降溫",
+              "東南亞媒體報導量少，但商業圈密切追蹤關稅動向與FTA談判可能性",
+              "多邊貿易框架回歸機率略增，供應鏈規劃的不確定性可望稍降",
+              "台灣與東南亞同樣是美中貿易戰的第三方——既受益於供應鏈轉移，也同樣承受關稅威脅"
+            ]
+          }
+        ]
+      },
+      "why_read": "全球各地解讀同一場美國選舉的角度，直接揭示了它們各自對美國的依賴結構與脆弱性。這個比較讓我們看到：同一場選舉，在不同國家眼中是完全不同的故事，也映照出台灣在這個格局中獨特而複雜的處境。",
+      "topic_tags": ["民主與威權治理", "地緣政治"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Modern Diplomacy",
+          "media_country": "歐洲",
+          "source_tier": "B",
+          "source_tier_note": "以地緣政治與外交議題為主的分析媒體",
+          "url": "https://moderndiplomacy.eu/2026/10/19/2026-us-midterm-elections-explained-key-dates-battleground-races-and-whats-at-stake/",
+          "original_language": "en",
+          "fetched_at": "2026-10-26T08:00:00+08:00",
+          "supports_region": "德國/歐盟"
+        },
+        {
+          "media_name": "Rothschild & Co Geopolitical Signals",
+          "media_country": "英國",
+          "source_tier": "B",
+          "source_tier_note": "投資銀行地緣政治分析報告，七月版本點名美中選舉為核心變數",
+          "url": "https://www.rothschildandco.com/en/newsroom/insights/2026/07/ga_geopolitical_signals_geostrategic_watchpoints2/",
+          "original_language": "en",
+          "fetched_at": "2026-10-26T08:00:00+08:00",
+          "supports_region": "德國/歐盟"
+        },
+        {
+          "media_name": "DeFi Rate (prediction market aggregator)",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "彙整Kalshi、Polymarket等預測市場數據",
+          "url": "https://defirate.com/news/democrats-85-percent-to-flip-house-2026-midterms-senate-still-toss-up/",
+          "original_language": "en",
+          "fetched_at": "2026-10-26T08:00:00+08:00",
+          "supports_region": "美國"
+        },
+        {
+          "media_name": "USNI News",
+          "media_country": "美國",
+          "source_tier": "A",
+          "source_tier_note": "美國海軍學院新聞，提供日本安全政策背景",
+          "url": "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
+          "original_language": "en",
+          "fetched_at": "2026-10-26T08:00:00+08:00",
+          "supports_region": "日本"
+        },
+        {
+          "media_name": "Iraq News (中國商務部聲明轉載)",
+          "media_country": "伊拉克",
+          "source_tier": "B",
+          "source_tier_note": "轉載中國商務部10月1日聲明",
+          "url": "https://www.iraqinews.com/tech/china-slams-us-bullying-over-new-chip-warnings/",
+          "original_language": "en",
+          "fetched_at": "2026-10-26T08:00:00+08:00",
+          "supports_region": "中國"
+        },
+        {
+          "media_name": "The Nation Thailand",
+          "media_country": "泰國",
+          "source_tier": "B",
+          "source_tier_note": "泰國主流英語報，提供越泰經貿合作背景",
+          "url": "https://www.nationthailand.com/business/economy/40071087",
+          "original_language": "en",
+          "fetched_at": "2026-10-26T08:00:00+08:00",
+          "supports_region": "越南/東南亞"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "哈薩克新憲轉型：裏海軍演意外奪14命後啟動大整頓，庫魯台一院制議會悄然成形",
+      "title_original": "Kazakhstan orders military overhaul after 14 die in Caspian drills; Tokayev confirms Miami G20 attendance; Kurultai parliament seated",
+      "one_liner": "中亞最大國哈薩克7月完成憲改一院化，裏海軍演意外後啟動軍隊大整頓，托卡葉夫確認出席G20峰會",
+      "summary": "哈薩克2026年7月1日新憲法正式生效，完成從兩院制到「庫魯台」（Kurultai）一院制議會的歷史性轉型，首屆庫魯台議員選舉於8月23日舉行。「庫魯台」源自草原民族的部落議事傳統，名稱選用具有鮮明的民族主義政治信號，顯示托卡葉夫政府試圖在外形上強化哈薩克認同，與俄羅斯式政治符號保持距離。同期，一場裏海海軍演習意外造成14名士兵死亡，國防部隨即宣布啟動全面軍事改革，具體細節受到管控。外交方面，托卡葉夫已確認將出席11月在美國邁阿密舉行的G20峰會，此前哈薩克2026年GDP預測仍達4.8%以上（IMF），哈薩克延續其「多方平衡」外交路線，同時維持對中俄西方三方的正式往來。石油產出因基礎設施問題可能略低於目標，仍是主要外匯來源。",
+      "why_read": "哈薩克幾乎不出現在台灣媒體版面，但它是中俄之間最重要的戰略緩衝國之一，也是「後俄烏時代中亞如何重組」的縮影。裏海軍演意外後的整頓、G20出席的外交信號，以及庫魯台一院制改革，共同勾勒出這個中亞大國的權力走向。",
+      "topic_tags": ["民主與威權治理", "地緣政治"],
+      "region": "哈薩克",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "New Lines Institute for Strategy and Policy",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "中亞地緣政治分析智庫，定期發布中亞地區摘要報告",
+        "url": "https://newlinesinstitute.org/central-asia-center/central-asia-roundup-july-2026/",
+        "original_language": "en",
+        "fetched_at": "2026-10-26T08:00:00+08:00"
+      }
+    }
+  ]
+}
