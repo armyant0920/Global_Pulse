@@ -1,0 +1,256 @@
+{
+  "report_id": "2026-11-02-0800",
+  "generated_at": "2026-11-02T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "LoL世界賽LCK三強入圍、美期中選舉倒數24小時、COP31下週土耳其登場：十一月初週全球脈衝",
+    "summary": "本期跑了九個地區：南韓、美國、肯亞、中國、日本、土耳其、烏茲別克，加上電競比較單元橫跨韓中歐三地。\n\n最值得關注的三個重點：第一，LoL世界賽2026瑞士賽制落幕，LCK三隊（Gen.G、DK、T1）全數晉級八強，韓國電競生態系的深度優勢仍無可匹敵，而歐洲Karmine Corp與美洲LYON意外強勢晉級，預告了電競版圖的悄然裂變；第二，美國期中選舉定於十一月三日舉行，民調顯示民主黨在參眾兩院都有領先，從北京到基輔，全球正等待這張選票重新評估川普政府的政策走向；第三，COP31氣候峰會於十一月九日在土耳其安塔利亞開幕，史上首次採用分割主席制（土耳其主辦、澳洲主持談判），加上美國氣候立場保守，氣候融資的南北矛盾將再度在談判桌上攤牌。\n\n跨地區有趣對比：電競項目以三種截然不同的路徑支撐了同一場全球賽事的頂端競爭——韓國靠制度、中國靠資本、歐洲靠社群熱情。冷門地區補充：烏茲別克因MrBeast宣布首赴塔什干，成為中亞第一個進入頂級數位創作者行程的城市，折射出該地區快速開放的現實。",
+    "regions_covered": ["南韓", "美國", "肯亞", "中國", "日本", "土耳其", "烏茲別克", "法國", "歐盟"],
+    "topics_covered": ["軟性生活議題", "民主與威權治理", "科學與健康", "AI與科技", "民生", "氣候與環境政策"],
+    "highlights": [
+      "LoL世界賽LCK三強全入八強，歐洲與美洲意外雙雙晉級",
+      "美期中選舉倒數24小時，民主黨若勝選能否掣肘川普成全球焦點",
+      "COP31下週安塔利亞開幕，分割主席制為史上首見，氣候融資南北角力再起"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "LoL世界賽2026：LCK三隊齊入八強，韓國電競生態深度再獲驗證",
+      "title_original": "Worlds 2026: T1 And iG Reach The Quarterfinals As MKOI And LYON Get One Last Chance",
+      "one_liner": "瑞士賽制落幕，Gen.G、DK、T1三支LCK隊伍全數晉級八強，MSI冠軍HLE意外出局。",
+      "summary": "2026年《英雄聯盟》世界錦標賽瑞士賽制於十月底結束，八強陣容確定：韓國LCK送出三隊（Gen.G、DK、T1），中國LPL同樣有三隊入圍（BLG、IG、TES），歐洲LEC的卡明科（Karmine Corp）及北美LCS的LYON各搶一席，合計八強。官方賽程顯示，八強賽將於德州艾倫舉行，準決賽定於十一月七至八日，冠軍戰則於十一月十四日在紐約布魯克林巴克萊中心登場。\n\n最大冷門是MSI 2026衛冕冠軍、自動獲得世界賽資格的Hanwha Life Esports（HLE），在瑞士賽中以0比2敗給BLG提前淘汰。確定的八強對陣為：Gen.G對LYON、DK對BLG、T1對KC，以及TES對IG的LPL內戰。LCK三隊同屆八強為近年少見，顯示韓國電競青訓體系的深度優勢仍無法被資本或個別天才撼動。",
+      "why_read": "LCK三隊同屆八強是2026世界賽最大看點，但更值得關注的是：歐洲KC和美洲LYON的強勢晉級，說明電競版圖正在多元化，韓中兩極格局正在出現裂縫——這個趨勢對未來的電競產業投資邏輯有深遠影響。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "南韓",
+      "importance": "major",
+      "source": {
+        "media_name": "EarlyGame",
+        "media_country": "德國",
+        "source_tier": "B",
+        "source_tier_note": "歐洲電競與遊戲垂直媒體",
+        "url": "https://earlygame.com/news/lol/worlds-2026-t1-and-ig-reach-the-quarterfinals-as-mkoi-and-lyon-get-one-last-chance",
+        "original_language": "en",
+        "fetched_at": "2026-11-02T07:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "美國期中選舉倒數24小時：從北京到基輔，全球都在等這張選票",
+      "title_original": "From Kyiv to Beijing, why the world is watching US midterm elections 2026",
+      "one_liner": "美國期中選舉定於十一月三日，民調顯示民主黨領先，各國盤算選後美國政策走向。",
+      "summary": "美國期中選舉將於十一月三日舉行，涵蓋眾議院全部435席、參議院35席及39個州長職位。進入最後倒數，十月二十七日民調平均顯示民主黨在兩黨通用投票意向中領先54.7%，川普個人支持率僅34.7%。\n\n全球觀察焦點各有不同：歐洲輿論普遍認為即使民主黨控制國會，也難以迫使仍任總統的川普在關稅或軍援立場上讓步，彭博社報導歐洲股票投資人正密切注視防務支出、關稅、藥價政策是否因此轉向。日本媒體（Nikkei Asia）聚焦的是選後美國對中政策的走向。烏克蘭則等待國會控制權是否影響美國對烏軍援規模。阿拉伯媒體將此次選舉列入「重塑全球秩序的關鍵選舉季」，與巴西未來選舉並列觀察。",
+      "why_read": "選舉結果尚未揭曉（開票在台灣時間四日凌晨），但全球已開始沙盤推演「如果民主黨贏了，然後呢」——這正是觀察美國國內政治如何外溢成地緣算計的最佳現場直播。",
+      "topic_tags": ["民主與威權治理"],
+      "region": "美國",
+      "importance": "major",
+      "source": {
+        "media_name": "WION",
+        "media_country": "印度",
+        "source_tier": "B",
+        "source_tier_note": "印度World Is One News國際新聞頻道",
+        "url": "https://www.wionews.com/photos/from-kyiv-to-beijing-why-the-world-is-watching-us-midterm-elections-2026-1793294298761",
+        "original_language": "en",
+        "fetched_at": "2026-11-02T07:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "肯亞疑似伊波拉病例初步呈陰性，但假警報暴露東非應急體系真實壓力",
+      "title_original": "Kenya boosts Ebola preparedness after registering first case; preliminary test negative",
+      "one_liner": "肯亞十月初出現首起疑似伊波拉病例，初步化驗陰性，但事件暴露東非公衛邊境監測的脆弱。",
+      "summary": "根據Africanews十月初報導，肯亞衛生當局於十月八日宣布境內出現首起疑似伊波拉病例，隨即啟動緊急應對程序並強化邊境管控。十月九日的最新進展顯示，該病例初步化驗結果呈陰性，但完整確認結果仍在等候。\n\n此次事件發生於剛果民主共和國（DRC）伊波拉疫情持續延燒的背景之下，東非各國的衛生備戰能力因此再度受到國際關注。肯亞是非洲重要的航空轉機樞紐，內羅畢機場每日轉運龐大人流，醫療資源的快速動員能力直接影響潛在疫情的擴散速度。公衛學界指出，即便本次是假警報，東非應急體系的整體韌性仍有待系統性投入，而非僅靠個案應對。",
+      "why_read": "在DRC伊波拉疫情未完全控制的情況下，肯亞這次「假警報」所揭示的，不是危機已過，而是下一次真正的警報響起時，系統的應對速度能否比這次更快——這才是值得長期追蹤的指標。",
+      "topic_tags": ["科學與健康"],
+      "region": "肯亞",
+      "importance": "normal",
+      "source": {
+        "media_name": "Africanews",
+        "media_country": "國際（非洲）",
+        "source_tier": "B",
+        "source_tier_note": "法國媒體集團Euronews旗下非洲新聞頻道",
+        "url": "https://www.africanews.com/2026/10/09/pix-of-the-day-9-october-2026-across-the-world/",
+        "original_language": "en",
+        "fetched_at": "2026-11-02T07:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "中國第十五個五年計畫點名具身AI、量子技術、6G為新興戰略支柱",
+      "title_original": "China's 2026 Two Sessions: A New Five-Year Cycle and Emerging Signals on Trade, Technology and Investment",
+      "one_liner": "中國工信部點名「具身AI、腦機介面、量子技術、核融合、6G」為2026-2030年五年計畫科技核心。",
+      "summary": "中國2026年兩會確立的第十五個五年計畫（2026-2030年）在科技方向上有別以往：工業和信息化部副部長辛國斌公開點名「具身人工智慧（Embodied AI）、腦機介面、核融合、量子通訊、6G技術」為新興戰略支柱，顯示中國正試圖在尚未形成技術壁壘的前沿領域提前卡位。\n\n分析人士指出，這份清單與歐美目前的AI監管焦點（語言模型、生成式AI）幾乎完全錯開，顯示中國在AI戰略上的差異化布局：一面在軟體生成式AI上相對限縮（配合黨的宣傳管控），一面在硬體具身AI方向大力扶植。這被廣泛解讀為在美國晶片出口管制封鎖供應鏈之際，另闢一條「讓西方追趕的技術路徑」。據SCMP報導，本次計畫透露的不僅是產業政策，更是地緣科技競賽的新戰線宣示。",
+      "why_read": "具身AI和腦機介面不是遙遠議題，而是中國已明確排入五年計畫的產業政策標的——這對台灣的AI硬體供應鏈廠商來說，既是潛在機會，也是競爭態勢；觀察中國的布局方向，往往比觀察美國更能預判下一個供應鏈重組點。",
+      "topic_tags": ["AI與科技"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "South China Morning Post",
+        "media_country": "香港",
+        "source_tier": "A",
+        "url": "https://www.scmp.com/economy/china-economy/article/3345737/8-takeaways-economic-briefing-chinas-two-sessions",
+        "original_language": "en",
+        "fetched_at": "2026-11-02T07:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "IMF預測日本2027年GDP全球排名跌至第六，被英國與印度超越",
+      "title_original": "IMF raises Japan 2026 growth forecast, but GDP ranking to slip to sixth in 2027",
+      "one_liner": "IMF微調日本今年成長預測至0.7%，但預告名目GDP於2027年被英國與印度超越，跌出前四。",
+      "summary": "國際貨幣基金組織（IMF）十月中旬發布的最新預測，將日本2026年經濟成長率小幅上調0.1個百分點至0.7%，但同時指出以名目GDP計算，日本預計在2027年從全球第四名跌至第六名，依序被英國和印度超越。\n\n這一排名下滑背後，反映的是日圓長期貶值、人口持續縮減以及勞動生產力成長放緩的結構性問題累積效應。日本第三季GDP初步估計定於十一月十六日公布，市場普遍預估季增0.4%（年化），能否維持正成長，將影響日本央行（Bank of Japan）是否在年底前再度升息的決策。一份Dai-ichi Life的預測指出，年底升息仍有可能，但時機取決於內需的持續復甦。",
+      "why_read": "「日本跌出GDP前四」不是聳動標題，而是數十年人口與生產力趨勢的最終結算——這個案例是亞洲其他老齡化社會（包括台灣、韓國）最直接的參照鏡，值得認真看待而非當成他國之事。",
+      "topic_tags": ["民生"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "RTTNews",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "即時財經新聞媒體",
+        "url": "https://www.rttnews.com/2435465/japan-inflation-slows-more-than-expected-industrial-output-falls-unexpectedly.aspx",
+        "original_language": "en",
+        "fetched_at": "2026-11-02T07:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "COP31下週安塔利亞登場：史上首見「分割主席制」，氣候融資南北矛盾再浮檯面",
+      "title_original": "UNFCCC COP31: The Road to Antalya",
+      "one_liner": "COP31十一月九日土耳其開幕，史上首次分割主席制，氣候融資與化石燃料承諾是核心戰場。",
+      "summary": "第31屆聯合國氣候變遷大會（COP31）將於十一月九日至二十日在土耳其安塔利亞舉行。本次峰會有兩大特殊之處：其一，史上首次採用「分割主席制（split presidency）」——土耳其擔任大會主席（由環境部長Murat Kurum出任），但談判協商主導權由澳洲負責。這一安排源自土耳其爭取主辦、澳洲不願完全讓出談判主導權的妥協，執行細節仍有摩擦空間。\n\n峰會核心議題包括：各國NDC（國家自定貢獻）3.0版本更新、氣候融資目標（發展中國家要求已開發國家年提千億美元以上）、以及從COP28延續的「擺脫化石燃料」具體時程。目前美國在氣候融資上持保守立場，加上東道主土耳其本身仍是煤炭大用戶，談判氣氛格外複雜。",
+      "why_read": "COP31的「分割主席制」本身就是一個訊號：氣候外交的傳統模式正在適應地緣政治的碎片化——當連「誰主持談判」都成為爭議，氣候融資的實質突破就更難期待；這場峰會值得關注的，不只是結果，而是為何這麼難達成共識。",
+      "topic_tags": ["氣候與環境政策"],
+      "region": "土耳其",
+      "importance": "major",
+      "source": {
+        "media_name": "UNRIC（聯合國區域資訊中心）",
+        "media_country": "國際",
+        "source_tier": "A",
+        "url": "https://unric.org/en/unfccc-cop31-the-road-to-antalya/",
+        "original_language": "en",
+        "fetched_at": "2026-11-02T07:30:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "電競職業化的三種路徑：韓國靠制度、中國靠資本、歐洲靠熱情——從LoL世界賽2026看全球電競版圖",
+      "comparison_topic": "電競職業化模式",
+      "regions": ["南韓", "中國", "歐洲（法國）"],
+      "narrative": "2026年LoL世界賽的八強格局是一份意外清晰的電競地圖：韓國（LCK）送出三支隊伍（Gen.G、DK、T1），中國（LPL）也有三支（BLG、IG、TES），歐洲出現了近年最強成績——法國Karmine Corp（KC）與北美LYON雙雙晉級，首次讓非韓非中隊伍佔據八強半壁。這個結果折射出三種截然不同的電競職業化路徑。\n\n韓國的電競強大從不是偶然。LCK建立了完整的青訓梯隊與職業聯賽生態，選手職業路徑清晰，政府文化體育觀光部長期保持制度性支持，甚至有大學設立電競相關科系。這是「制度先行」的典型：在資本介入之前，就有系統在孕育人才。\n\n中國走的是截然不同的「資本先行」路：騰訊、網易等巨頭對電競俱樂部的投資規模龐大，頂尖選手薪資曾達天價。但隨著2021年未成年人遊戲管制收緊、市場估值縮水，這套模式開始出現裂縫——LPL今年三隊入圍，顯示競技核心力仍在，但生態的長期可持續性令人存疑。\n\n歐洲電競的崛起則是「草根熱情轉職業化」的案例。KC從法國Twitch直播社群起家，背後沒有財團撐腰，靠的是粉絲文化與逐漸累積的品牌贊助。這種模式的薪資天花板較低、人才仍在流失，但更有韌性，也讓電競作為「文化現象」的面向更為突出。\n\n三種路徑的共同隱憂：韓國面臨人口縮減導致青訓儲備萎縮，中國面臨遊戲管制壓縮玩家基數，歐洲面臨頂尖人才持續外流至韓中。這些結構性矛盾，將在未來三到五年的世界賽格局中逐漸浮現。",
+      "comparison_table": {
+        "dimensions": ["政府支持模式", "資本投入特色", "隊伍與選手來源", "2026世界賽八強成績", "最大隱憂"],
+        "rows": [
+          {
+            "region": "南韓",
+            "values": [
+              "文體部制度性支持，有正式電競政策與大學科系",
+              "企業贊助為主（SKT、Samsung），梯隊青訓體系完整",
+              "青訓系統產出，選手職業路徑清晰",
+              "3席：Gen.G、DK、T1",
+              "人口縮減影響長期青訓儲備"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "官方有限支持，遊戲監管持續壓制消費端",
+              "騰訊等科技巨頭重金投入，2021年後開始收縮",
+              "巨頭旗下俱樂部，選手流動性高、薪資差距大",
+              "3席：BLG、IG、TES",
+              "未成年管制收緊，潛在玩家基數長期下滑"
+            ]
+          },
+          {
+            "region": "歐洲（法國）",
+            "values": [
+              "部分國家有電競場館政策，整體制度支持仍弱",
+              "粉絲眾籌＋中小企業贊助，KC從直播社群自然生長",
+              "來自社群文化與直播平台的草根培育",
+              "1席：Karmine Corp（法）",
+              "頂尖人才仍持續流失至韓中聯賽"
+            ]
+          }
+        ]
+      },
+      "why_read": "電競不只是遊戲競技，也是數位時代的軟實力與產業政策競賽——從三種模式的對比，可以看出不同社會如何把「年輕人喜歡的東西」轉化（或未能轉化）為有韌性的產業生態，這對任何想在數位娛樂產業佔據一席之地的地區都有啟發。",
+      "topic_tags": ["軟性生活議題"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Dot Esports",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "電競垂直媒體",
+          "url": "https://dotesports.com/league-of-legends/news/worlds-2026-swiss-day-8-results",
+          "original_language": "en",
+          "fetched_at": "2026-11-02T07:30:00+08:00",
+          "supports_region": "南韓"
+        },
+        {
+          "media_name": "Inven Global",
+          "media_country": "南韓",
+          "source_tier": "B",
+          "source_tier_note": "韓國最大電競媒體英文版",
+          "url": "https://www.invenglobal.com/articles/27983/dk-vs-blg-matchup-and-more-quarterfinal-draw-results",
+          "original_language": "en",
+          "fetched_at": "2026-11-02T07:30:00+08:00",
+          "supports_region": "中國"
+        },
+        {
+          "media_name": "EarlyGame",
+          "media_country": "德國",
+          "source_tier": "B",
+          "source_tier_note": "歐洲電競與遊戲垂直媒體",
+          "url": "https://earlygame.com/news/lol/worlds-2026-t1-and-ig-reach-the-quarterfinals-as-mkoi-and-lyon-get-one-last-chance",
+          "original_language": "en",
+          "fetched_at": "2026-11-02T07:30:00+08:00",
+          "supports_region": "歐洲（法國）"
+        }
+      ]
+    },
+
+    {
+      "id": "item-010",
+      "type": "wildcard",
+      "title_zh": "MrBeast宣布首赴塔什干：烏茲別克成中亞第一個頂級網紅目的地",
+      "title_original": "MrBeast plans Tashkent event on his first Central Asia trip",
+      "one_liner": "YouTube最大頻道主MrBeast宣布首赴烏茲別克塔什干舉辦活動，中亞進入全球數位內容版圖。",
+      "summary": "根據Times of Central Asia十月報導，YouTube最具影響力頻道主MrBeast（Jimmy Donaldson，訂閱量逾三億）宣布計劃前往烏茲別克首都塔什干舉辦活動，這將是他首次造訪中亞地區。此消息在烏茲別克社群媒體引發廣泛討論，當地媒體視其為「中亞進入全球數位內容版圖」的象徵性時刻。\n\n烏茲別克近年積極推動旅遊開放與數位經濟現代化，塔什干和撒馬爾罕已逐步成為地區性文化旅遊目的地。以往頂級YouTube創作者幾乎不考慮中亞，此次訪問被當地觀察人士解讀為：烏茲別克對外開放政策已產生可見的軟實力效應。同期有報導指美國前總統川普也在評估中亞訪問行程，但烏茲別克媒體更關注的是MrBeast此行所代表的文化能見度提升。",
+      "why_read": "數位創作者的地理選擇，正在重寫全球旅遊與文化可見度的地圖；烏茲別克在中亞率先出現頂級網紅足跡，比任何外交公報都更直觀地說明了這個地區快速開放的現實——對東南亞、台灣等想在中亞尋找市場機會的觀察者而言，這是一個值得留意的地緣文化訊號。",
+      "topic_tags": ["軟性生活議題", "文化與社會議題"],
+      "region": "烏茲別克",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Times of Central Asia",
+        "media_country": "中亞（哈薩克）",
+        "source_tier": "B",
+        "source_tier_note": "中亞區域英文媒體",
+        "url": "https://www.timesca.com/?p=46971",
+        "original_language": "en",
+        "fetched_at": "2026-11-02T07:30:00+08:00"
+      }
+    }
+  ]
+}
