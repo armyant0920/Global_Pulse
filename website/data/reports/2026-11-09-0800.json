@@ -1,0 +1,274 @@
+{
+  "report_id": "2026-11-09-0800",
+  "generated_at": "2026-11-09T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "民主黨奪回美國國會、COP31安塔利亞揭幕、LoL世界賽四強成形：十一月第二週全球脈衝",
+    "summary": "本期跑了九個地區：美國、南韓、土耳其（COP31現場）、摩洛哥、印度、日本，加上一份全球反應比較單元，以及太平洋島國斐濟的冷門補充。\n\n本期三大重點：第一，美國11月3日期中選舉結果出爐，民主黨一舉拿回參眾兩院，翻轉川普執政以來的國會格局，川普表示「有點驚訝」但接受結果，全球從北京、東京到基輔都在重新算這張選票的意義；第二，COP31今日（11月9日）在土耳其安塔利亞正式開幕，史上首度由土耳其主辦、澳洲主持談判的分割主席制，加上開發中國家認為3,000億美元年度氣候融資目標嚴重不足，談判桌上的南北鴻溝比過去更明顯；第三，LoL世界賽2026四強對陣確認，Gen.G對決iG、T1對決Karmine Corp，全LCK包圍圈之外出現了一道歐洲裂縫。\n\n跨地區對比：美國選舉結果讓地球兩端的陣營都同時鬆了一口氣又多了一份焦慮——烏克蘭擔憂川普態度，北京則觀望新的貿易談判空間是否出現。冷門地區：太平洋島國斐濟帶著「我們只分到全球0.2%氣候資金」的憤怒，在最需要聲音的時刻抵達安塔利亞。",
+    "regions_covered": ["美國", "南韓", "土耳其", "摩洛哥", "印度", "日本", "中國", "歐洲", "斐濟"],
+    "topics_covered": ["軟性生活議題", "民主與威權治理", "氣候與環境政策", "文化與社會議題", "科學與健康", "AI與科技"],
+    "highlights": [
+      "美國民主黨期中選舉橫掃兩院，川普接受結果但稱仍握否決權",
+      "COP31今日安塔利亞開幕，氣候融資南北矛盾比歷屆更激烈",
+      "LoL世界賽四強：Gen.G掃出LYON，歐洲KC創史上最佳成績挑戰T1"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "LoL世界賽2026四強對陣確認：Gen.G掃出LYON，歐洲黑馬KC挑戰衛冕T1",
+      "title_original": "Gen.G advances to semifinals after sweeping Lyon, while defending champion T1 faces Karmine Corp.",
+      "one_liner": "四強LPL全軍覆沒，LCK三隊包圍圈外歐洲KC創史上最佳成績挑戰T1。",
+      "summary": "LoL世界賽2026四強對陣出爐：LPL（中國聯賽）全軍覆沒，四強中三支來自LCK（Gen.G、DK、T1），歐洲的Karmine Corp以黑馬姿態擠入，成為歐洲電競史上少數挺進Worlds四強的隊伍。四強對陣為Gen.G對決Invictus Gaming、T1對決Karmine Corp，預計11月7至9日進行。Gen.G在八強以3:0橫掃法國隊LYON，韓國媒體大量報導「LCK包圍圈」敘事。歐洲電競圈則焦點在KC創造歷史——這是靠「社群熱情」打造而非系統化產業投資的成果，與LCK的制度化路線形成鮮明對比。LCK方面，三隊分屬三家不同財閥背景的戰隊，彼此競爭激烈，能否同時站上世界之巔仍是韓國電競圈的核心懸念。",
+      "why_read": "電競作為軟實力競技場，LCK三強包圍圈的敘事掩蓋了一個值得觀察的裂縫：歐洲KC靠社群打法進四強，代表了一種不同的電競生態路徑，這在台灣電競圈幾乎沒有被認真討論過。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "南韓",
+      "importance": "major",
+      "source": {
+        "media_name": "Korea Herald",
+        "media_country": "南韓",
+        "source_tier": "B",
+        "source_tier_note": "南韓主流英語報紙",
+        "url": "https://www.koreaherald.com/article/10928544",
+        "original_language": "en",
+        "fetched_at": "2026-11-09T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "美國期中選舉：民主黨奪回參眾兩院，川普稱「有點驚訝」接受結果",
+      "title_original": "Democrats Take Full Control of Congress in Midterms",
+      "one_liner": "民主黨橫掃美國國會，參院翻轉七席，眾院多過20席，川普仍稱握有完全否決權。",
+      "summary": "11月3日美國期中選舉結果出爐，民主黨在參眾兩院同時拿下多數，包括德克薩斯州、南卡羅來納州等傳統共和黨票倉都出現翻轉。密西根州的Abdul El-Sayed在此次選舉中成為美國史上首位穆斯林參議員，同時多州選出首位女性州長。川普在選後受訪表示「我有點驚訝」，但接受結果，並強調「他們必須來找我，因為我還握有完全的否決權」。民主黨此次大勝被普遍解讀為選民對川普執政的反彈，但由於川普仍握有行政否決權，兩院翻轉對政策走向的實際影響仍待觀察，本期特別做了比較單元詳述各地解讀。",
+      "why_read": "國會格局轉變不只是美國內政問題——從北京到基輔，全球正重新評估川普接下來的外交與貿易動向是否會受到制約，這個選舉在各地引發的解讀截然不同，見比較單元。",
+      "topic_tags": ["民主與威權治理"],
+      "region": "美國",
+      "importance": "major",
+      "source": {
+        "media_name": "ABC7 News",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "美國ABC地方新聞網",
+        "url": "https://abc7news.com/story/trump-says-he-was-little-bit-surprised-democrats-big-win-midterms/20014892/",
+        "original_language": "en",
+        "fetched_at": "2026-11-09T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "COP31今日安塔利亞開幕：分割主席制史上首見，氣候融資南北鴻溝搬上談判桌",
+      "title_original": "COP31: What's on the Negotiating Table?",
+      "one_liner": "COP31在土耳其揭幕，開發中國家批評3,000億美元年度氣候資金承諾遠遠不夠。",
+      "summary": "第31屆聯合國氣候峰會（COP31）於11月9日在土耳其安塔利亞正式開幕，預計進行至11月20日。這是UNFCCC歷史上首度採用分割主席制：土耳其負責主辦，澳洲負責談判主持，兩者以「夥伴關係」模式運作，被視為應對氣候外交日益複雜化的創新設計。核心談判焦點是去年COP29確立的「2035年每年向開發中國家提供至少3,000億美元氣候融資」目標——印度等開發中國家明確指出這個數字嚴重不足，更大的目標是2035年動員至少1.3兆美元，但已開發國家的承諾路徑仍不明確。太平洋小島國強調目前僅獲得全球氣候融資的0.2%，與其面臨的威脅嚴重不對稱，詳見本期冷門地區補充。",
+      "why_read": "台灣通常不是COP談判桌上的直接角色，但氣候融資南北矛盾的演變決定了全球氣候政策未來十年的走向，本期冷門補充有太平洋島國視角可搭配閱讀。",
+      "topic_tags": ["氣候與環境政策"],
+      "region": "土耳其",
+      "importance": "major",
+      "source": {
+        "media_name": "Centre for Science and Environment",
+        "media_country": "印度",
+        "source_tier": "A",
+        "source_tier_note": "印度知名獨立科學環境智庫",
+        "url": "https://www.cseindia.org/cop31-what-s-on-the-negotiating-table--13307",
+        "original_language": "en",
+        "fetched_at": "2026-11-09T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "摩洛哥法蒂瑪組閣：阿拉伯世界第二位女總理，七名女部長迎接2030世界盃",
+      "title_original": "'Truly historic': Morocco's king appoints first woman prime minister",
+      "one_liner": "摩洛哥首位女總理法蒂瑪10月正式組閣，阿拉伯世界性別政治出現歷史轉折。",
+      "summary": "摩洛哥國王穆罕默德六世於9月29日任命法蒂瑪·埃扎赫拉·艾爾-曼蘇里（Fatima Ezzahra El Mansouri）為新任總理，她是摩洛哥史上第一位女性總理，也是阿拉伯世界繼突尼西亞的納傑拉·布登之後的第二位。她領導的「真實性與現代性黨」（PAM）在9月23日大選中以97席勝出。10月中旬正式公布的31席內閣中包含7名女部長，前外長布里塔、內政部長拉夫提特均留任。外界觀察到，新政府將主導摩洛哥衝刺2030年世界盃（與葡萄牙、西班牙共同主辦）的最後準備工作，這場200億美元的基礎建設計畫也是外國觀察者評估新政府能力的第一道考驗。",
+      "why_read": "台灣媒體對北非政治的報導極為有限，但法蒂瑪的案例具有指標意義：這是一個傳統伊斯蘭社會在女性領導力上打破玻璃天花板的具體時刻，值得與台灣本身的性別政治比較參照。",
+      "topic_tags": ["文化與社會議題"],
+      "region": "摩洛哥",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "source_tier_note": "中東最大獨立媒體集團英語頻道",
+        "url": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister",
+        "original_language": "en",
+        "fetched_at": "2026-11-09T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "印度ESTIC 2026峰會：莫迪主持五千全球代表，AI生技太空三年內要出成果",
+      "title_original": "PM Modi inaugurates Emerging Science, Technology and Innovation Conclave 2026",
+      "one_liner": "印度三日科技峰會10月27日開幕，莫迪要求AI生技太空三年內出可量化成果。",
+      "summary": "印度「新興科學、技術與創新年會」（ESTIC 2026）於10月27至29日在新德里巴拉特曼達邦會展中心舉行，總理莫迪親自揭幕。逾五千名全球代表出席，主題橫跨人工智慧、生物科技、先進製造、醫療保健、能源、氣候與海洋科學等12個領域，多位諾貝爾獎得主擔任講師。莫迪在開幕致詞中要求科學家與深科技新創業者在三年內提出可量化、可規模化的成果。外界關注的是印度政府宣示的一萬億盧比研發基金——若確認，將是印度近年最大規模科研投入。印度正積極把「科學大國」形象打造成外交軟實力的一部分。",
+      "why_read": "印度正在快速建構不同於中國模式的「開放式科技大國」論述，ESTIC峰會是這套論述最具象化的一次展演，對比中國封閉式科技自強路線，兩者的異同值得長期追蹤。",
+      "topic_tags": ["科學與健康", "AI與科技"],
+      "region": "印度",
+      "importance": "normal",
+      "source": {
+        "media_name": "Devdiscourse",
+        "media_country": "印度",
+        "source_tier": "B",
+        "source_tier_note": "印度主流政策與科技新聞平台",
+        "url": "https://www.devdiscourse.com/article/headlines/3998067-pm-modi-inaugurates-emerging-science-technology-and-innovation-conclave-2026",
+        "original_language": "en",
+        "fetched_at": "2026-11-09T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "韓日商界高層聯手：KITA與経済同友会呼籲AI時代深化產業合作",
+      "title_original": "Biz circles of Korea, Japan call for stronger industrial cooperation in AI era",
+      "one_liner": "韓日兩國企業聯合會首度發表AI時代合作倡議，強調供應鏈互補與半導體協作。",
+      "summary": "南韓國際貿易協會（KITA）與日本経済同友会聯合發布「AI時代韓日產業合作倡議」，呼籲兩國企業在AI基礎設施、半導體供應鏈、機器人製造等領域強化合作，以共同應對中美兩大科技霸權的壓力。背景是近期韓日首腦峰會擴大了雙邊AI合作討論範疇，促使企業界加速落地。日本企業對韓國SK海力士的AI記憶體晶片布局高度關注，同時也評估聯合採購GPU算力資源的可行性。此前雙邊關係因歷史問題出現波折，但產業界正繞開政治摩擦，直接在技術層面推進合作，形成「政冷產熱」的特殊格局。",
+      "why_read": "韓日產業合作在歷史問題的陰影下仍在推進，AI競爭壓力正在讓兩個東北亞大國超越部分政治障礙，這對台灣作為供應鏈關鍵環節的位置具有直接影響。",
+      "topic_tags": ["AI與科技"],
+      "region": "南韓",
+      "importance": "normal",
+      "source": {
+        "media_name": "finanzen.net (Reuters)",
+        "media_country": "德國",
+        "source_tier": "B",
+        "source_tier_note": "德國財經媒體，轉載Reuters電訊稿",
+        "url": "https://www.finanzen.net/nachricht/aktien/biz-circles-of-korea-japan-call-for-stronger-industrial-cooperation-in-ai-era-15413521",
+        "original_language": "en",
+        "fetched_at": "2026-11-09T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "美國民主黨橫掃國會後：北京等貿易重開、基輔擔心棄守、東京首爾算產業帳",
+      "comparison_topic": "美國2026期中選舉結果的全球解讀",
+      "regions": ["中國", "烏克蘭/歐洲", "日本", "南韓"],
+      "narrative": "民主黨奪回兩院的結果讓全球四個方向同時開始重新校準各自的對美算盤。\n\n北京的初步反應是觀望。中國官媒的報導保持克制，但分析人士指出民主黨控制國會意味著部分關稅政策可能受到立法制衡，同時也可能讓晶片出口限制談判出現新空間。然而北京的另一層擔憂是民主黨在台灣、人權議題上傳統上更為強硬——這讓中方在「可能得到的貿易讓步」與「可能承受的政治壓力」之間難以單純計算利弊。\n\n烏克蘭與歐洲是最有混合情緒的一方。烏克蘭方面，民主黨對援烏態度傳統上更積極，但國會通過更多軍援仍需通過川普否決這一關。歐洲領導人一方面對川普稍被制衡感到鬆了口氣，另一方面憂慮川普仍握有外交政策的高度自主性，北約承諾問題不會因此自動消失。愛爾蘭媒體形容這次結果是「嚴厲警告川普，但繩索還在川普手上」。\n\n日本的反應是謹慎觀望。最關鍵的問題在於川普的關稅政策——日本汽車與半導體出口是否因新的國會格局獲得喘息空間，或者川普依然可以透過行政命令繞過立法？日本企業圈普遍認為「確定性仍然不足」，因為行政令比立法更難被國會制衡。\n\n南韓的關注點落在具體產業補貼走向：電動車電池、半導體補貼政策的後續是否隨民主黨增加議員而更有保障？同時防衛費分擔議題的立法空間也可能因此稍微改善。首爾媒體分析，這次選舉結果對韓國的直接影響有限，真正的考驗在川普如何動用否決權回應民主黨的反制。",
+      "comparison_table": {
+        "dimensions": ["政府第一反應", "最關注的具體議題", "川普否決權的影響評估", "與台灣的差異"],
+        "rows": [
+          {
+            "region": "中國",
+            "values": [
+              "官媒保持克制，分析層面評估貿易談判空間是否重開",
+              "晶片出口管制、對台政策走向、是否有貿易談判新空間",
+              "若民主黨推進科技限制，否決權反而可能是中方的緩衝空間",
+              "台灣同時擔憂兩黨對台政策立場，但民主黨傳統上更支持台灣安全承諾"
+            ]
+          },
+          {
+            "region": "烏克蘭/歐洲",
+            "values": [
+              "歐洲鬆了口氣但保持謹慎，烏克蘭有條件樂觀",
+              "對烏軍援是否能繞過川普否決、北約承諾是否恢復常態",
+              "高度不確定：軍援需通過否決，外交政策川普仍掌握主導",
+              "台灣與烏克蘭同被列為潛在棄守對象，但地緣優先序與形式不同"
+            ]
+          },
+          {
+            "region": "日本",
+            "values": [
+              "外交部謹慎觀望，企業界評估關稅風險是否下降",
+              "汽車、半導體關稅、防衛費分擔、行政命令繞過立法的可能",
+              "行政命令繞過立法的可能性讓日本企業不敢過度樂觀",
+              "台灣與日本在供應鏈上深度相連，兩岸緊張局勢對雙方都是共同變數"
+            ]
+          },
+          {
+            "region": "南韓",
+            "values": [
+              "產業部評估IRA補貼走向，外交部維持穩定表態",
+              "電動車電池、半導體補貼政策、韓美FTA更新可能",
+              "國防費分擔議題立法空間可能稍微改善，但仍在川普否決射程內",
+              "台灣與南韓在半導體上既是合作夥伴也是競爭對手，美國政策風向對兩者都有槓桿效應"
+            ]
+          }
+        ]
+      },
+      "why_read": "美國國會格局轉變不是單一大國的內政，它是全球地緣算盤重置的信號，各地對同一個選舉結果得出的結論截然不同，這個比較正好展示了國際政治中「沒有統一解讀」的常態。",
+      "topic_tags": ["民主與威權治理"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "ABC7 News",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "美國ABC地方新聞網，提供川普反應原文",
+          "url": "https://abc7news.com/story/trump-says-he-was-little-bit-surprised-democrats-big-win-midterms/20014892/",
+          "original_language": "en",
+          "fetched_at": "2026-11-09T08:00:00+08:00",
+          "supports_region": "美國（川普第一反應）"
+        },
+        {
+          "media_name": "TASS",
+          "media_country": "俄羅斯",
+          "source_tier": "B",
+          "source_tier_note": "俄羅斯官方通訊社，觀察烏克蘭/歐洲視角",
+          "url": "https://tass.com/world/2212917/amp",
+          "original_language": "en",
+          "fetched_at": "2026-11-09T08:00:00+08:00",
+          "supports_region": "烏克蘭/歐洲"
+        },
+        {
+          "media_name": "Irish Examiner",
+          "media_country": "愛爾蘭",
+          "source_tier": "B",
+          "source_tier_note": "愛爾蘭主流日報，整理歐洲反應",
+          "url": "https://www.irishexaminer.com/world/arid-41932944.html",
+          "original_language": "en",
+          "fetched_at": "2026-11-09T08:00:00+08:00",
+          "supports_region": "歐洲"
+        },
+        {
+          "media_name": "Outlook India",
+          "media_country": "印度",
+          "source_tier": "B",
+          "source_tier_note": "印度主流英語周刊，提供亞洲選舉觀察視角",
+          "url": "https://www.outlookindia.com/international/us-midterms-2026-list-of-winners-as-democrats-flip-senate-dent-trumps-grip",
+          "original_language": "en",
+          "fetched_at": "2026-11-09T08:00:00+08:00",
+          "supports_region": "日本/南韓"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "斐濟赴COP31：太平洋島國只分到全球0.2%氣候資金，安塔利亞是最後一次機會？",
+      "title_original": "Pacific Islands head to COP31 demanding fairer share of climate finance",
+      "one_liner": "太平洋島國批全球氣候融資嚴重不公，0.2%分配比例與其面臨的生存威脅完全不對稱。",
+      "summary": "太平洋島嶼新聞協會（PINA）報導，以斐濟為首的太平洋小島嶼國家（SIDS）在COP31揭幕之際，以極強硬姿態提出氣候融資公平分配訴求。澳洲氣候部長已公開承認小島嶼國家僅獲得全球氣候融資的0.2%，與其面臨的海平面上升、極端氣候等生存威脅嚴重不對等。太平洋島國聯盟強調，COP29確立的3,000億美元年度目標對其而言幾乎毫無意義，因為資金大量流向碳排放大國的減排計畫，而非小島國的適應與撤離成本。斐濟代表團此次攜帶具體的「損失與損害」（Loss and Damage）計算報告前往安塔利亞，要求設立有約束力的分配機制，而非目前的自願性承諾框架。斐濟氣候部長指出，部分島民已面臨「要么移民，要么等著被海水吞沒」的現實選擇。",
+      "why_read": "太平洋島國正在消失，但他們的聲音在亞洲華語媒體裡幾乎是零。COP31是一個罕見的時機點，讓這群人類氣候危機「第一線棄民」有機會被聽見——而這一切正在台灣的氣候政策討論未曾觸及的層次上發生。",
+      "topic_tags": ["氣候與環境政策"],
+      "region": "斐濟",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Pacific Islands News Association (PINA)",
+        "media_country": "斐濟",
+        "source_tier": "B",
+        "source_tier_note": "太平洋島嶼地區最主要的新聞聯盟媒體",
+        "url": "https://pina.com.fj/?p=78986",
+        "original_language": "en",
+        "fetched_at": "2026-11-09T08:00:00+08:00"
+      }
+    }
+  ]
+}
