@@ -1,0 +1,367 @@
+{
+  "report_id": "2026-11-16-0800",
+  "generated_at": "2026-11-16T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "BLG制霸全球、巴西魯拉三度當選、COP31氣候融資首日破局：十一月第三週全球脈衝",
+    "summary": "本期涵蓋8個地區，共10則。最值得關注的三個重點：（1）中國電競戰隊BLG本週以「淘汰全部四支LCK戰隊」的歷史戰績奪得英雄聯盟世界冠軍，對中韓電競生態產生深遠衝擊——巧合的是，同一時間北美電競老牌Evil Geniuses也剛剛關閉，東西電競的落差在本期格外鮮明，本期亦設有專題比較；（2）巴西總統魯拉以不到4個百分點差距贏得第三任期，對手拒絕承認結果，巴西政治分裂依舊深刻；（3）COP31在土耳其安塔利亞開幕首日即爆發氣候融資分歧，非洲集團提出氣候貿易關稅的前所未有要求。冷門地區本期選取盧安達，聚焦美國擬撤其AGOA貿易優惠背後的剛果地緣衝突。上期重點COP31已開幕，本期新增其首日破局的具體進展。",
+    "regions_covered": ["中國", "南韓", "美國", "英國", "日本", "巴西", "土耳其", "盧安達"],
+    "topics_covered": ["軟性生活議題", "民主與威權治理", "氣候與環境政策", "經濟與貿易", "科學與健康", "AI與科技"],
+    "highlights": [
+      "BLG奪冠Worlds 2026：LPL首隊打穿LCK四強，電競霸主五年首度易位",
+      "魯拉奪第三任期，巴西右翼拒認輸，拉美最大民主再次走鋼絲",
+      "COP31首日破局，非洲集團提氣候關稅，全球貿易與氣候議題衝撞"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "BLG奪冠Worlds 2026：首隊打穿LCK四強，Knight成史上首位中國中路MVP",
+      "title_original": "Bilibili Gaming beat Gen.G 3-1 to win Worlds 2026 after knocking out all four LCK teams",
+      "one_liner": "中國隊BLG以3:1擊敗南韓Gen.G，睽違五年為LPL奪回英雄聯盟世界冠軍",
+      "summary": "2026年英雄聯盟世界大賽（Worlds 2026）於11月14日在美國布魯克林落幕。中國LPL戰隊B站遊戲（Bilibili Gaming，BLG）以3:1擊敗南韓Gen.G，拿下冠軍，這也是LPL時隔五年再度奪回世界錦標賽冠軍。BLG創下歷史——成為世界大賽史上首支淘汰全部四支LCK戰隊的隊伍：四強賽以3:1逆轉衛冕冠軍T1，另一組半決賽則由隊友送走iG（iG以3:0橫掃Top Esports進入四強後才被BLG淘汰）。中路選手Knight（丁澤仁）榮獲決賽MVP，成為英雄聯盟歷史上首位奪得世界冠軍與決賽MVP的中國中路選手。BLG本賽季也同時是First Stand 2026冠軍，完成「雙冠」。",
+      "why_read": "BLG打穿全體LCK的壯舉打破了南韓電競長達四年的統治，在中韓電競圈引發劇烈震動；台灣電競圈是LPL最大海外受眾之一，這場結果在台灣各大論壇和電競社群亦廣泛討論。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "Esports.net",
+        "media_country": "英國",
+        "source_tier": "A",
+        "url": "https://www.esports.net/news/gaming/bilibili-gaming-beat-gen-g-3-1-to-win-worlds-2026-after-knocking-out-all-four-lck-teams/",
+        "original_language": "en",
+        "fetched_at": "2026-11-16T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "北美電競巨頭Evil Geniuses宣告關閉，二十七年傳奇告終，贊助寒冬成壓垮稻草",
+      "title_original": "Evil Geniuses will shut down on November 2 after more than 25 years in esports",
+      "one_liner": "北美電競老牌EG以「贊助市場崩潰」為由宣告關閉，象徵北美電競結構性危機加深",
+      "summary": "老牌電競組織Evil Geniuses（EG）於2026年11月2日正式結束一切競賽與日常營運，距其成立已逾27年。EG在聲明中表示，當前電競贊助環境惡化，「無法在現有環境下負責任地維持組織運作」，因此做出退場決定。這是繼同月稍早關閉的Complexity（23年歷史）之後，北美電競在短短數月內又一重量級組織宣告解散。EG旗下曾囊括DOTA 2、CS2、VALORANT等多支戰隊。多名前任球員以「合約違反」和「詐欺欺詐」為由對EG提起訴訟，包括DOTA 2前明星選手SumaiL。電競業界評論者指出，北美電競生態長期依賴高風險廣告模式，收入極不穩定，EG的倒閉揭示該地區電競商業模式的結構性問題。",
+      "why_read": "EG是北美電競的象徵性組織，與中韓電競的蓬勃形成刺眼對比；其關閉的原因（贊助撤退、缺乏電競主場文化）折射出西方電競商業模式的脆弱性，和BLG奪冠一起閱讀，可清晰看到東西電競生態的分歧走向。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "美國",
+      "importance": "normal",
+      "source": {
+        "media_name": "rdy.gg",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "電競垂直媒體",
+        "url": "https://rdy.gg/en/dota2/news/evil-geniuses-shut-down-esports-organization",
+        "original_language": "en",
+        "fetched_at": "2026-11-16T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "英國政府接受全部44項NHS AI建議，宣示十年內「全面AI化」醫院",
+      "title_original": "Government response to AI in healthcare recommendations published",
+      "one_liner": "英政府接受獨立委員會全部44項AI醫療監管建議，確立責任框架與透明度原則",
+      "summary": "英國政府於2026年10月完整接受「AI醫療監管全國委員會」提出的44項建議，回應長期以來NHS（國民健保）AI落地缺乏統一政策框架的批評。建議涵蓋「全系統責任歸屬」和「信任、透明度與可預測性」兩大核心原則。配合政府的《十年健康計劃》，目標是讓所有醫院在計劃存續期間達到「完全AI化」，同時承諾9億英鎊的NHS AI預算。然而，健康基金會（Health Foundation）批評，AI實際採用速度已遠遠超前政策規範，大量臨床決策輔助系統在缺乏清晰國家指引的情況下上線，存在安全疑慮。英國政府也同步宣布了AI用於警察執法的規範框架，使英國成為少數同時在醫療和執法領域推動統一AI治理框架的國家之一。",
+      "why_read": "英國將AI醫療的「監管整合」設為政策主軸，做法與美國的「州級各自為政」、中國的「由上而下定標準」明顯不同，提供一個值得比較的治理路徑；尤其接受全部44項建議（無一拒絕）的政治姿態，在國際間相當罕見。",
+      "topic_tags": ["科學與健康", "AI 與科技"],
+      "region": "英國",
+      "importance": "major",
+      "source": {
+        "media_name": "NHS Health Research Authority",
+        "media_country": "英國",
+        "source_tier": "A",
+        "source_tier_note": "英國NHS官方機構",
+        "url": "https://www.hra.nhs.uk/about-us/news-updates/government-response-to-ai-in-healthcare-recommendations-published/",
+        "original_language": "en",
+        "fetched_at": "2026-11-16T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "IMF預測日本GDP滑至全球第六，本田評估反向進口美製車應對關稅",
+      "title_original": "OECD Economic Survey Japan 2026: Key Policy Insights",
+      "one_liner": "日本GDP排名恐跌至全球第六（落後印度、英國），貿易壓力下本田評估反向進口美製車",
+      "summary": "國際貨幣基金（IMF）及OECD最新報告顯示，日本將在中期內滑落至全球GDP第六名，被印度和英國超越，此預測結合最新人口普查揭示的加速少子化數據，讓日本「經濟大國」地位面臨長期考驗。日本11月消費者信心指數小幅回升，顯示內需有短暫復甦跡象，但OECD報告仍強調財政整頓與企業治理改革的迫切性。在貿易領域，川普關稅壓力下，本田汽車正評估是否將部分美國製造的車輛逆向出口回日本，這一動作在業界相當罕見，折射出全球汽車供應鏈在關稅壁壘下的結構性扭曲。日本政府11月另宣布新型免稅購物制度啟動，外國旅客改採先付款後退稅的流程，以打擊免稅品外流。",
+      "why_read": "日本GDP排名下滑的預測在日本主流媒體引發廣泛討論，涉及「日本是否正走向衰落」的深層認同議題；本田的出口策略則是川普關稅效應在個別企業層面的具體體現，台灣電子製造業面臨類似的供應鏈抉擇。",
+      "topic_tags": ["經濟與貿易", "民生"],
+      "region": "日本",
+      "importance": "major",
+      "source": {
+        "media_name": "OECD Economic Surveys",
+        "media_country": "國際組織（法國巴黎）",
+        "source_tier": "A",
+        "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/key-policy-insights_e3384128.html",
+        "original_language": "en",
+        "fetched_at": "2026-11-16T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "魯拉以51.8%驚險勝出巴西總統決選，小玻爾索納洛拒絕承認結果",
+      "title_original": "Lula holds off far right with victory in Brazil presidential election",
+      "one_liner": "現任總統魯拉險勝小玻爾索納洛奪得第三任期，巴西政治分裂依舊深刻",
+      "summary": "2026年10月25日巴西總統決選結果出爐，現任左翼總統路易斯・伊那席歐・魯拉・達西爾瓦（Lula）以51.79%得票率，領先右翼參議員弗拉維歐・玻爾索納洛（Flávio Bolsonaro，前總統之子）的48.26%，贏得連任，開始其第三個總統任期。魯拉在第一輪曾落後，第二輪靠都市地區票源大逆轉。選後，弗拉維歐・玻爾索納洛拒絕承認選舉結果，宣稱「在這樣的背景下無法承認」，並啟動法律程序要求撤銷選舉，不過法律專家認為翻盤機率極低。選舉委員會（TSE）亦因認定Meta未依17項命令限制特定選舉內容，對該公司罰款750萬雷亞爾。此次選舉折射出巴西社會在經濟、宗教和城鄉之間的深層分歧。",
+      "why_read": "巴西是拉美最大民主國家，魯拉的第三次當選再度打贏右翼民粹挑戰者，但不到4個百分點的差距說明政治分歧未見收窄；選後爭議和對社群媒體的監管行動，對台灣選舉生態有一定的參照意義。",
+      "topic_tags": ["民主與威權治理"],
+      "region": "巴西",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "url": "https://aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election",
+        "original_language": "en",
+        "fetched_at": "2026-11-16T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "COP31安塔利亞揭幕：氣候融資首日破局，非洲集團罕見提案氣候關稅入議程",
+      "title_original": "COP31 climate summit kicks off in Turkiye's Antalya amid warnings 2026 will be among hottest years on record",
+      "one_liner": "聯合國氣候峰會COP31於安塔利亞開幕，氣候融資在首日即爆發分歧，非洲集團要求納入氣候貿易關稅",
+      "summary": "第31屆聯合國氣候變遷大會（COP31）於2026年11月9日在土耳其安塔利亞（Antalya）正式開幕，預計舉行至11月20日。土耳其擔任主席國，澳洲前氣候部長布文（Chris Bowen）以共同主席身份主持談判。世界氣象組織（WMO）警告，過去12年為有記錄以來最熱，2026年恐列史上最熱年份之一，全球暖化持續朝1.5°C臨界點加速靠近。在議程面上，非洲國家集團罕見提議正式將「氣候相關貿易關稅」納入大會議程，主張允許碳邊境稅作為氣候外交工具，立即引發貿易大國關注。首日即爆發「誰來出資支援發展中國家調適與減碳」的氣候融資爭議，談判前景添加不確定性。大會另設「健康」為行動議程十大優先事項之一，並宣布啟動「安塔利亞健康韌性倡議」。",
+      "why_read": "非洲集團提議氣候貿易關稅是本屆COP的全新爆點，直接碰觸已因川普政府而高度敏感的全球貿易體系；與COP30達成的初步成果相比，本屆能否向前推進是觀察全球氣候外交韌性的關鍵指標。",
+      "topic_tags": ["氣候與環境政策"],
+      "region": "土耳其（全球）",
+      "importance": "major",
+      "source": {
+        "media_name": "Balkan Green Energy News",
+        "media_country": "歐洲",
+        "source_tier": "B",
+        "source_tier_note": "歐洲能源與氣候專業媒體",
+        "url": "https://balkangreenenergynews.com/cop31-opens-amid-warnings-that-2026-will-be-among-hottest-years-on-record/",
+        "original_language": "en",
+        "fetched_at": "2026-11-16T08:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "Worlds 2026 BLG制霸：LPL vs LCK，電競話語權的東亞文化戰",
+      "comparison_topic": "電競軟實力：LPL與LCK的霸主爭奪",
+      "regions": ["中國（LPL）", "南韓（LCK）", "西方電競（歐洲/北美）"],
+      "narrative": "2026年英雄聯盟世界大賽的落幕，宣告了LCK統治時代的終結，也讓一個問題再度浮上水面：電競的「東亞霸權格局」究竟意味著什麼？\n\nBLG打穿全體LCK的壯舉不只是一場賽事結果，更是一次文化震盪。在中國，慶祝BLG的情緒很快被「這不只是遊戲，是軟實力」的詮釋框架接收。官方媒體未直接評論電競政策，但商業生態的報導邏輯清楚：BLG的勝利，對騰訊、B站等平台的全球佈局而言是一次品牌加分。Knight個人的MVP敘事更被包裝為「中國電競文藝復興」的象徵。\n\n在南韓，BLG的勝利引發的不只是悲傷，更是深層自省。LCK這個培育了世界最多頂尖選手的電競生態，在2026年首次面臨「是否過度商業化、是否訓練效率下滑」的系統性質疑。Zeus拒絕重簽Hanwha Life、Faker年齡漸長、主力教練持續出走至LPL——這些跡象讓韓國電競社群意識到一個時代的更迭不可避免。部分韓國粉絲指出「BLG有多位接受韓國體系訓練的選手」，試圖在話語上稀釋失敗的衝擊。\n\n西方電競的反應則更像旁觀者的驚嘆。Evil Geniuses在BLG奪冠前的兩週宣告關閉，使北美電競的困境格外鮮明。當中韓電競靠著濃厚的文化認同、明星粉絲文化和龐大的贊助池子不斷放大，北美電競卻因廣告模式不穩定而接連折損重量級組織。\n\n對台灣觀眾而言，這場東亞電競霸主易位具有特殊的親近感：台灣選手長期活躍於LPL和LCK兩大賽區，BLG陣中亦有台灣粉絲熟悉的面孔。LPL的勝利在台灣PTT電競板引發廣泛討論，不少人指出這場「對抗」在某種程度上也是「台灣選手」之間的較量。",
+      "comparison_table": {
+        "dimensions": ["政府／機構立場", "媒體焦點", "粉絲文化反應", "電競生態長期影響"],
+        "rows": [
+          {
+            "region": "中國（LPL）",
+            "values": [
+              "官媒積極報導，定位為文化軟實力展現；騰訊、B站等平台主導商業化敘事",
+              "聚焦Knight MVP「史上首位中國中路冠軍」、BLG「打穿全體LCK」的歷史意義",
+              "微博、B站慶祝潮，「LPL永遠的神」熱搜；社群警示「冷靜不要驕傲」",
+              "鞏固LPL全球第一賽區地位，推升中國選手身價，可能帶動更多LPL轉播合約"
+            ]
+          },
+          {
+            "region": "南韓（LCK）",
+            "values": [
+              "無官方聲明；Riot Korea向BLG致賀；韓國電競協會（KeSPA）面臨反思訓練體系的壓力",
+              "聚焦失敗分析——選手技術下滑？訓練效率問題？Zeus拒絕重簽是隊伍重組訊號？",
+              "Naver、DCinside出現大量反省文；「時代結束了」vs「BLG有前韓援，算不上完全的中國勝利」論戰",
+              "LCK選手轉會市場恐大洗牌；Gen.G、T1必須重組主力；韓國教練出走LPL已成趨勢"
+            ]
+          },
+          {
+            "region": "西方電競（歐洲/北美）",
+            "values": [
+              "無官方立場；EG剛關閉，北美電競制度性危機與中韓機構化差距更顯著",
+              "歐美媒體以「東方電競崛起」角度報導，聚焦LPL vs LCK的中韓地緣文化競爭",
+              "Reddit r/leagueoflegends認為「BLG實至名歸」，對LCK的衰落感到驚訝，對Knight個人魅力頗為推崇",
+              "西方電競在MOBA品項徹底邊緣化，EG倒閉加速這一認知；焦點轉移至FPS和Battle Royale"
+            ]
+          }
+        ]
+      },
+      "why_read": "這場比賽不只是運動成績，而是東亞文化競爭的縮影——BLG奪冠和EG關閉放在同一週閱讀，可以看到電競產業在不同文化土壤中截然不同的命運走向。",
+      "topic_tags": ["軟性生活議題"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Sheepesports",
+          "media_country": "國際（電競媒體）",
+          "source_tier": "B",
+          "source_tier_note": "電競垂直媒體",
+          "url": "https://www.sheepesports.com/en/articles/bilibili-gaming-becomes-2026-lol-world-champions-after-slaying-all-four-lck-teams/en",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "中國（LPL）"
+        },
+        {
+          "media_name": "Dot Esports",
+          "media_country": "美國",
+          "source_tier": "B",
+          "source_tier_note": "電競垂直媒體",
+          "url": "https://dotesports.com/?p=1639710",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "南韓（LCK）"
+        },
+        {
+          "media_name": "Hotspawn",
+          "media_country": "國際（電競媒體）",
+          "source_tier": "B",
+          "url": "https://www.hotspawn.com/league-of-legends/news/is-2026-china-year-in-league-of-legends",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "西方電競（歐洲/北美）"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "comparison",
+      "title_zh": "Worlds 2026 BLG制霸：LPL vs LCK，電競話語權的東亞文化戰（比較延伸一）",
+      "comparison_topic": "電競軟實力：LPL與LCK的霸主爭奪",
+      "regions": ["中國（LPL）", "南韓（LCK）", "西方電競（歐洲/北美）"],
+      "narrative": "（此為比較單元的內容延伸，詳見 item-007 的完整敘事與表格。）",
+      "comparison_table": {
+        "dimensions": ["電競作為國家軟實力的程度"],
+        "rows": [
+          {
+            "region": "中國（LPL）",
+            "values": ["高度：官媒採用，企業贊助與民族認同高度結合"]
+          },
+          {
+            "region": "南韓（LCK）",
+            "values": ["中度：政府不直接介入，但「文化輸出」論述早已存在"]
+          },
+          {
+            "region": "西方電競（歐洲/北美）",
+            "values": ["低度：商業驅動但缺乏文化認同基礎，組織存活率低"]
+          }
+        ]
+      },
+      "why_read": "電競作為軟實力的程度差異，折射出東西方對「文化競爭」的不同理解與動員能力。",
+      "topic_tags": ["軟性生活議題"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Insider Gaming",
+          "media_country": "美國",
+          "source_tier": "B",
+          "url": "https://insider-gaming.com/knight-crowned-lol-worlds-2026-mvp-after-blg-victory/",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "中國（LPL）"
+        },
+        {
+          "media_name": "Stevivor",
+          "media_country": "澳洲",
+          "source_tier": "B",
+          "url": "https://stevivor.com/news/evil-geniuses-will-shut-down-on-november-2-after-more-than-25-years-in-esports/",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "西方電競（歐洲/北美）"
+        },
+        {
+          "media_name": "GosuGamers",
+          "media_country": "美國",
+          "source_tier": "B",
+          "url": "https://www.gosugamers.net/valorant/news/79386-evil-geniuses-pull-the-plug-after-over-25-years-in-esports-cite-sponsorship-and-cost-issues",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "西方電競（歐洲/北美）"
+        }
+      ]
+    },
+
+    {
+      "id": "item-009",
+      "type": "comparison",
+      "title_zh": "Worlds 2026 BLG制霸：LPL vs LCK，電競話語權的東亞文化戰（比較延伸二）",
+      "comparison_topic": "電競軟實力：LPL與LCK的霸主爭奪",
+      "regions": ["中國（LPL）", "南韓（LCK）", "西方電競（歐洲/北美）"],
+      "narrative": "（此為比較單元的內容延伸，詳見 item-007 的完整敘事與表格。）",
+      "comparison_table": {
+        "dimensions": ["本屆Worlds代表性結果"],
+        "rows": [
+          {
+            "region": "中國（LPL）",
+            "values": ["BLG奪冠，同時贏得First Stand和Worlds，完成「雙冠」；整體LPL表現：iG、BLG均打入四強"]
+          },
+          {
+            "region": "南韓（LCK）",
+            "values": ["全部四隊均遭淘汰，Gen.G決賽以0:3落敗；Zeus、Faker等明星選手面臨合約動盪"]
+          },
+          {
+            "region": "西方電競（歐洲/北美）",
+            "values": ["北美EG正式關閉；歐洲G2雖贏LEC，但在Worlds舞台影響力極有限"]
+          }
+        ]
+      },
+      "why_read": "具體賽事數據是跨文化比較的錨點：用成績說話，讓不熟悉電競的讀者也能直觀理解LPL/LCK的結構落差。",
+      "topic_tags": ["軟性生活議題"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Esports.net",
+          "media_country": "英國",
+          "source_tier": "A",
+          "url": "https://www.esports.net/news/gaming/bilibili-gaming-beat-gen-g-3-1-to-win-worlds-2026-after-knocking-out-all-four-lck-teams/",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "中國（LPL）"
+        },
+        {
+          "media_name": "Dot Esports",
+          "media_country": "美國",
+          "source_tier": "B",
+          "url": "https://dotesports.com/league-of-legends/news/al-beat-blg-lpl-2026",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "南韓（LCK）"
+        },
+        {
+          "media_name": "Wikipedia - 2026 LoL World Championship Final",
+          "media_country": "國際",
+          "source_tier": "B",
+          "url": "https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship_final",
+          "original_language": "en",
+          "fetched_at": "2026-11-16T08:00:00+08:00",
+          "supports_region": "西方電競（歐洲/北美）"
+        }
+      ]
+    },
+
+    {
+      "id": "item-010",
+      "type": "wildcard",
+      "title_zh": "美國擬將盧安達從AGOA貿易優惠名單除名，剛果M23代理戰延燒外交場",
+      "title_original": "US to Cut South Africa and Rwanda from AGOA Trade Deal",
+      "one_liner": "美國以支持剛果叛軍M23為由，擬撤銷盧安達AGOA貿易優惠地位",
+      "summary": "美國政府宣布擬將盧安達從《非洲成長與機會法》（AGOA）的受惠國名單中移除，直接原因是美方指控盧安達政府支持剛果民主共和國（DRC）東部的M23反政府武裝。M23長期在剛果東部活動，被指獲得盧安達軍事物資支援。在此之前，美國財政部已於2026年3月制裁了盧安達國防軍（Rwanda Defence Force）相關成員，並追查盧安達連結的礦物走私網絡，指其為M23籌資。AGOA是美國給予非洲各國免稅進口美國市場的重要貿易優惠，失去資格對盧安達出口業將造成衝擊。南非也同樣在被除名的討論名單上。值得注意的是，盧安達近年積極推動「非洲矽谷」形象，吸引大量外資，此次制裁系列動作令其科技新創生態面臨形象風險。",
+      "why_read": "盧安達的「開發中國家科技轉型典範」敘事，與剛果地緣衝突的黑暗面並存；本則資訊在亞洲華語媒體報導極少，是了解非洲地緣衝突、美非關係及礦物資源地緣政治的罕見視角——而這些礦物正是台灣半導體業的上游原料。",
+      "topic_tags": ["民主與威權治理", "經濟與貿易"],
+      "region": "盧安達",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "AllAfrica",
+        "media_country": "南非（非洲媒體聚合平台）",
+        "source_tier": "B",
+        "source_tier_note": "非洲最大新聞聚合平台，本則由外部媒體報導，缺乏盧安達當地一手來源",
+        "url": "https://allafrica.com/stories/202611030156.html",
+        "original_language": "en",
+        "fetched_at": "2026-11-16T08:00:00+08:00"
+      }
+    }
+  ]
+}
