@@ -1,0 +1,251 @@
+{
+  "report_id": "2026-11-23-0800",
+  "generated_at": "2026-11-23T08:00:00+08:00",
+  "version": "1.0",
+
+  "editorial": {
+    "title": "G-Star AI遊戲革命、深圳APEC東北亞三角重組、非洲選舉與貿易同步震動：十一月第四週全球脈衝",
+    "summary": "本期從釜山遊戲展G-Star到深圳APEC峰會、從南非約翰尼斯堡選票到馬尼拉印度-東協峰會，橫跨五大洲八地區，共收錄十則資訊。最值得關注的三條線索：一、深圳APEC上演東北亞外交三角重組——韓日關係升至「歷史最高點」、韓中習李會破冰，日中卻因台灣議題深度凍結，各方都在焦慮「第二次雅爾達」可能把自己晾在外面；二、中國秋冬流感季提前且猛烈，H3N2、H1N1、B型三管齊下，同期H9N2禽流感人傳人持續增加，5至14歲兒童陽性率最高；三、南非ANC市政選舉跌至30.76%歷史新低，同期美國宣布自2027年起取消盧安達AGOA免稅資格，非洲的政治與貿易格局正在同步鬆動。本期冷門地區由盧安達出列，補充一則往往被大媒體略過的東非視角。",
+    "regions_covered": ["南韓", "中國", "歐盟", "南非", "印度", "東南亞", "日本", "盧安達"],
+    "topics_covered": ["軟性生活議題", "科學與健康", "AI與科技", "民主與威权治理", "經濟與貿易", "地緣政治"],
+    "highlights": [
+      "G-Star 2026：AI敘事融入遊戲創作，南韓遊戲展引領跨媒體潮流",
+      "深圳APEC三角外交：韓日升溫、韓中破冰、日中持續凍結",
+      "中國流感三管齊下：H3N2＋H1N1＋B型同步拉升，兒童陽性率最高"
+    ],
+    "stats": {
+      "total_items": 10,
+      "news_items": 6,
+      "comparison_items": 3,
+      "wildcard_items": 1
+    }
+  },
+
+  "items": [
+    {
+      "id": "item-001",
+      "type": "news",
+      "title_zh": "G-Star 2026：AI敘事進遊戲業，南韓遊戲展搶攻跨媒體未來",
+      "title_original": "G-Star 2026 puts AI storytelling center stage",
+      "one_liner": "釜山G-Star年度遊戲展以AI敘事為核心，遊戲人與影視導演同台對話。",
+      "summary": "南韓年度遊戲大展G-Star 2026於11月19至22日在釜山BEXCO舉行，今年最大亮點是AI生成敘事技術正式進入遊戲開發主流議程。大會論壇G-CON首度邀請電影導演與漫畫（webtoon）作者同台，與遊戲開發者討論「AI時代的對白創作」，呈現遊戲、影視、出版產業的深度融合趨勢。韓國文化內容振興院（KOCCA）同步舉辦第六屆遊戲文化節，設電競賽事與互動體驗區，以青少年遊戲文化教育為主軸。今年海外參展商規模為歷年最多，主辦方表示G-Star正從「韓國遊戲展」轉型為「亞洲最重要的全球遊戲產業平台」。在BLG奪下今年英雄聯盟世界賽冠軍後，韓國遊戲產業正努力將「玩家文化」轉化為能夠輸出全球的內容資產，G-Star提供了觀察這個轉型的最佳窗口。",
+      "why_read": "AI敘事技術融入遊戲的速度比多數人預期快，G-Star的跨媒體論壇是第一個把遊戲開發者和電影導演拉到同一個舞台對話的主流產業場合，代表遊戲正在成為下一個主要創作平台，不只是娛樂商品。",
+      "topic_tags": ["軟性生活議題"],
+      "region": "南韓",
+      "importance": "major",
+      "source": {
+        "media_name": "Korea JoongAng Daily",
+        "media_country": "南韓",
+        "source_tier": "B",
+        "source_tier_note": "南韓主流英語媒體",
+        "url": "https://www.koreajoongangdaily.com/business/gstar-2026-puts-ai-storytelling-center-stage/12823574",
+        "original_language": "en",
+        "fetched_at": "2026-11-23T07:00:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-002",
+      "type": "news",
+      "title_zh": "中國秋冬流感提前猛烈爆發：H3N2、H1N1、B型三波並行，H9N2禽流感人傳人持續",
+      "title_original": "Flu activity rises in China as multiple strains start circulating",
+      "one_liner": "中國流感季比往年早且強，三種亞型同時流行，5至14歲兒童陽性率最高。",
+      "summary": "中國疾管中心報告顯示，2026年秋冬流感季在11月中旬進入明顯上升期，三種流感亞型（H3N2、H1N1、B型）同時在全國流行，北方省份由低位快速攀升，南方省份已達中等流行強度。11月9至15日當週全國流感樣病例占門急診比例為4.5%，雖低於2023及2025年同期，但高於2024年同期，且上升斜率明顯。5至14歲兒童為高風險族群，陽性率最高。同期，中國還通報數起H9N2禽流感人類感染案例，患者多為有禽鳥接觸史的兒童，官方表示這是不同問題，與季節性流感分開追蹤。China Daily引述官員呼籲：「現在是接種流感疫苗的黃金期。」台灣疾管署同步注意到東北季風帶來的氣溫變化可能提升呼吸道感染風險。",
+      "why_read": "每年秋冬中國流感動態都值得亞洲鄰近地區關注，今年三型並行且H9N2人類感染增加的組合使公衛機構比往年更早升高警戒——但目前尚未有「新型病原」通報，不必過度恐慌，但值得持續追蹤。",
+      "topic_tags": ["科學與健康"],
+      "region": "中國",
+      "importance": "major",
+      "source": {
+        "media_name": "China Daily",
+        "media_country": "中國",
+        "source_tier": "B",
+        "source_tier_note": "中國官方英語媒體",
+        "url": "https://www.chinadaily.com.cn/a/202611/13/WS6af700c7e4b03ebf8519c4e6.html",
+        "original_language": "en",
+        "fetched_at": "2026-11-23T07:05:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-003",
+      "type": "news",
+      "title_zh": "歐盟AI法首份協調技術標準生效，AI代理（Agentic AI）監管成下一個戰場",
+      "title_original": "EU AI Act's First Harmonized Standard Published as EU AI Office Takes First Enforcement Actions",
+      "one_liner": "歐盟AI法第一份協調技術標準正式生效，英國ICO同步研究如何監管自主AI代理。",
+      "summary": "2026年10月14日，歐盟在《官方公報》正式發布AI法第一份協調技術標準（Harmonized Standard），標準編號EN 18286:2026，涵蓋AI系統品質管理要求，是從法律框架到具體技術合規要求的關鍵一步，歐盟AI辦公室同步展開首批執法調查。另一方面，英國資訊委員辦公室（ICO）正針對「Agentic AI」（能自主規劃行動的AI代理）發出諮詢徵集，評估現行監管框架能否覆蓋這類系統；英國國家網路安全中心（NCSC）也發布首份Agentic AI網路安全建議。美國方面，仍無聯邦層級AI立法，加州10月擴大了AI透明度規定。三個主要法域對AI的監管路徑持續分歧，全球企業合規圈已出現「AI監管三角」的框架討論。",
+      "why_read": "技術標準是AI法從「規定」變成「你真的要做到什麼」的關鍵環節，第一份標準上路意味著企業現在必須認真面對合規細節；英國對Agentic AI的超前研究則預示下一波監管重點，對正在開發AI代理產品的台灣科技業來說值得關注。",
+      "topic_tags": ["AI與科技"],
+      "region": "歐盟",
+      "importance": "major",
+      "source": {
+        "media_name": "Pearl Cohen Law",
+        "media_country": "美國",
+        "source_tier": "B",
+        "source_tier_note": "科技法律專業媒體",
+        "url": "https://www.pearlcohen.com/eu-ai-acts-first-harmonized-standard-published-as-eu-ai-office-takes-first-enforcement-actions/",
+        "original_language": "en",
+        "fetched_at": "2026-11-23T07:10:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-004",
+      "type": "news",
+      "title_zh": "南非ANC地方選舉創史上最低得票，逾半數議會懸空，MK黨首戰告捷",
+      "title_original": "South Africa's ANC suffers setback in local elections",
+      "one_liner": "ANC得票率跌至30.76%歷史新低，逾半數地方議會無絕對多數，聯合執政談判展開。",
+      "summary": "南非11月4日舉行地方政府選舉，最終結果於11月8日公布，選舉委員會（IEC）宣告本次選舉自由公平，全國投票率52%。結果顯示，執政黨非洲民族議會（ANC）得票率跌至30.76%，較2021年地方選舉大幅下滑逾14個百分點，創下1994年後歷史新低。民主黨（DA）以24.64%居次，前總統祖馬所屬的MK黨以9.76%強勢登場，是該黨首次參加地方選舉。全國213個地方議會中，逾半無絕對多數，各黨進入複雜的聯合執政談判。開普敦是DA唯一拿下絕對多數的大型都市，ANC在所有大都市均未過半。MK黨要求對KwaZulu-Natal省首府德本（eThekwini）的結果重新審查，聲稱選舉系統出現異常。",
+      "why_read": "ANC執政地位的長期侵蝕已進入新的階段：30%得票率意味著南非未來的地方治理將高度依賴政黨協商，非洲最重要的民主國家正在進入碎片化選舉政治時代，這一走向對整個撒哈拉以南非洲的民主示範效應影響深遠。",
+      "topic_tags": ["民主與威权治理"],
+      "region": "南非",
+      "importance": "major",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections",
+        "original_language": "en",
+        "fetched_at": "2026-11-23T07:15:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-005",
+      "type": "news",
+      "title_zh": "印度-東協馬尼拉峰會：數位工作計畫出爐，莫迪提出免費電子簽為11國公民開路",
+      "title_original": "23rd ASEAN-India Summit and 21st East Asia Summit | 18 Nov 2026",
+      "one_liner": "印度在馬尼拉ASEAN峰會推出數位合作工作計畫，對東南亞11國免費電子簽。",
+      "summary": "第23屆印度-東協峰會於11月17至18日在馬尼拉菲律賓國際會議中心舉行。莫迪政府推出《ASEAN-India數位工作計畫2026》，涵蓋AI治理、網路安全、電信解決方案與監管合作四大領域，作為推進數位經濟框架協議（DEFA）的具體步驟；外界評估DEFA談判可能延至2027年才能完成。峰會成功確立AI安全網絡（ASEAN AI Safety Network）及生成式AI治理指引等具體機制。莫迪另宣布對東協11國公民提供免費旅遊電子簽、推動ASEAN-India太空黑客松，以及聯合網路鑑識培訓計畫。印度同期透過馬可仕政府傳達強化南海穩定立場，呼籲「競爭不代替合作」。印度-東協雙邊貿易已達1283.8億美元，但印方對超過514億美元的貿易逆差仍高度關注，貨物協議審查已列入優先議程。",
+      "why_read": "印度數位基礎設施輸出戰略正在東南亞快速落地，DEFA是中國數位絲路的直接競爭者——分析人士指出，印度的數位合作框架相比中國更強調主權保護，這個差異正在對東南亞國家形成不同的吸引力。",
+      "topic_tags": ["經濟與貿易"],
+      "region": "印度",
+      "importance": "major",
+      "source": {
+        "media_name": "IBEF",
+        "media_country": "印度",
+        "source_tier": "B",
+        "source_tier_note": "印度商業與政策媒體",
+        "url": "https://www.ibef.org/news/prime-minister-mr-narendra-modi-participates-in-the-23rd-india-asean-summit-in-manila",
+        "original_language": "en",
+        "fetched_at": "2026-11-23T07:20:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-006",
+      "type": "news",
+      "title_zh": "韓日關係「史上最高點」：馬尼拉短暫會晤背後，東北亞外交格局悄悄轉動",
+      "title_original": "Korea-Japan relations at 'all-time high,' Lee says",
+      "one_liner": "李在明與高市早苗在馬尼拉ASEAN場邊第五度會面，宣示韓日關係進入新高峰。",
+      "summary": "南韓總統李在明與日本首相高市早苗11月17日在馬尼拉ASEAN峰會場邊舉行第五次首腦會談（含G20非正式碰面計）。兩位領袖強調韓日民間好感度創歷史新高，確認李在明明年一月將訪問日本。然而，媒體報導顯示這次會面帶著緊張脈絡：高市早苗去年11月關於「台灣有事就等同日本有事」的言論曾使韓日關係急凍超過一年，此次重啟是特意為APEC深圳峰會背景下的「戰略溝通強化」而設計。兩國同時表達對「第二次雅爾達」（意指美中俄三方峰會可能繞開盟友）的高度焦慮，並強調三邊安全合作（日韓美）不可動搖。韓國進步媒體《京鄉新聞》報導，兩國的和解路徑建立在刻意迴避歷史爭議的「功能性互惠」基礎上，而非真正解決問題。",
+      "why_read": "韓日關係正常化的速度比多數外界預期快，但與此同時，韓日兩國都在焦慮自己被美中峰會晾在外面——「史上最高點」的背後，折射的是東北亞最深層的安全焦慮，對同處這個三角地帶的台灣而言，不可不知這層脈絡。",
+      "topic_tags": ["民主與威权治理"],
+      "region": "南韓",
+      "importance": "major",
+      "source": {
+        "media_name": "Korea Times",
+        "media_country": "南韓",
+        "source_tier": "B",
+        "source_tier_note": "南韓英語主流媒體",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261117/korea-japan-relations-at-all-time-high-lee-says",
+        "original_language": "en",
+        "fetched_at": "2026-11-23T07:25:00+08:00"
+      }
+    },
+
+    {
+      "id": "item-007",
+      "type": "comparison",
+      "title_zh": "深圳APEC的東北亞三角：韓日升溫、韓中破冰、日中凍結，各方都在焦慮「第二次雅爾達」",
+      "comparison_topic": "APEC深圳峰會中的東北亞外交重組",
+      "regions": ["日本", "南韓", "中國"],
+      "narrative": "2026年11月中旬的APEC深圳峰會，以一場三角外交博弈為主軸：南韓在韓日、韓中兩條軸線上同步破冰，日本卻在日中軸線上遭遇冷場，三方共同懸念是川普主導的美中俄三方峰會是否會形成「第二次雅爾達」——把日韓晾在議題之外。\n\n南韓視角：李在明政府把深圳APEC視為2026年最重要的外交窗口。在馬尼拉已與高市早苗完成第五次峰會後，李在明抵達深圳受到中方隆重接待，與習近平的李-習會是韓中十個月來首次元首會面，習近平主動提及朝鮮半島局勢最新發展。首爾媒體把這次描述為「多邊外交大豐收」，但進步媒體指出，韓國在同時討好日美與中俄之間走的是風險極高的鋼索。\n\n日本視角：相比李在明抵深受舞者迎接，高市早苗悄然低調入境，中方僅安排已退任的前外交官接待——這個細節被日本及西方媒體廣泛解讀為北京對台灣言論的持續懲罰。日本最大焦慮是「第二次雅爾達」：美中俄峰會若在日本缺席下達成任何重大安排，日本在東北亞秩序中的話語權將受衝擊。東亞論壇（East Asia Forum）指出，日中韓三邊峰會機制目前「實質停擺」，十次峰會遲遲未召開。\n\n中國視角：中國把深圳APEC安排為展示主場外交的舞台，對韓國熱情歡迎、對日本冷漠待遇的不對稱外交姿態，傳遞了北京對「台灣問題紅線」的一貫立場。《南華早報》報導，中韓同意「深化關係」，中方也希望首爾在朝鮮問題上扮演斡旋角色，以換取北京對韓國外交利益的配合。",
+      "comparison_table": {
+        "dimensions": ["對本次APEC的核心訴求", "媒體論述焦點", "對「第二次雅爾達」的態度", "與台灣的潛在關聯"],
+        "rows": [
+          {
+            "region": "日本",
+            "values": [
+              "防止被美中俄峰會架空；維護日韓美三邊安全框架",
+              "高市低調入深圳遭冷待；媒體憂「台灣問題使日中關係短期無解」",
+              "高度焦慮，擔心被排除在新秩序談判之外",
+              "高市去年的台灣言論直接造成日中冰凍，台灣問題仍是日本外交最大風險因子"
+            ]
+          },
+          {
+            "region": "南韓",
+            "values": [
+              "同時鞏固韓日美安全鏈、破冰韓中關係；在朝鮮議題上爭取中方配合",
+              "李在明「外交大豐收」vs. 進步媒體批評「高風險鋼索外交」",
+              "承認擔憂，但認為韓國靈活外交可成為連結各方的「橋梁角色」",
+              "南韓在台灣議題上刻意保持模糊，以維持對中關係最大彈性"
+            ]
+          },
+          {
+            "region": "中國",
+            "values": [
+              "展示主場外交；用不對稱外交待遇傳遞台灣紅線信號；推進美中俄三方溝通",
+              "《人民日報》強調習李會「成果豐碩」；幾乎不報導日中冷場細節",
+              "主動推進美中俄峰會，深圳主場是中方展示議題設定能力的機會",
+              "對日冷待直接聯結台灣問題；中方媒體把這表述為「對等尊重的原則立場」"
+            ]
+          }
+        ]
+      },
+      "why_read": "台灣長期以APEC「中華台北」身份參與，這一次在三方角力的背景下，台灣缺席的位置反而更顯眼——日中關係的台灣變數和韓國的台灣模糊策略，都是台灣讀者需要理解的東北亞大棋盤。理解這個三角，就能理解台灣周邊的戰略環境正在如何重組。",
+      "topic_tags": ["民主與威权治理", "地緣政治"],
+      "importance": "major",
+      "sources": [
+        {
+          "media_name": "Korea JoongAng Daily",
+          "media_country": "南韓",
+          "source_tier": "B",
+          "source_tier_note": "南韓主流媒體",
+          "url": "https://www.koreajoongangdaily.com/korea/lee-takaichi-stress-security-ties-as-concerns-mount-over-a-second-yalta-innbspshenzhen/12976930",
+          "original_language": "en",
+          "fetched_at": "2026-11-23T07:30:00+08:00",
+          "supports_region": "南韓"
+        },
+        {
+          "media_name": "South China Morning Post",
+          "media_country": "香港",
+          "source_tier": "A",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374921/takaichi-makes-low-key-arrival-shenzhen-while-lee-greeted-dancers",
+          "original_language": "en",
+          "fetched_at": "2026-11-23T07:31:00+08:00",
+          "supports_region": "日本"
+        },
+        {
+          "media_name": "South China Morning Post",
+          "media_country": "香港",
+          "source_tier": "A",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks",
+          "original_language": "en",
+          "fetched_at": "2026-11-23T07:32:00+08:00",
+          "supports_region": "中國"
+        }
+      ]
+    },
+
+    {
+      "id": "item-008",
+      "type": "wildcard",
+      "title_zh": "盧安達悄悄失去美國AGOA免稅資格：非洲貿易格局再受衝擊",
+      "title_original": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "one_liner": "美國宣布自2027年起取消盧安達AGOA免稅資格，咖啡茶葉礦產出口受影響。",
+      "summary": "美國貿易代表格里爾（Jamieson Greer）於11月2日宣布，將自2027年1月1日起終止盧安達與南非的非洲增長與機會法案（AGOA）免稅資格，理由是人權記錄、腐敗問題及危害美國利益。盧安達早在2018年已因拒絕進口美國二手衣物而失去成衣出口優惠，此次決定則將其剩餘出口品項（包括咖啡、茶葉、農產品與礦產）一併取消優惠。從數字看衝擊有限：2025年美國從盧安達進口總額僅4,330萬美元，佔盧安達商品出口約2%。然而象徵意義更大：AGOA失格使盧安達在中美兩陣營之間的戰略選擇更加複雜——近年卡加梅政府吸引了大量中國基礎建設投資，同時被歐盟列為潛在移民遣返目的地，現在又失去美國的貿易優惠地位。盧安達政府迄今未公開回應。",
+      "why_read": "盧安達是非洲「發展型威權」模式最常被引用的案例，它同時向東（中）、向西（美歐）下注的戰略正在面對愈來愈大的壓力——這則故事揭示的是全球貿易政治化對小國的結構性衝擊，而非單純的制裁邏輯，台灣作為另一個在大國之間尋求平衡的中型體，有理由關注這個模式的命運。",
+      "topic_tags": ["經濟與貿易", "民主與威权治理"],
+      "region": "盧安達",
+      "importance": "wildcard",
+      "source": {
+        "media_name": "Al Jazeera",
+        "media_country": "卡達",
+        "source_tier": "A",
+        "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access",
+        "original_language": "en",
+        "fetched_at": "2026-11-23T07:35:00+08:00"
+      }
+    }
+  ]
+}
